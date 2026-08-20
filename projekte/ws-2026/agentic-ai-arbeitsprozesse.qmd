@@ -46,11 +46,6 @@ Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen n
 - Prüfung von Quellenbezug, Konsistenz und Berücksichtigung der Car Policy
 - Einfacher Prozess zum Einspielen neuer oder aktualisierter Preislisten
 
-::: {.callout-note appearance="simple"}
-## Klare Abgrenzung
-Der Prototyp ist kein produktiver Fahrzeugkonfigurator und gibt keine verbindliche Garantie für Baubarkeit oder Bestellbarkeit. Ziel ist neben einem funktionsfähigen Prototyp vor allem eine belastbare Entscheidungsgrundlage für eine mögliche Weiterentwicklung.
-:::
-
 ## Ablauf im Semester
 
 - **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.
