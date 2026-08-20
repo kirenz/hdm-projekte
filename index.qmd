@@ -29,10 +29,6 @@ toc: false
 </div>
 ```
 
-## Wie läuft die Bewerbung ab?
-
-Die Projekte werden zu Semesterbeginn im entsprechenden Moodle-Kurs vorgestellt. Dort finden Sie auch die Details zur Bewerbung und zur Platzvergabe. Diese Seite dient als ausführliche Ergänzung: Für jedes Projekt beschreibe ich, worum es geht, welche Technologien und Frameworks zum Einsatz kommen (mit Links zum Einlesen) und was im Semesterverlauf auf Sie zukommt.
-
 ## Was erwartet Sie in einem Projekt?
 
 - Sie arbeiten in kleinen Teams an einer realistischen Aufgabenstellung, oft mit einem Unternehmenspartner.
