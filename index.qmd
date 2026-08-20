@@ -13,14 +13,14 @@ toc: false
 <div class="eyebrow">Aktuell · Wintersemester 2026/27</div>
 <div class="card-grid">
   <div class="projekt-card">
-    <div class="index-line"><span class="marker">WS 26/27</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>
+    <div class="index-line"><span class="marker">WS 26/27</span> · Interdisziplinär · 5 SWS</div>
     <h3><a href="projekte/ws-2026/agentic-ai-arbeitsprozesse.html">Agentic AI: Optimierung von Arbeitsprozessen</a></h3>
     <div class="partner">mit Mercedes-Benz</div>
     <p class="desc">Preislisten- und Konfigurationsagent: Fahrzeug-Preislisten und Car Policy automatisiert einlesen, abfragbar machen und nachvollziehbare Ausstattungsvorschläge entwickeln.</p>
     <div class="chips"><span class="chip">Agentic AI</span><span class="chip">n8n</span><span class="chip">LangChain</span><span class="chip">RAG</span></div>
   </div>
   <div class="projekt-card">
-    <div class="index-line"><span class="marker">WS 26/27</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>
+    <div class="index-line"><span class="marker">WS 26/27</span> · Interdisziplinär · 5 SWS</div>
     <h3><a href="projekte/ws-2026/agentic-ai-growth-marketing.html">Agentic AI für Growth Marketing</a></h3>
     <div class="partner">mit SiMa.ai</div>
     <p class="desc">Agenten für Leadgenerierung, Content, Lead Nurturing und Performance-Tracking, eingebunden in echte Marketing-, Vertriebs- und CRM-Prozesse.</p>
