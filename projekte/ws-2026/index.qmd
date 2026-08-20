@@ -3,6 +3,11 @@ title: "Wintersemester 2026/27"
 toc: false
 ---
 
-Die Projektangebote für das Wintersemester 2026/27 werden vor Semesterbeginn hier veröffentlicht.
+Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide zum Themenfeld Agentic AI und jeweils mit einem Unternehmenspartner:
 
-Geplant sind wie üblich zwei bis drei Projekte. Einen Eindruck von typischen Themen und Formaten geben die [Projekte vergangener Semester](../archiv/index.qmd).
+| Projekt | Partner | Schwerpunkt |
+|---|---|---|
+| [Agentic AI: Optimierung von Arbeitsprozessen](agentic-ai-arbeitsprozesse.qmd) | Mercedes-Benz | Wissenszugang, operative Unterstützung, Vertriebsprozesse |
+| [Agentic AI für Growth Marketing](agentic-ai-growth-marketing.qmd) | SiMa.ai | Leadgenerierung, Content, CRM-Automatisierung |
+
+Beide Projekte starten mit vier Blocktagen vor Beginn der Vorlesungszeit und laufen dann mit wöchentlichen Terminen. Details zu Inhalten, Technologien und Voraussetzungen stehen auf den Projektseiten.
