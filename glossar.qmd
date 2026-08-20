@@ -9,7 +9,7 @@ Die wichtigsten Begriffe, die auf diesen Seiten vorkommen, kurz erklärt.
 : Ein KI-System, das nicht nur antwortet, sondern selbstständig Arbeitsschritte ausführt: Es kann Werkzeuge aufrufen, Daten nachschlagen, Zwischenergebnisse bewerten und mehrere Schritte hintereinander planen, um eine Aufgabe zu erledigen.
 
 **[Agentic AI]{#agentic-ai}**
-: Sammelbegriff für Anwendungen, die auf solchen Agenten aufbauen. Der Unterschied zum klassischen Chatbot: Die KI wartet nicht auf die nächste Frage, sondern arbeitet einen Auftrag eigenständig ab.
+: KI, die Aufgaben eigenständig plant und ausführt, statt nur auf einzelne Fragen zu antworten: Der Mensch gibt das Ziel vor, das System zerlegt den Auftrag in Schritte, nutzt Werkzeuge und Datenquellen und arbeitet bis zum Ergebnis.
 
 **[API (Programmierschnittstelle)]{#api}**
 : Der Weg, über den Programme miteinander sprechen. Über die API von OpenAI oder Anthropic kann eine eigene Anwendung ein Sprachmodell nutzen, ohne dass ein Mensch im Chat sitzt.
