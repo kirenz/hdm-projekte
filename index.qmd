@@ -6,7 +6,7 @@ toc: false
 ```{=html}
 <div class="hero">
   <div class="eyebrow">Hochschule der Medien Stuttgart · Prof. Dr. Jan Kirenz</div>
-  <h1>Praxisprojekte zu KI und Data Science</h1>
+  <h1>Projekte</h1>
   <p class="hero-lead">Sie analysieren eine reale Aufgabenstellung, bauen funktionsfähige Prototypen und präsentieren Ihre Ergebnisse, häufig in Zusammenarbeit mit einem Unternehmenspartner.</p>
 </div>
 
