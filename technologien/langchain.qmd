@@ -6,6 +6,8 @@ title: "LangChain"
 
 LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen rund um große Sprachmodelle bauen lassen. Es liefert die Bausteine, die fast jede LLM-Anwendung braucht: Dokumente einlesen und zerlegen, Inhalte durchsuchbar machen (Retrieval bzw. RAG), Modelle verschiedener Anbieter einheitlich ansprechen, Werkzeuge an ein Modell anbinden und Agenten steuern.
 
+![](images/langchain-rag.webp){.infografik fig-alt="Infografik: RAG-Pipeline mit LangChain in fünf Schritten. Eigene Inhalte, Zerlegen und Indexieren, passende Stellen finden, Antwort formulieren, Antwort mit Quellen."}
+
 ## Warum es sich lohnt, das zu lernen
 
 - **Es ist das verbreitetste Framework seiner Art.** Wer beruflich LLM-Anwendungen entwickelt, begegnet LangChain (oder seinem Agenten-Ableger LangGraph) mit hoher Wahrscheinlichkeit, in Start-ups genauso wie in Konzern-Projekten.

@@ -6,6 +6,8 @@ title: "n8n"
 
 n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläufe visuell aus Bausteinen zusammen: ein Trigger startet den Workflow (z.B. eine neue E-Mail, ein Formular, ein Zeitplan), danach folgen Schritte wie Daten abrufen, umwandeln, in Systeme schreiben oder ein LLM aufrufen. Hunderte Dienste sind direkt anbindbar, von Datenbanken über CRM-Systeme bis zu den APIs von OpenAI, Anthropic und Google. Wo die Bausteine nicht reichen, ergänzen Sie eigenen Code.
 
+![](images/n8n-workflow.webp){.infografik fig-alt="Infografik: Ein n8n-Workflow aus vier Bausteinen. Trigger 'Neue Anfrage', KI-Schritt 'Inhalte extrahieren', Aktion 'CRM aktualisieren', Aktion 'Antwort senden'. Einmal gebaut, läuft der Ablauf automatisch."}
+
 ## Warum es sich lohnt, das zu lernen
 
 - **Automatisierung ist in fast jedem Unternehmen ein Dauerthema.** Wiederkehrende Abläufe (Daten übertragen, Berichte erstellen, Anfragen vorsortieren) sind genau das, was Fachabteilungen automatisiert haben wollen. Wer solche Workflows selbst bauen kann, ist unmittelbar nützlich, ohne ein ganzes Entwicklungsteam zu brauchen.

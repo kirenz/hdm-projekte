@@ -6,6 +6,8 @@ title: "LLM-APIs"
 
 Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) lassen sich nicht nur im Chat bedienen, sondern über Programmierschnittstellen (APIs) direkt in eigene Anwendungen einbauen. Erst darüber entstehen echte Produkte: Systeme, die Dokumente verarbeiten, strukturierte Daten liefern, Werkzeuge aufrufen und als Agenten selbstständig Arbeitsschritte ausführen.
 
+![](images/llm-api-vergleich.webp){.infografik fig-alt="Infografik: Vergleich Chat und API. Links 'KI benutzen': ein Mensch stellt Fragen im Chat. Rechts 'KI einbauen': eine Anwendung nutzt das Modell automatisch mit Dokumenten, Daten und Werkzeugen."}
+
 ## Warum es sich lohnt, das zu lernen
 
 - **Die API ist der Grundbaustein jeder KI-Anwendung.** Ob Chatbot, Dokumentenanalyse oder Agent: Am Anfang steht immer der Umgang mit Modell-APIs, Prompts, strukturierten Ausgaben und Tool-Aufrufen.
