@@ -12,6 +12,7 @@ n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläu
 
 - **Automatisierung ist in fast jedem Unternehmen ein Dauerthema.** Wiederkehrende Abläufe (Daten übertragen, Berichte erstellen, Anfragen vorsortieren) sind genau das, was Fachabteilungen automatisiert haben wollen. Wer solche Workflows selbst bauen kann, ist unmittelbar nützlich, ohne ein ganzes Entwicklungsteam zu brauchen.
 - **n8n hat sich als eines der Standardwerkzeuge für KI-Workflows etabliert**, gerade weil es sich selbst hosten lässt (relevant für Datenschutz in Unternehmen) und KI-Agenten als eigene Bausteine mitbringt.
+- **Große Unternehmen setzen es bereits ein.** Zu den Referenzkunden zählen nach Firmenangaben unter anderem Mercedes-Benz, Deutsche Telekom, Microsoft, NVIDIA und Vodafone; Vodafone beziffert die Einsparung durch n8n-basierte Security-Workflows auf über zwei Millionen Pfund. Das Open-Source-Projekt gehört mit über 200.000 GitHub-Sternen zu den populärsten weltweit.
 - **Die Konzepte sind übertragbar.** Wer mit n8n gearbeitet hat, versteht APIs, Webhooks und Datenflüsse, und damit die Grundlage jeder Systemintegration, unabhängig vom Werkzeug.
 
 ## Was Sie im Projekt damit machen

@@ -11,6 +11,7 @@ Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) l
 ## Warum es sich lohnt, das zu lernen
 
 - **Die API ist der Grundbaustein jeder KI-Anwendung.** Ob Chatbot, Dokumentenanalyse oder Agent: Am Anfang steht immer der Umgang mit Modell-APIs, Prompts, strukturierten Ausgaben und Tool-Aufrufen.
+- **Die Verbreitung in Unternehmen ist enorm.** Nach Anbieterangaben nutzen über 90 Prozent der Fortune-500-Unternehmen OpenAI-Technologie, und bei Anthropic zählen acht der zehn größten US-Unternehmen zu den Kunden. Wer diese Schnittstellen beherrscht, arbeitet mit Werkzeugen, die in der Breite der Wirtschaft angekommen sind.
 - **Hier trennt sich Anwenden von Entwickeln.** Den Unterschied macht, wer versteht, wie man Modelle zuverlässig, testbar und kosteneffizient in Prozesse einbaut, genau das üben Sie im Projekt an einem realen Fall.
 - **Anbieterwissen veraltet, Konzepte bleiben.** Prompting, Kontextfenster, strukturierte Ausgaben, Function Calling und Evaluation funktionieren bei allen Anbietern nach denselben Prinzipien.
 

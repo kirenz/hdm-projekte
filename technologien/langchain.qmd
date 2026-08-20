@@ -10,7 +10,8 @@ LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen ru
 
 ## Warum es sich lohnt, das zu lernen
 
-- **Es ist das verbreitetste Framework seiner Art.** Wer beruflich LLM-Anwendungen entwickelt, begegnet LangChain (oder seinem Agenten-Ableger LangGraph) mit hoher Wahrscheinlichkeit, in Start-ups genauso wie in Konzern-Projekten.
+- **Es ist das verbreitetste Framework seiner Art.** Die Open-Source-Pakete werden nach Firmenangaben über 350 Millionen Mal pro Monat heruntergeladen; wer beruflich LLM-Anwendungen entwickelt, begegnet LangChain (oder seinem Agenten-Ableger LangGraph) mit hoher Wahrscheinlichkeit.
+- **Bekannte Unternehmen bauen damit produktive Systeme**, nach Firmenangaben unter anderem LinkedIn, Cisco, Coinbase, Workday, ServiceNow, monday.com und Klarna. Klarna etwa gibt an, die Bearbeitungszeit im Kundenservice mit einem LangChain-basierten Assistenten um 80 Prozent verkürzt zu haben.
 - **Die Konzepte zählen mehr als das Werkzeug.** Retrieval, strukturierte Ausgaben, Tool-Nutzung, Agenten, Evaluation: Wer diese Muster einmal praktisch umgesetzt hat, kann sie in jedem anderen Framework wiederverwenden.
 - **Es macht den Unterschied zwischen KI benutzen und KI bauen.** ChatGPT bedienen kann jeder; eine Anwendung entwickeln, die eigene Dokumente versteht und belegbare Antworten liefert, ist die Fähigkeit, die am Arbeitsmarkt gefragt ist.
 
