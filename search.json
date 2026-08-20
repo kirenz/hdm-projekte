@@ -1,10 +1,136 @@
 [
   {
-    "objectID": "projekte/ws-2026/index.html",
-    "href": "projekte/ws-2026/index.html",
-    "title": "Wintersemester 2026/27",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projektangebote",
     "section": "",
-    "text": "Die Projektangebote für das Wintersemester 2026/27 werden vor Semesterbeginn hier veröffentlicht.\nGeplant sind wie üblich zwei bis drei Projekte. Einen Eindruck von typischen Themen und Formaten geben die Projekte vergangener Semester."
+    "text": "Auf dieser Seite finden Sie die Informationen zu den Projekten, die ich jedes Semester anbiete. Pro Semester stehen in der Regel zwei bis drei Projekte zur Auswahl, häufig in Zusammenarbeit mit Unternehmenspartnern."
+  },
+  {
+    "objectID": "index.html#aktuelle-projekte",
+    "href": "index.html#aktuelle-projekte",
+    "title": "Projektangebote",
+    "section": "Aktuelle Projekte",
+    "text": "Aktuelle Projekte\nDie Projekte für das kommende Semester finden Sie hier:\n→ Wintersemester 2026/27"
+  },
+  {
+    "objectID": "index.html#wie-läuft-die-bewerbung-ab",
+    "href": "index.html#wie-läuft-die-bewerbung-ab",
+    "title": "Projektangebote",
+    "section": "Wie läuft die Bewerbung ab?",
+    "text": "Wie läuft die Bewerbung ab?\nDie Projekte werden zu Semesterbeginn im entsprechenden Moodle-Kurs vorgestellt. Dort finden Sie auch die Details zur Bewerbung und zur Platzvergabe. Diese Seite dient als ausführliche Ergänzung: Für jedes Projekt beschreibe ich, worum es geht, welche Technologien und Frameworks zum Einsatz kommen (mit Links zum Einlesen) und was im Semesterverlauf auf Sie zukommt."
+  },
+  {
+    "objectID": "index.html#was-erwartet-sie-in-einem-projekt",
+    "href": "index.html#was-erwartet-sie-in-einem-projekt",
+    "title": "Projektangebote",
+    "section": "Was erwartet Sie in einem Projekt?",
+    "text": "Was erwartet Sie in einem Projekt?\n\nSie arbeiten in kleinen Teams an einer realistischen Aufgabenstellung, oft mit einem Unternehmenspartner.\nDer Schwerpunkt liegt auf der praktischen Umsetzung: Prototypen bauen, Technologien ausprobieren, Ergebnisse präsentieren.\nZu Beginn gibt es eine Einführung in die verwendeten Technologien; tiefe Vorkenntnisse sind meist nicht erforderlich, die konkreten Voraussetzungen stehen auf der jeweiligen Projektseite."
+  },
+  {
+    "objectID": "index.html#frühere-projekte",
+    "href": "index.html#frühere-projekte",
+    "title": "Projektangebote",
+    "section": "Frühere Projekte",
+    "text": "Frühere Projekte\nEinen Eindruck von Themen und Arbeitsweise vermitteln die Projekte vergangener Semester."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "",
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS/ECTS\n5 SWS / 12 ECTS\n\n\nKategorie\nManagement und IT (338025-338027)\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nMaximilian Ziegler, Mercedes-Benz\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#eckdaten",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#eckdaten",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "",
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS/ECTS\n5 SWS / 12 ECTS\n\n\nKategorie\nManagement und IT (338025-338027)\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nMaximilian Ziegler, Mercedes-Benz\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#worum-es-geht",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#worum-es-geht",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen.\nDazu werden geeignete Ansätze analysiert und prototypisch umgesetzt. Der Fokus liegt auf der Bündelung relevanter Wissensquellen, der Unterstützung bei wiederkehrenden Fragestellungen sowie der Evaluation von Effekten auf Effizienz, Orientierung, Prozessqualität und Arbeitsqualität.\nSie arbeiten dabei mit einem realen Unternehmenspartner: Mercedes-Benz bringt die Anwendungsfälle und das Domänenwissen ein, wir entwickeln gemeinsam funktionsfähige Prototypen und bewerten deren Nutzen."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#ablauf-im-semester",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#ablauf-im-semester",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Ablauf im Semester",
+    "text": "Ablauf im Semester\n\n4 Blocktage vor Beginn der Vorlesungszeit: Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.\nWöchentliche Termine während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.\nAm Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#technologien-und-frameworks",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#technologien-und-frameworks",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Technologien und Frameworks",
+    "text": "Technologien und Frameworks\nWomit Sie voraussichtlich arbeiten werden (zum Einlesen vor Projektstart):\n\nLLM-APIs: Anthropic Claude und OpenAI als Basis der Agenten\nAgent-Frameworks: z.B. LangGraph, OpenAI Agents SDK oder CrewAI\nRetrieval / Wissenszugang (RAG): Anbindung interner Wissensquellen an LLMs, ein guter Einstieg ist dieser Überblick\nWorkflow-Automatisierung: z.B. n8n für die Integration in bestehende Prozesse\nPython für die Prototyp-Entwicklung\n\nSie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt in den Blocktagen."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#voraussetzungen",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#voraussetzungen",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für neue Technologien und Interesse an KI-Anwendungen im Unternehmenskontext\nGrundkenntnisse in Python sind hilfreich, aber keine Bedingung\nBereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#was-sie-lernen",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#was-sie-lernen",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Was Sie lernen",
+    "text": "Was Sie lernen\n\nAgentenbasierte KI-Systeme konzipieren, prototypisch umsetzen und kritisch bewerten\nLLM-APIs und Agent-Frameworks praktisch einsetzen\nUnternehmensprozesse analysieren und Automatisierungspotenziale identifizieren\nErgebnisse strukturiert evaluieren und vor einem Unternehmenspartner präsentieren"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#bewerbung-und-kontakt",
+    "href": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html#bewerbung-und-kontakt",
+    "title": "Agentic AI: Optimierung von Arbeitsprozessen",
+    "section": "Bewerbung und Kontakt",
+    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.\nDer Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.\nZum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt."
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Zielsetzung",
+    "text": "Zielsetzung\n\nEntwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Technologien",
+    "text": "Technologien\n\nDash (mit Python oder R)\nR Shiny"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nGrundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen"
   },
   {
     "objectID": "projekte/archiv/index.html",
@@ -56,81 +182,46 @@
     "text": "Voraussetzungen\n\nAffinität für Technologien\nGrundkenntnisse in Python sind hilfreich"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Projektangebote",
+    "objectID": "projekte/archiv/data-platform-mlops.html",
+    "href": "projekte/archiv/data-platform-mlops.html",
+    "title": "Data Platform Architectures & MLOps",
     "section": "",
-    "text": "Auf dieser Seite finden Sie die Informationen zu den Projekten, die ich jedes Semester anbiete. Pro Semester stehen in der Regel zwei bis drei Projekte zur Auswahl, häufig in Zusammenarbeit mit Unternehmenspartnern."
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
   },
   {
-    "objectID": "index.html#aktuelle-projekte",
-    "href": "index.html#aktuelle-projekte",
-    "title": "Projektangebote",
-    "section": "Aktuelle Projekte",
-    "text": "Aktuelle Projekte\nDie Projekte für das kommende Semester finden Sie hier:\n→ Wintersemester 2026/27"
-  },
-  {
-    "objectID": "index.html#wie-läuft-die-bewerbung-ab",
-    "href": "index.html#wie-läuft-die-bewerbung-ab",
-    "title": "Projektangebote",
-    "section": "Wie läuft die Bewerbung ab?",
-    "text": "Wie läuft die Bewerbung ab?\nDie Projekte werden zu Semesterbeginn im entsprechenden Moodle-Kurs vorgestellt. Dort finden Sie auch die Details zur Bewerbung und zur Platzvergabe. Diese Seite dient als ausführliche Ergänzung: Für jedes Projekt beschreibe ich, worum es geht, welche Technologien und Frameworks zum Einsatz kommen (mit Links zum Einlesen) und was im Semesterverlauf auf Sie zukommt."
-  },
-  {
-    "objectID": "index.html#was-erwartet-sie-in-einem-projekt",
-    "href": "index.html#was-erwartet-sie-in-einem-projekt",
-    "title": "Projektangebote",
-    "section": "Was erwartet Sie in einem Projekt?",
-    "text": "Was erwartet Sie in einem Projekt?\n\nSie arbeiten in kleinen Teams an einer realistischen Aufgabenstellung, oft mit einem Unternehmenspartner.\nDer Schwerpunkt liegt auf der praktischen Umsetzung: Prototypen bauen, Technologien ausprobieren, Ergebnisse präsentieren.\nZu Beginn gibt es eine Einführung in die verwendeten Technologien; tiefe Vorkenntnisse sind meist nicht erforderlich, die konkreten Voraussetzungen stehen auf der jeweiligen Projektseite."
-  },
-  {
-    "objectID": "index.html#frühere-projekte",
-    "href": "index.html#frühere-projekte",
-    "title": "Projektangebote",
-    "section": "Frühere Projekte",
-    "text": "Frühere Projekte\nEinen Eindruck von Themen und Arbeitsweise vermitteln die Projekte vergangener Semester."
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html",
-    "title": "Real-Time Fleet Analytics Dashboard",
+    "objectID": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "href": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "title": "Data Platform Architectures & MLOps",
     "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
   },
   {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
-    "title": "Real-Time Fleet Analytics Dashboard",
+    "objectID": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "href": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "title": "Data Platform Architectures & MLOps",
     "section": "Worum es geht",
-    "text": "Worum es geht\nIm Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.\nDer Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.\nZum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt."
+    "text": "Worum es geht\nIm Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.\nIn der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines."
   },
   {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "Zielsetzung",
-    "text": "Zielsetzung\n\nEntwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)"
+    "objectID": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "href": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nDatenplattformarchitektur\nOpen-Source-Technologien\nMachine Learning Operations\nEntwicklung in Python"
   },
   {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
-    "title": "Real-Time Fleet Analytics Dashboard",
+    "objectID": "projekte/archiv/data-platform-mlops.html#technologien",
+    "href": "projekte/archiv/data-platform-mlops.html#technologien",
+    "title": "Data Platform Architectures & MLOps",
     "section": "Technologien",
-    "text": "Technologien\n\nDash (mit Python oder R)\nR Shiny"
+    "text": "Technologien\n\nDelta Lake\nKubeflow\nTensorFlow Extended (TFX)\nPython"
   },
   {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
-    "title": "Real-Time Fleet Analytics Dashboard",
+    "objectID": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "href": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "title": "Data Platform Architectures & MLOps",
     "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nGrundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen"
+    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an Datenarchitekturen und neuen Technologien"
   },
   {
     "objectID": "projekte/archiv/data-science-mlops.html",
@@ -175,45 +266,66 @@
     "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an neuen Technologien"
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html",
-    "href": "projekte/archiv/data-platform-mlops.html",
-    "title": "Data Platform Architectures & MLOps",
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html",
+    "title": "Agentic AI für Growth Marketing",
     "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS/ECTS\n5 SWS / 12 ECTS\n\n\nKategorie\nManagement und IT (338025-338027), Psychologie (338110-338115)\n\n\nProjektpartner\nSophia Eichler, SiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html#eckdaten",
-    "href": "projekte/archiv/data-platform-mlops.html#eckdaten",
-    "title": "Data Platform Architectures & MLOps",
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
+    "title": "Agentic AI für Growth Marketing",
     "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS/ECTS\n5 SWS / 12 ECTS\n\n\nKategorie\nManagement und IT (338025-338027), Psychologie (338110-338115)\n\n\nProjektpartner\nSophia Eichler, SiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
-    "href": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
-    "title": "Data Platform Architectures & MLOps",
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
+    "title": "Agentic AI für Growth Marketing",
     "section": "Worum es geht",
-    "text": "Worum es geht\nIm Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.\nIn der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines."
+    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI für datengetriebenes Growth Marketing aufzuzeigen und praxisnah nutzbar zu machen.\nDazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige Prototypen entwickelt, die Aufgaben wie Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking agentenbasiert unterstützen oder automatisieren.\nDer Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und CRM-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität."
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
-    "href": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nDatenplattformarchitektur\nOpen-Source-Technologien\nMachine Learning Operations\nEntwicklung in Python"
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Ablauf im Semester",
+    "text": "Ablauf im Semester\n\n4 Blocktage vor Beginn der Vorlesungszeit: Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.\nWöchentliche Termine während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.\nAm Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse."
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html#technologien",
-    "href": "projekte/archiv/data-platform-mlops.html#technologien",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Technologien",
-    "text": "Technologien\n\nDelta Lake\nKubeflow\nTensorFlow Extended (TFX)\nPython"
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#technologien-und-frameworks",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#technologien-und-frameworks",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Technologien und Frameworks",
+    "text": "Technologien und Frameworks\nWomit Sie voraussichtlich arbeiten werden (zum Einlesen vor Projektstart):\n\nLLM-APIs: Anthropic Claude und OpenAI als Basis der Agenten\nAgent-Frameworks: z.B. LangGraph, OpenAI Agents SDK oder CrewAI\nWorkflow-Automatisierung: z.B. n8n für Lead-Nurturing- und Follow-up-Strecken\nMarketing-Stack: Anbindung an CRM- und Marketing-Tools über APIs und Webhooks\nPython für die Prototyp-Entwicklung\n\nSie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt in den Blocktagen."
   },
   {
-    "objectID": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
-    "href": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
-    "title": "Data Platform Architectures & MLOps",
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
+    "title": "Agentic AI für Growth Marketing",
     "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an Datenarchitekturen und neuen Technologien"
+    "text": "Voraussetzungen\n\nInteresse an Marketing, Vertrieb und datengetriebenen Prozessen\nAffinität für neue Technologien; Grundkenntnisse in Python sind hilfreich, aber keine Bedingung\nBereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Was Sie lernen",
+    "text": "Was Sie lernen\n\nAgentenbasierte KI-Systeme für Marketing- und Vertriebsprozesse konzipieren und prototypisch umsetzen\nLLM-APIs, Agent-Frameworks und Automatisierungstools praktisch einsetzen\nWirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)\nErgebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Bewerbung und Kontakt",
+    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
+  },
+  {
+    "objectID": "projekte/ws-2026/index.html",
+    "href": "projekte/ws-2026/index.html",
+    "title": "Wintersemester 2026/27",
+    "section": "",
+    "text": "Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide zum Themenfeld Agentic AI und jeweils mit einem Unternehmenspartner:\n\n\n\nProjekt\nPartner\nSchwerpunkt\n\n\n\n\nAgentic AI: Optimierung von Arbeitsprozessen\nMercedes-Benz\nWissenszugang, operative Unterstützung, Vertriebsprozesse\n\n\nAgentic AI für Growth Marketing\nSiMa.ai\nLeadgenerierung, Content, CRM-Automatisierung\n\n\n\nBeide Projekte starten mit vier Blocktagen vor Beginn der Vorlesungszeit und laufen dann mit wöchentlichen Terminen. Details zu Inhalten, Technologien und Voraussetzungen stehen auf den Projektseiten."
   }
 ]
