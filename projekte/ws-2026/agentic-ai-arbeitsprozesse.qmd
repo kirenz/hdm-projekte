@@ -19,6 +19,10 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 
 Ziel des Projekts ist es, Potenziale von Agentic AI für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen. Mercedes-Benz bringt den Anwendungsfall, die Daten und das Domänenwissen ein, wir entwickeln gemeinsam einen funktionsfähigen Prototypen und bewerten dessen Nutzen.
 
+## Was bringt es mir?
+
+Agentic AI gehört derzeit zu den gefragtesten Themen an der Schnittstelle von Wirtschaft und IT. Nach dem Projekt können Sie mehr als Konzepte erklären: Sie haben mit einem großen Unternehmen einen echten KI-Agenten gebaut, mit Werkzeugen, die in der Praxis tatsächlich eingesetzt werden. Das ist ein konkretes Referenzprojekt für Bewerbungen, und die Muster dahinter (Automatisierung, Retrieval, Agenten, Evaluation) lassen sich auf viele andere Aufgaben übertragen.
+
 ## Der Use Case: Preislisten- und Konfigurationsagent
 
 Mercedes-Benz stellt ausgewählte Fahrzeug-Preislisten für klar definierte Baureihen sowie die zugehörige Car Policy bereit. Die Preislisten enthalten verfügbare Ausstattungen, dreistellige Sonderausstattungscodes, Preisinformationen und dokumentierte Abhängigkeiten.
@@ -76,10 +80,6 @@ Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt i
 - Dokumentenverarbeitung und Retrieval (RAG) mit LangChain praktisch einsetzen
 - Workflows mit n8n automatisieren und in bestehende Prozesse integrieren
 - Ergebnisse anhand fachlicher Prüffälle evaluieren und vor einem Unternehmenspartner präsentieren
-
-## Warum das nützlich ist
-
-Agentic AI gehört derzeit zu den gefragtesten Themen an der Schnittstelle von Wirtschaft und IT. Nach dem Projekt können Sie mehr als Konzepte erklären: Sie haben mit einem großen Unternehmen einen echten KI-Agenten gebaut, mit Werkzeugen, die in der Praxis tatsächlich eingesetzt werden. Das ist ein konkretes Referenzprojekt für Bewerbungen, und die Muster dahinter (Automatisierung, Retrieval, Agenten, Evaluation) lassen sich auf viele andere Aufgaben übertragen.
 
 ## Bewerbung und Kontakt
 

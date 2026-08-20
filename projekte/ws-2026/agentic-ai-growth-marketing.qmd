@@ -24,6 +24,10 @@ Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende M
 
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
+## Was bringt es mir?
+
+Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die technische Umsetzung mit Agenten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Entwicklung.
+
 ## Ablauf im Semester
 
 - **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.
@@ -54,10 +58,6 @@ Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt i
 - LLM-APIs, Agent-Frameworks und Automatisierungstools praktisch einsetzen
 - Wirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)
 - Ergebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren
-
-## Warum das nützlich ist
-
-Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die technische Umsetzung mit Agenten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Entwicklung.
 
 ## Bewerbung und Kontakt
 
