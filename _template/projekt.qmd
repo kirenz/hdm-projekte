@@ -15,7 +15,7 @@ Nicht zutreffende Abschnitte löschen.
 | | |
 |---|---|
 | **Modul-Nr.** | 338025-338027 |
-| **SWS/ECTS** | 5/10 |
+| **SWS** | 5 |
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP / PP |
 | **Projektpartner** | Unternehmen (mit Link, keine Personennamen) |

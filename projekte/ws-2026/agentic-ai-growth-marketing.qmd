@@ -8,7 +8,7 @@ title: "Agentic AI für Growth Marketing"
 | | |
 |---|---|
 | **Art** | Interdisziplinäres Projekt |
-| **SWS/ECTS** | 5 SWS / 10 ECTS (SPO alt) bzw. 12 ECTS (SPO neu) |
+| **SWS** | 5 |
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087), Psychologie (338110-338115) |
 | **Projektpartner** | [SiMa.ai](https://sima.ai/) |
 | **Betreuung** | Prof. Dr. Jan Kirenz |
