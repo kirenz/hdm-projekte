@@ -22,6 +22,8 @@ Dazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige Prot
 
 Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und CRM-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität.
 
+![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
+
 ## Ablauf im Semester
 
 - **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.

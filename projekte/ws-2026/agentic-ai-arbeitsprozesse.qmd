@@ -27,6 +27,8 @@ Auf dieser abgegrenzten Datenbasis entwickeln Sie mit n8n und LangChain einen fu
 
 Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen nachvollziehbaren Beratungsassistenten überführen lassen.
 
+![](images/preislisten-agent.webp){.infografik fig-alt="Infografik: Preislisten und Car Policy werden mit n8n eingelesen, strukturiert aufbereitet und über einen LangChain-Agenten als Ausstattungsvorschläge mit Quellenangabe abfragbar gemacht."}
+
 ## Geplanter Umfang
 
 - Automatisiertes Einlesen und Extrahieren relevanter Inhalte aus den Preislisten
