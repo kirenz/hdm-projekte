@@ -220,11 +220,16 @@ h2 {
   border-top-color: $hdm-rot;
 }
 
-// ganze Karte klickbar
-.projekt-card h3 a::after {
+// ganze Karte klickbar (nur der echte Projektlink, nicht Quartos Anchor-Link)
+.projekt-card h3 .anchorjs-link {
+  display: none;
+}
+
+.projekt-card h3 > a:not(.anchorjs-link)::after {
   content: "";
   position: absolute;
   inset: 0;
+  z-index: 1;
 }
 
 // gedämpfte Variante für das Archiv
