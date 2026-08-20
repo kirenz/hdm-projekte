@@ -42,7 +42,7 @@ Womit Sie voraussichtlich arbeiten werden:
 - **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Basis der Agenten
 - **[LangChain](../../technologien/langchain.qmd)** oder vergleichbare Agent-Frameworks
 - **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools über APIs und Webhooks
-- **Python** für die Prototyp-Entwicklung
+- **[Python](../../technologien/python.qmd)** für die Prototyp-Entwicklung
 
 Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
 

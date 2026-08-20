@@ -1,0 +1,54 @@
+---
+title: "Glossar"
+toc: false
+---
+
+Die wichtigsten Begriffe, die auf diesen Seiten vorkommen, kurz erklärt.
+
+**Agent (KI-Agent)**
+: Ein KI-System, das nicht nur antwortet, sondern selbstständig Arbeitsschritte ausführt: Es kann Werkzeuge aufrufen, Daten nachschlagen, Zwischenergebnisse bewerten und mehrere Schritte hintereinander planen, um eine Aufgabe zu erledigen.
+
+**Agentic AI**
+: Sammelbegriff für Anwendungen, die auf solchen Agenten aufbauen. Der Unterschied zum klassischen Chatbot: Die KI wartet nicht auf die nächste Frage, sondern arbeitet einen Auftrag eigenständig ab.
+
+**API (Programmierschnittstelle)**
+: Der Weg, über den Programme miteinander sprechen. Über die API von OpenAI oder Anthropic kann eine eigene Anwendung ein Sprachmodell nutzen, ohne dass ein Mensch im Chat sitzt.
+
+**CRM (Customer Relationship Management)**
+: Software, in der Unternehmen ihre Kundenkontakte, Anfragen und Verkaufschancen verwalten, z.B. Salesforce oder HubSpot. Im Marketing-Kontext oft das zentrale System, an das andere Werkzeuge angebunden werden.
+
+**Framework**
+: Ein Baukasten aus fertigen Software-Bausteinen für eine bestimmte Art von Anwendung. Statt alles selbst zu programmieren, nutzt man die Bausteine und ergänzt die eigene Logik, LangChain ist z.B. ein Framework für LLM-Anwendungen.
+
+**LLM (Large Language Model)**
+: Ein großes Sprachmodell wie Claude, GPT oder Gemini: eine KI, die Text versteht und erzeugt und die Grundlage von Chatbots, Assistenten und Agenten bildet.
+
+**Open Source**
+: Software, deren Quellcode öffentlich ist und die frei genutzt und angepasst werden kann. Vorteil für Unternehmen: keine Lizenzkosten, volle Kontrolle, große Community.
+
+**Prompt**
+: Die Eingabe an ein Sprachmodell, also Anweisung plus Kontext. Gute Prompts präzise zu formulieren ist ein zentraler Teil der Arbeit mit LLMs.
+
+**Prototyp**
+: Eine funktionsfähige, aber bewusst noch nicht perfekte Version einer Anwendung. Ziel ist zu zeigen, dass eine Idee funktioniert, bevor viel in die produktive Umsetzung investiert wird.
+
+**RAG (Retrieval-Augmented Generation)**
+: Ein Verfahren, das ein Sprachmodell mit eigenen Dokumenten verbindet: Vor der Antwort werden die passenden Textstellen aus einer Wissensbasis herausgesucht (Retrieval) und dem Modell mitgegeben. So kann es Fragen zu Inhalten beantworten, die es aus dem Training nicht kennt, und seine Antworten mit Quellen belegen.
+
+**SDK (Software Development Kit)**
+: Ein offizielles Programmierpaket eines Anbieters, das die Nutzung seiner API vereinfacht, z.B. das Python-SDK von OpenAI oder Anthropic.
+
+**Self-Hosting**
+: Software auf eigenen Servern betreiben statt in der Cloud des Anbieters. Für Unternehmen oft wichtig, wenn sensible Daten das Haus nicht verlassen sollen, ein Grund für die Beliebtheit von n8n.
+
+**Strukturierte Ausgaben**
+: Antworten eines Sprachmodells in einem festen Datenformat (z.B. Tabellenfeldern) statt Fließtext, damit andere Programme sie automatisch weiterverarbeiten können.
+
+**Tool Use (Werkzeugnutzung)**
+: Die Fähigkeit eines Modells, während der Bearbeitung externe Funktionen aufzurufen, etwa eine Datenbank abzufragen, einen Termin einzutragen oder eine Berechnung auszuführen. Grundlage jedes Agenten.
+
+**Webhook**
+: Eine automatische Benachrichtigung von System zu System: Wenn irgendwo etwas passiert (z.B. ein Formular ausgefüllt wird), stößt das sofort einen Ablauf im nächsten System an, ein Grundbaustein von Automatisierungs-Workflows.
+
+**Workflow**
+: Ein definierter, automatisierter Ablauf aus mehreren Schritten, z.B. Anfrage empfangen, Inhalte extrahieren, CRM aktualisieren, Antwort senden. In n8n baut man solche Abläufe visuell zusammen.

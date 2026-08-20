@@ -14,6 +14,8 @@ website:
         text: Technologien
       - href: projekte/archiv/index.qmd
         text: Archiv
+      - href: glossar.qmd
+        text: Glossar
   page-footer:
     center: "Prof. Dr. Jan Kirenz · Hochschule der Medien Stuttgart"
 

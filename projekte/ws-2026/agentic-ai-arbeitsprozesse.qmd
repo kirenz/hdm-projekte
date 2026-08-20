@@ -59,7 +59,7 @@ Womit Sie arbeiten werden:
 - **[n8n](../../technologien/n8n.qmd):** verbindet Dokumente, Datenquellen und KI-Agenten zu automatisierten Workflows, eines der Standardwerkzeuge für Automatisierung in Unternehmen
 - **[LangChain](../../technologien/langchain.qmd):** das verbreitetste Framework für LLM-Anwendungen, hier für Dokumentenverarbeitung und quellenbasierte Antworten
 - **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Kern des Agenten
-- **Python** für die Prototyp-Entwicklung
+- **[Python](../../technologien/python.qmd)** für die Prototyp-Entwicklung
 
 Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
 

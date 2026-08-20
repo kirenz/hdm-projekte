@@ -10,3 +10,4 @@ In meinen Projekten kommen häufig dieselben Werkzeuge zum Einsatz. Auf diesen S
 | [n8n](n8n.qmd) | Workflow-Automatisierung: verbindet Systeme, Daten und KI-Agenten ohne großen Programmieraufwand |
 | [LangChain](langchain.qmd) | Das verbreitetste Framework, um LLM-Anwendungen in Python zu bauen |
 | [LLM-APIs](llm-apis.qmd) | Claude, GPT & Co. per Programmierschnittstelle: der Grundbaustein jeder KI-Anwendung |
+| [Python](python.qmd) | Die Standardsprache für Daten und KI, und seit Jahren die populärste Programmiersprache der Welt |
