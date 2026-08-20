@@ -36,7 +36,7 @@ Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am
 
 ## Technologien und Frameworks
 
-Womit Sie voraussichtlich arbeiten werden (was die Werkzeuge können und warum sie sich lohnen, steht auf den verlinkten Seiten):
+Womit Sie voraussichtlich arbeiten werden:
 
 - **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack
 - **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Basis der Agenten

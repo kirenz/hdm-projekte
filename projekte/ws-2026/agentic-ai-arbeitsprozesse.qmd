@@ -54,7 +54,7 @@ Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen n
 
 ## Technologien und Frameworks
 
-Womit Sie arbeiten werden (was die Werkzeuge können und warum sie sich lohnen, steht auf den verlinkten Seiten):
+Womit Sie arbeiten werden:
 
 - **[n8n](../../technologien/n8n.qmd):** verbindet Dokumente, Datenquellen und KI-Agenten zu automatisierten Workflows, eines der Standardwerkzeuge für Automatisierung in Unternehmen
 - **[LangChain](../../technologien/langchain.qmd):** das verbreitetste Framework für LLM-Anwendungen, hier für Dokumentenverarbeitung und quellenbasierte Antworten
