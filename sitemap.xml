@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kirenz.github.io/hdm-projekte/index.html</loc>
-    <lastmod>2026-08-20T14:48:06.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/ws-2026/agentic-ai-arbeitsprozesse.html</loc>
-    <lastmod>2026-08-20T14:46:56.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/fleet-analytics-dashboard.html</loc>
-    <lastmod>2026-08-20T14:46:56.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/index.html</loc>
-    <lastmod>2026-08-20T14:46:47.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/llm-unternehmensanwendungen.html</loc>
-    <lastmod>2026-08-20T14:46:56.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/data-platform-mlops.html</loc>
-    <lastmod>2026-08-20T14:46:56.439Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/data-science-mlops.html</loc>
-    <lastmod>2026-08-20T14:46:56.444Z</lastmod>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/ws-2026/index.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
   </url>
   <url>
     <loc>https://kirenz.github.io/hdm-projekte/projekte/ws-2026/agentic-ai-growth-marketing.html</loc>
-    <lastmod>2026-08-20T14:46:56.451Z</lastmod>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
   </url>
   <url>
-    <loc>https://kirenz.github.io/hdm-projekte/projekte/ws-2026/index.html</loc>
-    <lastmod>2026-08-20T14:46:39.260Z</lastmod>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/index.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/llm-unternehmensanwendungen.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/index.html</loc>
+    <lastmod>2026-08-20T14:49:55.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/fleet-analytics-dashboard.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/data-science-mlops.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/archiv/data-platform-mlops.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/hdm-projekte/projekte/ws-2026/agentic-ai-arbeitsprozesse.html</loc>
+    <lastmod>2026-08-20T14:49:55.500Z</lastmod>
   </url>
 </urlset>
