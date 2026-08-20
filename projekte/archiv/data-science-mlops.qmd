@@ -1,0 +1,35 @@
+---
+title: "Data Science & MLOps"
+---
+
+## Eckdaten
+
+| | |
+|---|---|
+| **Modul-Nr.** | 338025-338027 |
+| **SWS/ECTS** | 5/10 |
+| **Semester** | ab 6 |
+| **Prüfungsform** | KMP |
+| **Projektpartner** | Lukas Jan Stroemsdoerfer, Daimler AG |
+
+## Worum es geht
+
+Im Rahmen des Projekts werden unterschiedliche Data-Science-Anwendungsfälle (z.B. Regression, Zeitreihenanalyse, Klassifikation) in Python implementiert.
+
+Dabei kommen Komponenten der Disziplin Machine Learning Operations (MLOps) zum Einsatz, etwa die Automatisierung von Data Pipelines und automatisiertes Modelltraining.
+
+## Themenschwerpunkte
+
+- Data Science und Data Engineering
+- Python
+- Machine Learning Operations
+
+## Technologien
+
+- Python
+- [TensorFlow Extended (TFX)](https://www.tensorflow.org/tfx)
+
+## Voraussetzungen
+
+- Affinität für Programmierung
+- Interesse an neuen Technologien

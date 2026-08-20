@@ -1,0 +1,27 @@
+---
+title: "Projektangebote"
+subtitle: "Prof. Dr. Jan Kirenz · Hochschule der Medien Stuttgart"
+toc: false
+---
+
+Auf dieser Seite finden Sie die Informationen zu den Projekten, die ich jedes Semester anbiete. Pro Semester stehen in der Regel zwei bis drei Projekte zur Auswahl, häufig in Zusammenarbeit mit Unternehmenspartnern.
+
+## Aktuelle Projekte
+
+Die Projekte für das kommende Semester finden Sie hier:
+
+→ [Wintersemester 2026/27](projekte/ws-2026/index.qmd)
+
+## Wie läuft die Bewerbung ab?
+
+Die Projekte werden zu Semesterbeginn im entsprechenden Moodle-Kurs vorgestellt. Dort finden Sie auch die Details zur Bewerbung und zur Platzvergabe. Diese Seite dient als ausführliche Ergänzung: Für jedes Projekt beschreibe ich, worum es geht, welche Technologien und Frameworks zum Einsatz kommen (mit Links zum Einlesen) und was im Semesterverlauf auf Sie zukommt.
+
+## Was erwartet Sie in einem Projekt?
+
+- Sie arbeiten in kleinen Teams an einer realistischen Aufgabenstellung, oft mit einem Unternehmenspartner.
+- Der Schwerpunkt liegt auf der praktischen Umsetzung: Prototypen bauen, Technologien ausprobieren, Ergebnisse präsentieren.
+- Zu Beginn gibt es eine Einführung in die verwendeten Technologien; tiefe Vorkenntnisse sind meist nicht erforderlich, die konkreten Voraussetzungen stehen auf der jeweiligen Projektseite.
+
+## Frühere Projekte
+
+Einen Eindruck von Themen und Arbeitsweise vermitteln die [Projekte vergangener Semester](projekte/archiv/index.qmd).

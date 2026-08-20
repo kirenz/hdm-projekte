@@ -1,0 +1,34 @@
+---
+title: "Real-Time Fleet Analytics Dashboard"
+---
+
+## Eckdaten
+
+| | |
+|---|---|
+| **Modul-Nr.** | 338025-338027 |
+| **SWS/ECTS** | 5/10 |
+| **Prüfungsform** | PP |
+| **Projektpartner** | [adesso SE](https://www.adesso.de/) |
+| **Prüfungsleistung** | Lösungsdokumentation und Präsentation |
+
+## Worum es geht
+
+Im Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.
+
+Der Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.
+
+Zum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt.
+
+## Zielsetzung
+
+- Entwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)
+
+## Technologien
+
+- [Dash](https://dash.plotly.com/) (mit Python oder R)
+- [R Shiny](https://shiny.posit.co/)
+
+## Voraussetzungen
+
+- Grundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen

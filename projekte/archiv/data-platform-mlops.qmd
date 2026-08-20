@@ -1,0 +1,37 @@
+---
+title: "Data Platform Architectures & MLOps"
+---
+
+## Eckdaten
+
+| | |
+|---|---|
+| **Modul-Nr.** | 338025-338027 |
+| **SWS/ECTS** | 5/10 |
+| **Prüfungsform** | PP |
+| **Projektpartner** | Dr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH |
+
+## Worum es geht
+
+Im Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.
+
+In der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines.
+
+## Themenschwerpunkte
+
+- Datenplattformarchitektur
+- Open-Source-Technologien
+- Machine Learning Operations
+- Entwicklung in Python
+
+## Technologien
+
+- [Delta Lake](https://delta.io/)
+- [Kubeflow](https://www.kubeflow.org/)
+- [TensorFlow Extended (TFX)](https://www.tensorflow.org/tfx)
+- Python
+
+## Voraussetzungen
+
+- Affinität für Programmierung
+- Interesse an Datenarchitekturen und neuen Technologien

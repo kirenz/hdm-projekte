@@ -1,0 +1,59 @@
+---
+title: "Projekttitel"
+---
+
+<!--
+Vorlage für neue Projektseiten.
+Kopieren nach projekte/<semester>/<slug>.qmd, ausfüllen, in der
+Semester-Übersicht (index.qmd) verlinken.
+Nicht zutreffende Abschnitte löschen.
+-->
+
+## Eckdaten
+
+| | |
+|---|---|
+| **Modul-Nr.** | 338025-338027 |
+| **SWS/ECTS** | 5/10 |
+| **Semester** | ab 6 |
+| **Prüfungsform** | KMP / PP |
+| **Projektpartner** | Name, Unternehmen (mit Link) |
+| **Teamgröße** | z.B. 3-5 Studierende |
+
+## Worum es geht
+
+<!-- 2-4 Absätze: Ausgangslage, Aufgabenstellung, Ziel. Was ist am Ende
+des Semesters entstanden? Rolle des Projektpartners. -->
+
+## Ablauf im Semester
+
+<!-- Was kommt auf die Studierenden zu? z.B.:
+- Kick-off und Einführungsworkshop in Woche 1-2
+- Arbeitsphasen, Sprints, Zwischenpräsentationen
+- Termine mit dem Projektpartner
+- Abschlusspräsentation -->
+
+## Technologien und Frameworks
+
+<!-- Pro Technologie ein Link zur offiziellen Doku, gern plus ein gutes
+Tutorial oder Beispiel-Repo zum Einlesen vor Projektstart. z.B.:
+- [Anthropic Claude API](https://docs.anthropic.com/) – Docs
+- [Streamlit](https://docs.streamlit.io/) – Docs, [Tutorial](...) -->
+
+## Voraussetzungen
+
+<!-- Ehrlich und konkret: Was muss man können, was wird vermittelt?
+z.B. Grundkenntnisse Python, keine Vorkenntnisse in Framework X nötig. -->
+
+## Was Sie lernen
+
+<!-- 3-5 Punkte: Kompetenzen, die das Projekt vermittelt. -->
+
+## Erwarteter Aufwand
+
+<!-- Realistisch: SWS, Selbststudium, Präsenztermine, Teamarbeit. -->
+
+## Bewerbung und Kontakt
+
+<!-- Wie und bis wann bewerben (Moodle-Kurs verlinken), was in die
+Bewerbung gehört (Motivation, Vorkenntnisse), Kontakt bei Fragen. -->

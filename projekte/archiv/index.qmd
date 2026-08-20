@@ -1,0 +1,13 @@
+---
+title: "Archiv: Projekte vergangener Semester"
+toc: false
+---
+
+Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Eindruck von den typischen Themen und der Zusammenarbeit mit Unternehmenspartnern.
+
+| Projekt | Partner | Schwerpunkt |
+|---|---|---|
+| [Einsatz von Large Language Models (LLMs)](llm-unternehmensanwendungen.qmd) | Zoi | LLMs, KI-gestützte Unternehmensanwendungen |
+| [Data Science & MLOps](data-science-mlops.qmd) | Daimler AG | Data Science, Machine Learning Operations |
+| [Data Platform Architectures & MLOps](data-platform-mlops.qmd) | Robert Bosch GmbH | Datenplattformarchitektur, Lakehouse, MLOps |
+| [Real-Time Fleet Analytics Dashboard](fleet-analytics-dashboard.qmd) | adesso SE | Dashboards, Datenanalyse, Flottenmanagement |

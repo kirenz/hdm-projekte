@@ -1,0 +1,37 @@
+---
+title: "Einsatz von Large Language Models (LLMs)"
+---
+
+## Eckdaten
+
+| | |
+|---|---|
+| **SWS** | 5 |
+| **Semester** | ab 6 |
+| **Prüfungsform** | KMP |
+| **Projektpartner** | [Zoi](https://zoi.tech/) |
+
+## Worum es geht
+
+In diesem Projekt liegt der Fokus auf der Erforschung und Umsetzung des Potenzials von Large Language Models (z.B. GPT-4 von OpenAI) zur Automatisierung verschiedener Unternehmensaufgaben.
+
+Insbesondere wird untersucht, wie LLMs genutzt werden können, um Routineaufgaben wie das Verfassen von E-Mails oder die Erstellung von Berichten zu automatisieren. Ziel ist es, Produktivität und Effizienz in Unternehmen zu steigern und gleichzeitig Qualität und Konsistenz der erzeugten Inhalte zu gewährleisten.
+
+Das Projekt wird in Zusammenarbeit mit dem Unternehmen Zoi angeboten, das auf die Entwicklung und Beratung von KI-basierten Technologien und Anwendungen in Cloud-Umgebungen spezialisiert ist.
+
+## Themenschwerpunkte
+
+- Large Language Models
+- KI-gestützte Unternehmensanwendungen
+- Entwicklung von Prototypen in einer Cloud-Umgebung
+
+## Technologien
+
+- [OpenAI API](https://platform.openai.com/docs/)
+- Python
+- Cloud-Umgebungen
+
+## Voraussetzungen
+
+- Affinität für Technologien
+- Grundkenntnisse in Python sind hilfreich

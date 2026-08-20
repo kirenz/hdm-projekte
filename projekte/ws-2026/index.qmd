@@ -1,0 +1,8 @@
+---
+title: "Wintersemester 2026/27"
+toc: false
+---
+
+Die Projektangebote für das Wintersemester 2026/27 werden vor Semesterbeginn hier veröffentlicht.
+
+Geplant sind wie üblich zwei bis drei Projekte. Einen Eindruck von typischen Themen und Formaten geben die [Projekte vergangener Semester](../archiv/index.qmd).
