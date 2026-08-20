@@ -11,8 +11,8 @@ Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide z
     <div class="index-line"><span class="marker">Projekt 01</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>
     <h3><a href="agentic-ai-arbeitsprozesse.html">Agentic AI: Optimierung von Arbeitsprozessen</a></h3>
     <div class="partner">mit Mercedes-Benz</div>
-    <p class="desc">KI-Agenten für internen Wissenszugang, operative Unterstützung und Vertriebsprozesse im Bereich Digitalisierung Mercedes-Benz Members.</p>
-    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">LLM-APIs</span><span class="chip">RAG</span><span class="chip">n8n</span><span class="chip">Python</span></div>
+    <p class="desc">Preislisten- und Konfigurationsagent: Fahrzeug-Preislisten und Car Policy automatisiert einlesen, abfragbar machen und nachvollziehbare Ausstattungsvorschläge entwickeln.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">n8n</span><span class="chip">LangChain</span><span class="chip">RAG</span><span class="chip">Python</span></div>
   </div>
   <div class="projekt-card">
     <div class="index-line"><span class="marker">Projekt 02</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>

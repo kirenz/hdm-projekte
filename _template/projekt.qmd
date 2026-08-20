@@ -18,7 +18,7 @@ Nicht zutreffende Abschnitte löschen.
 | **SWS/ECTS** | 5/10 |
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP / PP |
-| **Projektpartner** | Name, Unternehmen (mit Link) |
+| **Projektpartner** | Unternehmen (mit Link, keine Personennamen) |
 | **Teamgröße** | z.B. 3-5 Studierende |
 :::
 

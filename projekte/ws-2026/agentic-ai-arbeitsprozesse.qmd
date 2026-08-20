@@ -11,17 +11,39 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 | **SWS/ECTS** | 5 SWS / 12 ECTS |
 | **Kategorie** | Management und IT (338025-338027) |
 | **Sprache** | Deutsch |
-| **Projektpartner** | Maximilian Ziegler, Mercedes-Benz |
+| **Projektpartner** | Mercedes-Benz |
 | **Betreuung** | Prof. Dr. Jan Kirenz |
 :::
 
 ## Worum es geht
 
-Ziel des Projekts ist es, Potenziale von Agentic AI für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen.
+Ziel des Projekts ist es, Potenziale von Agentic AI für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen. Mercedes-Benz bringt den Anwendungsfall, die Daten und das Domänenwissen ein, wir entwickeln gemeinsam einen funktionsfähigen Prototypen und bewerten dessen Nutzen.
 
-Dazu werden geeignete Ansätze analysiert und prototypisch umgesetzt. Der Fokus liegt auf der Bündelung relevanter Wissensquellen, der Unterstützung bei wiederkehrenden Fragestellungen sowie der Evaluation von Effekten auf Effizienz, Orientierung, Prozessqualität und Arbeitsqualität.
+## Der Use Case: Preislisten- und Konfigurationsagent
 
-Sie arbeiten dabei mit einem realen Unternehmenspartner: Mercedes-Benz bringt die Anwendungsfälle und das Domänenwissen ein, wir entwickeln gemeinsam funktionsfähige Prototypen und bewerten deren Nutzen.
+Mercedes-Benz stellt ausgewählte Fahrzeug-Preislisten für klar definierte Baureihen sowie die zugehörige Car Policy bereit. Die Preislisten enthalten verfügbare Ausstattungen, dreistellige Sonderausstattungscodes, Preisinformationen und dokumentierte Abhängigkeiten.
+
+Auf dieser abgegrenzten Datenbasis entwickeln Sie mit n8n und LangChain einen funktionsfähigen Prototypen. Dieser soll die bereitgestellten Dokumente automatisiert einlesen, relevante Inhalte strukturiert aufbereiten und intelligent abfragbar machen. Darüber hinaus soll der Agent Mitarbeitende bei der schrittweisen Zusammenstellung von Fahrzeugausstattungen unterstützen und seine Vorschläge transparent auf die verwendeten Quellen zurückführen.
+
+Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen nachvollziehbaren Beratungsassistenten überführen lassen.
+
+## Geplanter Umfang
+
+- Automatisiertes Einlesen und Extrahieren relevanter Inhalte aus den Preislisten
+- Strukturierte Zuordnung von Ausstattungen, Sonderausstattungscodes und Preisen
+- Abbildung der in den Preislisten dokumentierten Abhängigkeiten
+- Einbeziehung der Car Policy mit verpflichtenden Ausstattungen je Modelltyp
+- Interaktive Abfrage der bereitgestellten Informationen
+- Iterative Entwicklung von Ausstattungsvorschlägen für definierte Baureihen
+- Transparente Anzeige der jeweils verwendeten Quellen
+- Qualitätsbewertung anhand definierter fachlicher Prüffälle
+- Prüfung von Quellenbezug, Konsistenz und Berücksichtigung der Car Policy
+- Einfacher Prozess zum Einspielen neuer oder aktualisierter Preislisten
+
+::: {.callout-note appearance="simple"}
+## Klare Abgrenzung
+Der Prototyp ist kein produktiver Fahrzeugkonfigurator und gibt keine verbindliche Garantie für Baubarkeit oder Bestellbarkeit. Ziel ist neben einem funktionsfähigen Prototyp vor allem eine belastbare Entscheidungsgrundlage für eine mögliche Weiterentwicklung.
+:::
 
 ## Ablauf im Semester
 
@@ -31,12 +53,11 @@ Sie arbeiten dabei mit einem realen Unternehmenspartner: Mercedes-Benz bringt di
 
 ## Technologien und Frameworks
 
-Womit Sie voraussichtlich arbeiten werden (zum Einlesen vor Projektstart):
+Womit Sie arbeiten werden (zum Einlesen vor Projektstart):
 
-- **LLM-APIs:** [Anthropic Claude](https://docs.anthropic.com/) und [OpenAI](https://platform.openai.com/docs/) als Basis der Agenten
-- **Agent-Frameworks:** z.B. [LangGraph](https://langchain-ai.github.io/langgraph/), [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) oder [CrewAI](https://docs.crewai.com/)
-- **Retrieval / Wissenszugang (RAG):** Anbindung interner Wissensquellen an LLMs, ein guter Einstieg ist [dieser Überblick](https://www.anthropic.com/news/contextual-retrieval)
-- **Workflow-Automatisierung:** z.B. [n8n](https://docs.n8n.io/) für die Integration in bestehende Prozesse
+- **[n8n](https://docs.n8n.io/):** Workflow-Automatisierung, verbindet Dokumenten-Pipeline, Agent und Schnittstellen
+- **[LangChain](https://python.langchain.com/docs/introduction/):** Framework für LLM-Anwendungen, Dokumentenverarbeitung und Retrieval (RAG)
+- **LLM-APIs:** z.B. [Anthropic Claude](https://docs.anthropic.com/) oder [OpenAI](https://platform.openai.com/docs/)
 - **Python** für die Prototyp-Entwicklung
 
 Sie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt in den Blocktagen.
@@ -50,9 +71,9 @@ Sie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt 
 ## Was Sie lernen
 
 - Agentenbasierte KI-Systeme konzipieren, prototypisch umsetzen und kritisch bewerten
-- LLM-APIs und Agent-Frameworks praktisch einsetzen
-- Unternehmensprozesse analysieren und Automatisierungspotenziale identifizieren
-- Ergebnisse strukturiert evaluieren und vor einem Unternehmenspartner präsentieren
+- Dokumentenverarbeitung und Retrieval (RAG) mit LangChain praktisch einsetzen
+- Workflows mit n8n automatisieren und in bestehende Prozesse integrieren
+- Ergebnisse anhand fachlicher Prüffälle evaluieren und vor einem Unternehmenspartner präsentieren
 
 ## Bewerbung und Kontakt
 

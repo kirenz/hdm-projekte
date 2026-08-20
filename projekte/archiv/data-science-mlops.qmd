@@ -11,7 +11,7 @@ title: "Data Science & MLOps"
 | **SWS/ECTS** | 5/10 |
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP |
-| **Projektpartner** | Lukas Jan Stroemsdoerfer, Daimler AG |
+| **Projektpartner** | Daimler AG |
 :::
 
 ## Worum es geht
