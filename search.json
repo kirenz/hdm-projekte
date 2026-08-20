@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projektangebote",
+    "section": "",
+    "text": "Auf dieser Seite finden Sie die Informationen zu den Projekten, die ich jedes Semester anbiete. Pro Semester stehen in der Regel zwei bis drei Projekte zur Auswahl, häufig in Zusammenarbeit mit Unternehmenspartnern."
+  },
+  {
+    "objectID": "index.html#aktuelle-projekte",
+    "href": "index.html#aktuelle-projekte",
+    "title": "Projektangebote",
+    "section": "Aktuelle Projekte",
+    "text": "Aktuelle Projekte\nDie Projekte für das kommende Semester finden Sie hier:\n→ Wintersemester 2026/27"
+  },
+  {
+    "objectID": "index.html#wie-läuft-die-bewerbung-ab",
+    "href": "index.html#wie-läuft-die-bewerbung-ab",
+    "title": "Projektangebote",
+    "section": "Wie läuft die Bewerbung ab?",
+    "text": "Wie läuft die Bewerbung ab?\nDie Projekte werden zu Semesterbeginn im entsprechenden Moodle-Kurs vorgestellt. Dort finden Sie auch die Details zur Bewerbung und zur Platzvergabe. Diese Seite dient als ausführliche Ergänzung: Für jedes Projekt beschreibe ich, worum es geht, welche Technologien und Frameworks zum Einsatz kommen (mit Links zum Einlesen) und was im Semesterverlauf auf Sie zukommt."
+  },
+  {
+    "objectID": "index.html#was-erwartet-sie-in-einem-projekt",
+    "href": "index.html#was-erwartet-sie-in-einem-projekt",
+    "title": "Projektangebote",
+    "section": "Was erwartet Sie in einem Projekt?",
+    "text": "Was erwartet Sie in einem Projekt?\n\nSie arbeiten in kleinen Teams an einer realistischen Aufgabenstellung, oft mit einem Unternehmenspartner.\nDer Schwerpunkt liegt auf der praktischen Umsetzung: Prototypen bauen, Technologien ausprobieren, Ergebnisse präsentieren.\nZu Beginn gibt es eine Einführung in die verwendeten Technologien; tiefe Vorkenntnisse sind meist nicht erforderlich, die konkreten Voraussetzungen stehen auf der jeweiligen Projektseite."
+  },
+  {
+    "objectID": "index.html#frühere-projekte",
+    "href": "index.html#frühere-projekte",
+    "title": "Projektangebote",
+    "section": "Frühere Projekte",
+    "text": "Frühere Projekte\nEinen Eindruck von Themen und Arbeitsweise vermitteln die Projekte vergangener Semester."
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.\nDer Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.\nZum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt."
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Zielsetzung",
+    "text": "Zielsetzung\n\nEntwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Technologien",
+    "text": "Technologien\n\nDash (mit Python oder R)\nR Shiny"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nGrundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen"
+  },
+  {
+    "objectID": "projekte/archiv/index.html",
+    "href": "projekte/archiv/index.html",
+    "title": "Archiv: Projekte vergangener Semester",
+    "section": "",
+    "text": "Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Eindruck von den typischen Themen und der Zusammenarbeit mit Unternehmenspartnern.\n\n\n\nProjekt\nPartner\nSchwerpunkt\n\n\n\n\nEinsatz von Large Language Models (LLMs)\nZoi\nLLMs, KI-gestützte Unternehmensanwendungen\n\n\nData Science & MLOps\nDaimler AG\nData Science, Machine Learning Operations\n\n\nData Platform Architectures & MLOps\nRobert Bosch GmbH\nDatenplattformarchitektur, Lakehouse, MLOps\n\n\nReal-Time Fleet Analytics Dashboard\nadesso SE\nDashboards, Datenanalyse, Flottenmanagement"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "",
+    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "",
+    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIn diesem Projekt liegt der Fokus auf der Erforschung und Umsetzung des Potenzials von Large Language Models (z.B. GPT-4 von OpenAI) zur Automatisierung verschiedener Unternehmensaufgaben.\nInsbesondere wird untersucht, wie LLMs genutzt werden können, um Routineaufgaben wie das Verfassen von E-Mails oder die Erstellung von Berichten zu automatisieren. Ziel ist es, Produktivität und Effizienz in Unternehmen zu steigern und gleichzeitig Qualität und Konsistenz der erzeugten Inhalte zu gewährleisten.\nDas Projekt wird in Zusammenarbeit mit dem Unternehmen Zoi angeboten, das auf die Entwicklung und Beratung von KI-basierten Technologien und Anwendungen in Cloud-Umgebungen spezialisiert ist."
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nLarge Language Models\nKI-gestützte Unternehmensanwendungen\nEntwicklung von Prototypen in einer Cloud-Umgebung"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Technologien",
+    "text": "Technologien\n\nOpenAI API\nPython\nCloud-Umgebungen"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Technologien\nGrundkenntnisse in Python sind hilfreich"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html",
+    "href": "projekte/archiv/data-platform-mlops.html",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "href": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nDr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "href": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.\nIn der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines."
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "href": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nDatenplattformarchitektur\nOpen-Source-Technologien\nMachine Learning Operations\nEntwicklung in Python"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#technologien",
+    "href": "projekte/archiv/data-platform-mlops.html#technologien",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Technologien",
+    "text": "Technologien\n\nDelta Lake\nKubeflow\nTensorFlow Extended (TFX)\nPython"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "href": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an Datenarchitekturen und neuen Technologien"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html",
+    "href": "projekte/archiv/data-science-mlops.html",
+    "title": "Data Science & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nLukas Jan Stroemsdoerfer, Daimler AG"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#eckdaten",
+    "href": "projekte/archiv/data-science-mlops.html#eckdaten",
+    "title": "Data Science & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nLukas Jan Stroemsdoerfer, Daimler AG"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#worum-es-geht",
+    "href": "projekte/archiv/data-science-mlops.html#worum-es-geht",
+    "title": "Data Science & MLOps",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts werden unterschiedliche Data-Science-Anwendungsfälle (z.B. Regression, Zeitreihenanalyse, Klassifikation) in Python implementiert.\nDabei kommen Komponenten der Disziplin Machine Learning Operations (MLOps) zum Einsatz, etwa die Automatisierung von Data Pipelines und automatisiertes Modelltraining."
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
+    "href": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
+    "title": "Data Science & MLOps",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nData Science und Data Engineering\nPython\nMachine Learning Operations"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#technologien",
+    "href": "projekte/archiv/data-science-mlops.html#technologien",
+    "title": "Data Science & MLOps",
+    "section": "Technologien",
+    "text": "Technologien\n\nPython\nTensorFlow Extended (TFX)"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#voraussetzungen",
+    "href": "projekte/archiv/data-science-mlops.html#voraussetzungen",
+    "title": "Data Science & MLOps",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an neuen Technologien"
+  },
+  {
+    "objectID": "projekte/ws-2026/index.html",
+    "href": "projekte/ws-2026/index.html",
+    "title": "Wintersemester 2026/27",
+    "section": "",
+    "text": "Die Projektangebote für das Wintersemester 2026/27 werden vor Semesterbeginn hier veröffentlicht.\nGeplant sind wie üblich zwei bis drei Projekte. Einen Eindruck von typischen Themen und Formaten geben die Projekte vergangener Semester."
+  }
+]
