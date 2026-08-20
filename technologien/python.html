@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Technologien – HdM-Projekte</title>
+<title>Python – HdM-Projekte</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Wintersemester 2026/27</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../technologien/index.html" aria-current="page"> 
+    <a class="nav-link" href="../technologien/index.html"> 
 <span class="menu-text">Technologien</span></a>
   </li>  
   <li class="nav-item">
@@ -120,13 +120,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Auf dieser Seite</h2>
+   
+  <ul>
+  <li><a href="#was-ist-python" id="toc-was-ist-python" class="nav-link active" data-scroll-target="#was-ist-python">Was ist Python?</a></li>
+  <li><a href="#warum-es-sich-lohnt-das-zu-lernen" id="toc-warum-es-sich-lohnt-das-zu-lernen" class="nav-link" data-scroll-target="#warum-es-sich-lohnt-das-zu-lernen">Warum es sich lohnt, das zu lernen</a></li>
+  <li><a href="#was-sie-im-projekt-damit-machen" id="toc-was-sie-im-projekt-damit-machen" class="nav-link" data-scroll-target="#was-sie-im-projekt-damit-machen">Was Sie im Projekt damit machen</a></li>
+  <li><a href="#zum-vertiefen" id="toc-zum-vertiefen" class="nav-link" data-scroll-target="#zum-vertiefen">Zum Vertiefen</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Technologien</h1>
+<h1 class="title">Python</h1>
 </div>
 
 
@@ -143,35 +154,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In meinen Projekten kommen häufig dieselben Werkzeuge zum Einsatz. Auf diesen Seiten steht, was die jeweilige Technologie kann, wo sie in der Praxis eingesetzt wird und warum es sich lohnt, sie zu lernen.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Technologie</th>
-<th>Kurz gesagt</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="../technologien/n8n.html">n8n</a></td>
-<td>Workflow-Automatisierung: verbindet Systeme, Daten und KI-Agenten ohne großen Programmieraufwand</td>
-</tr>
-<tr class="even">
-<td><a href="../technologien/langchain.html">LangChain</a></td>
-<td>Das verbreitetste Framework, um LLM-Anwendungen in Python zu bauen</td>
-</tr>
-<tr class="odd">
-<td><a href="../technologien/llm-apis.html">LLM-APIs</a></td>
-<td>Claude, GPT &amp; Co.&nbsp;per Programmierschnittstelle: der Grundbaustein jeder KI-Anwendung</td>
-</tr>
-<tr class="even">
-<td><a href="../technologien/python.html">Python</a></td>
-<td>Die Standardsprache für Daten und KI, und seit Jahren die populärste Programmiersprache der Welt</td>
-</tr>
-</tbody>
-</table>
+<section id="was-ist-python" class="level2">
+<h2 class="anchored" data-anchor-id="was-ist-python">Was ist Python?</h2>
+<p>Python ist eine Programmiersprache, die für ihre gut lesbare Syntax bekannt ist: Der Code liest sich fast wie eine Anleitung, deshalb eignet sie sich besonders gut für den Einstieg. Gleichzeitig ist sie kein Lernspielzeug, sondern die Arbeitssprache für Datenanalyse, Machine Learning und KI-Anwendungen, mit einem riesigen Ökosystem fertiger Bibliotheken für fast jede Aufgabe.</p>
+<p><img src="images/python-einsatzfelder.webp" class="infografik img-fluid" alt="Infografik: Python im Zentrum, verbunden mit vier Einsatzfeldern. Datenanalyse (Daten auswerten und visualisieren), KI und Agenten (LangChain, OpenAI- und Claude-SDKs), Automatisierung (Dateien, Berichte, Routineaufgaben), APIs und Integration (Systeme miteinander verbinden)."></p>
+</section>
+<section id="warum-es-sich-lohnt-das-zu-lernen" class="level2">
+<h2 class="anchored" data-anchor-id="warum-es-sich-lohnt-das-zu-lernen">Warum es sich lohnt, das zu lernen</h2>
+<ul>
+<li><strong>Python ist die Standardsprache der KI.</strong> Praktisch alle relevanten KI-Werkzeuge sind Python-first, von LangChain über die SDKs von OpenAI und Anthropic bis zu PyTorch. Wer mit KI mehr machen will als chatten, kommt an Python nicht vorbei.</li>
+<li><strong>Es ist seit Jahren die populärste Programmiersprache der Welt.</strong> In den gängigen Rankings (z.B. TIOBE, IEEE Spectrum) steht Python auf Platz 1, entsprechend groß sind Community, Lernmaterial und Nachfrage am Arbeitsmarkt.</li>
+<li><strong>Der Einstieg lohnt sich auch ohne Entwickler-Ambitionen.</strong> Schon wenige Zeilen Python reichen, um Daten auszuwerten, Dateien zu verarbeiten oder eine API anzusprechen, Fähigkeiten, die in fast jedem Fachbereich nützlich sind.</li>
+</ul>
+</section>
+<section id="was-sie-im-projekt-damit-machen" class="level2">
+<h2 class="anchored" data-anchor-id="was-sie-im-projekt-damit-machen">Was Sie im Projekt damit machen</h2>
+<p>Python ist die Sprache, in der die Prototypen entstehen: Skripte für die Datenverarbeitung, die Logik der Agenten und die Anbindung der LLM-APIs. Sie schreiben dabei keinen Produktionscode auf Konzernniveau, sondern lernen, mit Python Ideen schnell in funktionierende Anwendungen zu übersetzen.</p>
+</section>
+<section id="zum-vertiefen" class="level2">
+<h2 class="anchored" data-anchor-id="zum-vertiefen">Zum Vertiefen</h2>
+<ul>
+<li><a href="https://docs.python.org/de/3/tutorial/index.html">Offizielles Python-Tutorial</a> (deutsch)</li>
+<li><a href="https://realpython.com/">Real Python</a> (Tutorials für Einsteiger bis Fortgeschrittene)</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
