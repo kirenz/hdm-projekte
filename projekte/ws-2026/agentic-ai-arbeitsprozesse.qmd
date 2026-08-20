@@ -17,7 +17,7 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 
 ## Worum es geht
 
-Ziel des Projekts ist es, Potenziale von Agentic AI für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen. Mercedes-Benz bringt den Anwendungsfall, die Daten und das Domänenwissen ein, wir entwickeln gemeinsam einen funktionsfähigen Prototypen und bewerten dessen Nutzen.
+Ziel des Projekts ist es, Potenziale von [Agentic AI](../../glossar.qmd#agentic-ai){.glossar} für den internen Wissenszugang, die operative Unterstützung und die Optimierung von Vertriebsprozessen im Bereich Digitalisierung Mercedes-Benz Members aufzuzeigen und praxisnah nutzbar zu machen. Mercedes-Benz bringt den Anwendungsfall, die Daten und das Domänenwissen ein, wir entwickeln gemeinsam einen funktionsfähigen [Prototypen](../../glossar.qmd#prototyp){.glossar} und bewerten dessen Nutzen.
 
 ## Was bringt es mir?
 
@@ -27,7 +27,7 @@ Agentic AI gehört derzeit zu den gefragtesten Themen an der Schnittstelle von W
 
 Mercedes-Benz stellt ausgewählte Fahrzeug-Preislisten für klar definierte Baureihen sowie die zugehörige Car Policy bereit. Die Preislisten enthalten verfügbare Ausstattungen, dreistellige Sonderausstattungscodes, Preisinformationen und dokumentierte Abhängigkeiten.
 
-Auf dieser abgegrenzten Datenbasis entwickeln Sie mit n8n und LangChain einen funktionsfähigen Prototypen. Dieser soll die bereitgestellten Dokumente automatisiert einlesen, relevante Inhalte strukturiert aufbereiten und intelligent abfragbar machen. Darüber hinaus soll der Agent Mitarbeitende bei der schrittweisen Zusammenstellung von Fahrzeugausstattungen unterstützen und seine Vorschläge transparent auf die verwendeten Quellen zurückführen.
+Auf dieser abgegrenzten Datenbasis entwickeln Sie mit n8n und LangChain einen funktionsfähigen Prototypen. Dieser soll die bereitgestellten Dokumente automatisiert einlesen, relevante Inhalte strukturiert aufbereiten und intelligent abfragbar machen. Darüber hinaus soll der [Agent](../../glossar.qmd#agent){.glossar} Mitarbeitende bei der schrittweisen Zusammenstellung von Fahrzeugausstattungen unterstützen und seine Vorschläge transparent auf die verwendeten Quellen zurückführen.
 
 Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen nachvollziehbaren Beratungsassistenten überführen lassen.
 
@@ -72,8 +72,8 @@ Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt i
 ## Was Sie lernen
 
 - Agentenbasierte KI-Systeme konzipieren, prototypisch umsetzen und kritisch bewerten
-- Dokumentenverarbeitung und Retrieval (RAG) mit LangChain praktisch einsetzen
-- Workflows mit n8n automatisieren und in bestehende Prozesse integrieren
+- Dokumentenverarbeitung und [Retrieval (RAG)](../../glossar.qmd#rag){.glossar} mit LangChain praktisch einsetzen
+- [Workflows](../../glossar.qmd#workflow){.glossar} mit n8n automatisieren und in bestehende Prozesse integrieren
 - Ergebnisse anhand fachlicher Prüffälle evaluieren und vor einem Unternehmenspartner präsentieren
 
 ## Bewerbung und Kontakt

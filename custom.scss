@@ -284,6 +284,22 @@ h2 {
   }
 }
 
+// ---------- Glossar-Begriffe ----------
+
+a.glossar {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-decoration-color: rgba(90, 107, 133, 0.75);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  cursor: help;
+}
+
+a.glossar:hover {
+  color: $hdm-rot;
+  text-decoration-color: $hdm-rot;
+}
+
 // ---------- Infografiken ----------
 
 .infografik {

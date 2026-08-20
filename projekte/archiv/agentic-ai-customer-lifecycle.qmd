@@ -2,7 +2,7 @@
 title: "Agentic AI for Customer Lifecycle Management"
 ---
 
-Angeboten im Wintersemester 2025/26. Einblicke in das Projekt gibt [dieser LinkedIn-Beitrag](https://www.linkedin.com/feed/update/urn:li:activity:7430169469659930624/).
+Angeboten im Wintersemester 2025/26. Einblicke in das Projekt geben [dieser LinkedIn-Beitrag](https://www.linkedin.com/feed/update/urn:li:activity:7430169469659930624/) und [dieser Blog-Artikel](https://kirenz.de/blog/agentic-ai).
 
 ## Eckdaten
 
