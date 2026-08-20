@@ -4,6 +4,7 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Art** | Interdisziplinäres Projekt |
@@ -12,6 +13,7 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 | **Sprache** | Deutsch |
 | **Projektpartner** | Maximilian Ziegler, Mercedes-Benz |
 | **Betreuung** | Prof. Dr. Jan Kirenz |
+:::
 
 ## Worum es geht
 

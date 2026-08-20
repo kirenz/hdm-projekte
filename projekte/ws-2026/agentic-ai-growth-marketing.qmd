@@ -4,6 +4,7 @@ title: "Agentic AI für Growth Marketing"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Art** | Interdisziplinäres Projekt |
@@ -11,6 +12,7 @@ title: "Agentic AI für Growth Marketing"
 | **Kategorie** | Management und IT (338025-338027), Psychologie (338110-338115) |
 | **Projektpartner** | Sophia Eichler, SiMa.ai |
 | **Betreuung** | Prof. Dr. Jan Kirenz |
+:::
 
 ## Worum es geht
 

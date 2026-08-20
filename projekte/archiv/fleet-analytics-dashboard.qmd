@@ -4,6 +4,7 @@ title: "Real-Time Fleet Analytics Dashboard"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Modul-Nr.** | 338025-338027 |
@@ -11,6 +12,7 @@ title: "Real-Time Fleet Analytics Dashboard"
 | **Prüfungsform** | PP |
 | **Projektpartner** | [adesso SE](https://www.adesso.de/) |
 | **Prüfungsleistung** | Lösungsdokumentation und Präsentation |
+:::
 
 ## Worum es geht
 

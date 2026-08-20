@@ -3,11 +3,23 @@ title: "Wintersemester 2026/27"
 toc: false
 ---
 
-Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide zum Themenfeld Agentic AI und jeweils mit einem Unternehmenspartner:
+Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide zum Themenfeld Agentic AI und jeweils mit einem Unternehmenspartner. Beide starten mit vier Blocktagen vor Beginn der Vorlesungszeit und laufen dann mit wöchentlichen Terminen.
 
-| Projekt | Partner | Schwerpunkt |
-|---|---|---|
-| [Agentic AI: Optimierung von Arbeitsprozessen](agentic-ai-arbeitsprozesse.qmd) | Mercedes-Benz | Wissenszugang, operative Unterstützung, Vertriebsprozesse |
-| [Agentic AI für Growth Marketing](agentic-ai-growth-marketing.qmd) | SiMa.ai | Leadgenerierung, Content, CRM-Automatisierung |
-
-Beide Projekte starten mit vier Blocktagen vor Beginn der Vorlesungszeit und laufen dann mit wöchentlichen Terminen. Details zu Inhalten, Technologien und Voraussetzungen stehen auf den Projektseiten.
+```{=html}
+<div class="card-grid">
+  <div class="projekt-card">
+    <div class="index-line"><span class="marker">Projekt 01</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>
+    <h3><a href="agentic-ai-arbeitsprozesse.html">Agentic AI: Optimierung von Arbeitsprozessen</a></h3>
+    <div class="partner">mit Mercedes-Benz</div>
+    <p class="desc">KI-Agenten für internen Wissenszugang, operative Unterstützung und Vertriebsprozesse im Bereich Digitalisierung Mercedes-Benz Members.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">LLM-APIs</span><span class="chip">RAG</span><span class="chip">n8n</span><span class="chip">Python</span></div>
+  </div>
+  <div class="projekt-card">
+    <div class="index-line"><span class="marker">Projekt 02</span> · Interdisziplinär · 5 SWS / 12 ECTS</div>
+    <h3><a href="agentic-ai-growth-marketing.html">Agentic AI für Growth Marketing</a></h3>
+    <div class="partner">mit SiMa.ai</div>
+    <p class="desc">Agenten für Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up und Performance-Tracking in Marketing-, Vertriebs- und CRM-Prozessen.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">Marketing-Stack</span><span class="chip">Automatisierung</span><span class="chip">Python</span></div>
+  </div>
+</div>
+```

@@ -4,6 +4,7 @@ title: "Data Science & MLOps"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Modul-Nr.** | 338025-338027 |
@@ -11,6 +12,7 @@ title: "Data Science & MLOps"
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP |
 | **Projektpartner** | Lukas Jan Stroemsdoerfer, Daimler AG |
+:::
 
 ## Worum es geht
 

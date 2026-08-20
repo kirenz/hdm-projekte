@@ -4,12 +4,14 @@ title: "Einsatz von Large Language Models (LLMs)"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **SWS** | 5 |
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP |
 | **Projektpartner** | [Zoi](https://zoi.tech/) |
+:::
 
 ## Worum es geht
 

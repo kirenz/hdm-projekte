@@ -17,6 +17,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: custom.scss
     toc: true
     lang: de

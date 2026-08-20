@@ -4,12 +4,14 @@ title: "Data Platform Architectures & MLOps"
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Modul-Nr.** | 338025-338027 |
 | **SWS/ECTS** | 5/10 |
 | **Prüfungsform** | PP |
 | **Projektpartner** | Dr. Christoph Gröger, Arnold Lutsch, Robert Bosch GmbH |
+:::
 
 ## Worum es geht
 

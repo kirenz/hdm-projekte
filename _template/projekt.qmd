@@ -11,6 +11,7 @@ Nicht zutreffende Abschnitte löschen.
 
 ## Eckdaten
 
+::: {.eckdaten}
 | | |
 |---|---|
 | **Modul-Nr.** | 338025-338027 |
@@ -19,6 +20,7 @@ Nicht zutreffende Abschnitte löschen.
 | **Prüfungsform** | KMP / PP |
 | **Projektpartner** | Name, Unternehmen (mit Link) |
 | **Teamgröße** | z.B. 3-5 Studierende |
+:::
 
 ## Worum es geht
 

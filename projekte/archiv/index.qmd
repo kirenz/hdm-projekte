@@ -5,9 +5,35 @@ toc: false
 
 Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Eindruck von den typischen Themen und der Zusammenarbeit mit Unternehmenspartnern.
 
-| Projekt | Partner | Schwerpunkt |
-|---|---|---|
-| [Einsatz von Large Language Models (LLMs)](llm-unternehmensanwendungen.qmd) | Zoi | LLMs, KI-gestützte Unternehmensanwendungen |
-| [Data Science & MLOps](data-science-mlops.qmd) | Daimler AG | Data Science, Machine Learning Operations |
-| [Data Platform Architectures & MLOps](data-platform-mlops.qmd) | Robert Bosch GmbH | Datenplattformarchitektur, Lakehouse, MLOps |
-| [Real-Time Fleet Analytics Dashboard](fleet-analytics-dashboard.qmd) | adesso SE | Dashboards, Datenanalyse, Flottenmanagement |
+```{=html}
+<div class="card-grid">
+  <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">Archiv</span> · Interdisziplinär</div>
+    <h3><a href="llm-unternehmensanwendungen.html">Einsatz von Large Language Models (LLMs)</a></h3>
+    <div class="partner">mit Zoi</div>
+    <p class="desc">LLMs zur Automatisierung von Unternehmensaufgaben: Prototypen in einer Cloud-Umgebung.</p>
+    <div class="chips"><span class="chip">LLMs</span><span class="chip">OpenAI</span><span class="chip">Cloud</span></div>
+  </div>
+  <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">Archiv</span> · Interdisziplinär</div>
+    <h3><a href="data-science-mlops.html">Data Science &amp; MLOps</a></h3>
+    <div class="partner">mit Daimler AG</div>
+    <p class="desc">Data-Science-Anwendungsfälle in Python, automatisierte Pipelines und Modelltraining.</p>
+    <div class="chips"><span class="chip">Python</span><span class="chip">MLOps</span><span class="chip">TFX</span></div>
+  </div>
+  <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">Archiv</span> · Interdisziplinär</div>
+    <h3><a href="data-platform-mlops.html">Data Platform Architectures &amp; MLOps</a></h3>
+    <div class="partner">mit Robert Bosch GmbH</div>
+    <p class="desc">Prototypische Lakehouse-Architektur mit Open-Source-Software für ML-Anwendungsfälle.</p>
+    <div class="chips"><span class="chip">Delta Lake</span><span class="chip">Kubeflow</span><span class="chip">MLOps</span></div>
+  </div>
+  <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">Archiv</span> · Interdisziplinär</div>
+    <h3><a href="fleet-analytics-dashboard.html">Real-Time Fleet Analytics Dashboard</a></h3>
+    <div class="partner">mit adesso SE</div>
+    <p class="desc">Dashboard-Lösung für ökonomisches und nachhaltiges Flottenmanagement auf Echtzeitdaten.</p>
+    <div class="chips"><span class="chip">Dash</span><span class="chip">R Shiny</span><span class="chip">Analytics</span></div>
+  </div>
+</div>
+```

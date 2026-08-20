@@ -1,0 +1,319 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap');
+
+// Palette
+$papier: #F5F6F8;      // Seitenhintergrund, kühles Papier
+$karte: #FFFFFF;       // Kartenflächen
+$tinte: #131F35;       // Text, fast schwarzes Navy
+$navy: #1F3864;        // Primärfarbe
+$stahl: #5A6B85;       // Sekundärtext
+$linie: #DCE1E9;       // Rahmen
+$hdm-rot: #E10019;     // Akzent, sparsam
+
+$body-bg: $papier;
+$body-color: $tinte;
+$primary: $navy;
+$link-color: $navy;
+$link-decoration: underline;
+$link-hover-color: $hdm-rot;
+
+$font-family-sans-serif: "Inter", -apple-system, "Segoe UI", sans-serif;
+$font-family-monospace: "IBM Plex Mono", ui-monospace, monospace;
+$headings-font-family: "Archivo", "Inter", sans-serif;
+$headings-font-weight: 700;
+$headings-color: $tinte;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+$navbar-bg: $papier;
+$navbar-fg: $tinte;
+$navbar-hl: $hdm-rot;
+$footer-bg: $tinte;
+$footer-fg: rgba(255, 255, 255, 0.75);
+
+$toc-font-size: 0.82rem;
+
+/*-- scss:rules --*/
+
+// ---------- Grundgerüst ----------
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.015em;
+}
+
+h1.title {
+  font-weight: 800;
+  font-size: clamp(1.7rem, 4.5vw, 2.9rem);
+  line-height: 1.08;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  border: none;
+  margin-top: 2.6rem;
+  padding-bottom: 0;
+}
+
+.subtitle {
+  font-family: $font-family-monospace;
+  font-size: 0.85rem;
+  color: $stahl;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+// ---------- Navbar ----------
+
+.navbar {
+  border-bottom: 1px solid $linie;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+
+  .navbar-brand {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+  }
+
+  .nav-link {
+    font-family: $font-family-monospace;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .nav-link.active,
+  .nav-link:hover {
+    color: $hdm-rot !important;
+  }
+}
+
+// ---------- Wiederkehrende Bausteine ----------
+
+// Mono-Auszeichnungszeile (über Titeln, in Karten)
+.eyebrow {
+  font-family: $font-family-monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $hdm-rot;
+  margin-bottom: 0.5rem;
+}
+
+// Tech-/Themen-Chips
+.chip {
+  display: inline-block;
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: $navy;
+  background: rgba(31, 56, 100, 0.07);
+  border: 1px solid rgba(31, 56, 100, 0.18);
+  border-radius: 3px;
+  padding: 0.18rem 0.5rem;
+  margin: 0 0.3rem 0.3rem 0;
+  white-space: nowrap;
+}
+
+// ---------- Hero (Startseite) ----------
+
+.hero {
+  padding: 3.2rem 0 2.6rem 0;
+
+  h1 {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800;
+    font-size: clamp(1.75rem, 5.5vw, 3.4rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin: 0.4rem 0 1.1rem 0;
+    max-width: 17ch;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+
+  .hero-lead {
+    font-size: 1.08rem;
+    color: $stahl;
+    max-width: 58ch;
+    margin-bottom: 0;
+  }
+}
+
+// ---------- Projektkarten (Dossier-Stil) ----------
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.1rem;
+  margin: 1.6rem 0 2.4rem 0;
+}
+
+.projekt-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: $karte;
+  border: 1px solid $linie;
+  border-top: 3px solid $navy;
+  border-radius: 6px;
+  padding: 1.4rem 1.5rem 1.3rem 1.5rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+  .index-line {
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: $stahl;
+    margin-bottom: 0.75rem;
+
+    .marker {
+      color: $hdm-rot;
+      font-weight: 500;
+    }
+  }
+
+  h3 {
+    font-family: "Archivo", sans-serif;
+    font-weight: 700;
+    font-size: 1.22rem;
+    line-height: 1.25;
+    margin: 0 0 0.45rem 0;
+
+    a {
+      color: $tinte;
+      text-decoration: none;
+    }
+  }
+
+  .partner {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: $navy;
+    margin-bottom: 0.6rem;
+  }
+
+  p.desc {
+    font-size: 0.92rem;
+    color: $stahl;
+    line-height: 1.55;
+    margin-bottom: 0.9rem;
+  }
+
+  .chips {
+    margin-top: auto;
+  }
+}
+
+.projekt-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(19, 31, 53, 0.1);
+  border-top-color: $hdm-rot;
+}
+
+// ganze Karte klickbar
+.projekt-card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+// gedämpfte Variante für das Archiv
+.projekt-card.archiv {
+  border-top-color: $linie;
+
+  .index-line .marker {
+    color: $stahl;
+  }
+}
+
+// ---------- Eckdaten auf Projektseiten ----------
+
+.eckdaten {
+  background: $karte;
+  border: 1px solid $linie;
+  border-left: 3px solid $hdm-rot;
+  border-radius: 6px;
+  padding: 0.4rem 1.4rem;
+  margin: 1.4rem 0 0.6rem 0;
+
+  table {
+    margin: 0.6rem 0;
+
+    th, thead { display: none; }
+
+    td {
+      border: none;
+      padding: 0.42rem 0;
+      vertical-align: top;
+    }
+
+    tr + tr td {
+      border-top: 1px solid rgba(220, 225, 233, 0.7);
+    }
+
+    td:first-child {
+      font-family: $font-family-monospace;
+      font-size: 0.74rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: $stahl;
+      width: 11rem;
+      padding-right: 1rem;
+      padding-top: 0.55rem;
+    }
+
+    td:last-child {
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+  }
+}
+
+// ---------- Feinschliff ----------
+
+.quarto-title-block .quarto-title {
+  margin-top: 1.2rem;
+}
+
+#quarto-margin-sidebar .sidebar-title,
+.toc-title {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: $stahl;
+}
+
+nav[role="doc-toc"] a.active {
+  color: $hdm-rot;
+  border-left-color: $hdm-rot;
+}
+
+.nav-footer {
+  font-family: $font-family-monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  padding: 1.6rem 0;
+}
+
+main ul li::marker {
+  color: $hdm-rot;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .projekt-card,
+  .projekt-card:hover {
+    transition: none;
+    transform: none;
+  }
+}
