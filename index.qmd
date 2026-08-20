@@ -7,7 +7,7 @@ toc: false
 <div class="hero">
   <div class="eyebrow">Hochschule der Medien Stuttgart · Prof. Dr. Jan Kirenz</div>
   <h1>Projekte mit echten Unternehmenspartnern</h1>
-  <p class="hero-lead">Jedes Semester biete ich zwei bis drei Projekte an: Sie analysieren eine reale Aufgabenstellung, bauen funktionsfähige Prototypen und präsentieren die Ergebnisse dem Partnerunternehmen. Hier finden Sie alle Details, bevor Sie sich bewerben.</p>
+  <p class="hero-lead">Sie analysieren eine reale Aufgabenstellung, bauen funktionsfähige Prototypen und präsentieren die Ergebnisse dem Partnerunternehmen.</p>
 </div>
 
 <div class="eyebrow">Aktuell · Wintersemester 2026/27</div>
