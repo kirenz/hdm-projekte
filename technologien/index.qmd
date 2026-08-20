@@ -1,0 +1,12 @@
+---
+title: "Technologien"
+toc: false
+---
+
+In meinen Projekten kommen häufig dieselben Werkzeuge zum Einsatz. Auf diesen Seiten steht, was die jeweilige Technologie kann, wo sie in der Praxis eingesetzt wird und warum es sich lohnt, sie zu lernen.
+
+| Technologie | Kurz gesagt |
+|---|---|
+| [n8n](n8n.qmd) | Workflow-Automatisierung: verbindet Systeme, Daten und KI-Agenten ohne großen Programmieraufwand |
+| [LangChain](langchain.qmd) | Das verbreitetste Framework, um LLM-Anwendungen in Python zu bauen |
+| [LLM-APIs](llm-apis.qmd) | Claude, GPT & Co. per Programmierschnittstelle: der Grundbaustein jeder KI-Anwendung |

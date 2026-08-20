@@ -55,14 +55,14 @@ Der Prototyp ist kein produktiver Fahrzeugkonfigurator und gibt keine verbindlic
 
 ## Technologien und Frameworks
 
-Womit Sie arbeiten werden:
+Womit Sie arbeiten werden (was die Werkzeuge können und warum sie sich lohnen, steht auf den verlinkten Seiten):
 
-- **[n8n](https://docs.n8n.io/):** Workflow-Automatisierung, verbindet Dokumenten-Pipeline, Agent und Schnittstellen
-- **[LangChain](https://python.langchain.com/docs/introduction/):** Framework für LLM-Anwendungen, Dokumentenverarbeitung und Retrieval (RAG)
-- **LLM-APIs:** z.B. [Anthropic Claude](https://docs.anthropic.com/) oder [OpenAI](https://platform.openai.com/docs/)
+- **[n8n](../../technologien/n8n.qmd):** verbindet Dokumente, Datenquellen und KI-Agenten zu automatisierten Workflows, eines der Standardwerkzeuge für Automatisierung in Unternehmen
+- **[LangChain](../../technologien/langchain.qmd):** das verbreitetste Framework für LLM-Anwendungen, hier für Dokumentenverarbeitung und quellenbasierte Antworten
+- **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Kern des Agenten
 - **Python** für die Prototyp-Entwicklung
 
-Sie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt in den Blocktagen.
+Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
 
 ## Voraussetzungen
 
@@ -76,6 +76,10 @@ Sie müssen keines dieser Frameworks vorab beherrschen, die Einführung erfolgt 
 - Dokumentenverarbeitung und Retrieval (RAG) mit LangChain praktisch einsetzen
 - Workflows mit n8n automatisieren und in bestehende Prozesse integrieren
 - Ergebnisse anhand fachlicher Prüffälle evaluieren und vor einem Unternehmenspartner präsentieren
+
+## Warum das nützlich ist
+
+Agentic AI gehört derzeit zu den gefragtesten Themen an der Schnittstelle von Wirtschaft und IT. Nach dem Projekt können Sie mehr als Konzepte erklären: Sie haben mit einem großen Unternehmen einen echten KI-Agenten gebaut, mit Werkzeugen, die in der Praxis tatsächlich eingesetzt werden. Das ist ein konkretes Referenzprojekt für Bewerbungen, und die Muster dahinter (Automatisierung, Retrieval, Agenten, Evaluation) lassen sich auf viele andere Aufgaben übertragen.
 
 ## Bewerbung und Kontakt
 

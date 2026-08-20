@@ -10,6 +10,8 @@ website:
         text: Start
       - href: projekte/ws-2026/index.qmd
         text: "Wintersemester 2026/27"
+      - href: technologien/index.qmd
+        text: Technologien
       - href: projekte/archiv/index.qmd
         text: Archiv
   page-footer:
