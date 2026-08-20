@@ -14,7 +14,7 @@ Angeboten im Wintersemester 2025/26. Einblicke in das Projekt gibt [dieser Linke
 | **Semester** | ab 6 |
 | **Prüfungsform** | KMP |
 | **Kickoff** | 22.09.-25.09. (Teilnahme erforderlich) |
-| **Projektpartner** | Robert Bosch GmbH |
+| **Projektpartner** | [Robert Bosch GmbH](https://www.bosch.de/) |
 :::
 
 ## Worum es geht

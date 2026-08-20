@@ -11,7 +11,7 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 | **SWS/ECTS** | 5 SWS / 12 ECTS |
 | **Kategorie** | Management und IT (338025-338027) |
 | **Sprache** | Deutsch |
-| **Projektpartner** | Mercedes-Benz |
+| **Projektpartner** | [Mercedes-Benz](https://www.mercedes-benz.com/) |
 | **Betreuung** | Prof. Dr. Jan Kirenz |
 :::
 

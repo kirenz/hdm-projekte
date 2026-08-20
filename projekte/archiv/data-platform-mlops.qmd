@@ -10,7 +10,7 @@ title: "Data Platform Architectures & MLOps"
 | **Modul-Nr.** | 338025-338027 |
 | **SWS/ECTS** | 5/10 |
 | **Prüfungsform** | PP |
-| **Projektpartner** | Robert Bosch GmbH |
+| **Projektpartner** | [Robert Bosch GmbH](https://www.bosch.de/) |
 :::
 
 ## Worum es geht
