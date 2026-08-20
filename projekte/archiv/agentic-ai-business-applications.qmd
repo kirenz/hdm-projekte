@@ -1,0 +1,45 @@
+---
+title: "Agentic AI in Business Applications"
+---
+
+Angeboten im Wintersemester 2025/26.
+
+## Eckdaten
+
+::: {.eckdaten}
+| | |
+|---|---|
+| **Art** | Fachspezifisches Projekt IT (338010-338014, 338064-338068) |
+| **SWS** | 3 |
+| **Semester** | ab 6 |
+| **Prüfungsform** | KMP |
+| **Kickoff** | 29.09.-30.09. (Teilnahme erforderlich) |
+:::
+
+## Worum es geht
+
+In diesem Projekt werden Agentic-AI-Prototypen für betriebswirtschaftliche Anwendungen mit Hilfe von Googles Infrastruktur entwickelt, etwa mit Vertex AI, Googles Agent Development Kit, Google Agentspace und Google Cloud.
+
+Ziel ist es, zu erforschen, wie Agentic AI genutzt werden kann, um produktive, interaktive Softwarelösungen zu gestalten, beispielsweise für Wissensmanagement, Controlling, Reporting, Prozessautomatisierung oder interne Assistenzsysteme.
+
+Im Zentrum stehen die Entwicklung vollständiger Webanwendungen mit Frontend und Backend sowie die Einbindung von Agentic AI zur Automatisierung intelligenter Workflows.
+
+## Themenschwerpunkte
+
+- Agentic AI
+- Google Cloud
+- Frontendentwicklung
+- Entwicklung von Prototypen
+
+## Technologien
+
+- [Vertex AI](https://cloud.google.com/vertex-ai)
+- [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
+- [Google Agentspace](https://cloud.google.com/agentspace)
+- [Google Cloud](https://cloud.google.com/)
+- Frontend: [React](https://react.dev/), [Next.js](https://nextjs.org/) oder [Gradio](https://www.gradio.app/)
+
+## Voraussetzungen
+
+- Affinität für Cloud-Technologien
+- Kenntnisse in Python

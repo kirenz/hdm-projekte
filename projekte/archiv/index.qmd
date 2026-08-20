@@ -8,6 +8,19 @@ Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Ein
 ```{=html}
 <div class="card-grid">
   <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">WS 25/26</span> · Interdisziplinär · 5 SWS</div>
+    <h3><a href="agentic-ai-customer-lifecycle.html">Agentic AI for Customer Lifecycle Management</a></h3>
+    <div class="partner">mit Robert Bosch GmbH</div>
+    <p class="desc">KI-Agenten für Digital Marketing, CRM und Customer Lifecycle Management: Use Cases identifizieren, priorisieren, Prototypen bauen.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">OpenAI Agents SDK</span><span class="chip">Vertex AI</span></div>
+  </div>
+  <div class="projekt-card archiv">
+    <div class="index-line"><span class="marker">WS 25/26</span> · Fachspezifisch IT · 3 SWS</div>
+    <h3><a href="agentic-ai-business-applications.html">Agentic AI in Business Applications</a></h3>
+    <p class="desc">Vollständige Webanwendungen mit Agentic AI auf Google-Infrastruktur: Vertex AI, Agent Development Kit, React/Next.js/Gradio.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">Google Cloud</span><span class="chip">Frontend</span></div>
+  </div>
+  <div class="projekt-card archiv">
     <div class="index-line"><span class="marker">Archiv</span> · Interdisziplinär</div>
     <h3><a href="llm-unternehmensanwendungen.html">Einsatz von Large Language Models (LLMs)</a></h3>
     <div class="partner">mit Zoi</div>

@@ -1,0 +1,43 @@
+---
+title: "Agentic AI for Customer Lifecycle Management"
+---
+
+Angeboten im Wintersemester 2025/26.
+
+## Eckdaten
+
+::: {.eckdaten}
+| | |
+|---|---|
+| **Art** | Interdisziplinäres Projekt Management und IT (338025-338027, 338085-338087) |
+| **SWS** | 5 |
+| **Semester** | ab 6 |
+| **Prüfungsform** | KMP |
+| **Kickoff** | 22.09.-25.09. (Teilnahme erforderlich) |
+| **Projektpartner** | Robert Bosch GmbH |
+:::
+
+## Worum es geht
+
+Ziel des Projekts ist es, Potenziale von Agentic AI (agentenbasierter KI) im Umfeld der Bosch-Abteilung Customer Touchpoints | Digital Marketing & CRM | Customer Lifecycle Management zu identifizieren, zu priorisieren und praxisnah nutzbar zu machen.
+
+Die konkreten Use Cases werden zum Projektstart gemeinsam mit der Abteilung festgelegt.
+
+Auf Basis aktueller Best Practices entstehen mit geeigneten Frameworks funktionsfähige Prototypen, die sich nahtlos in bestehende Prozesse, Tools und Datenflüsse der Abteilung integrieren lassen.
+
+## Themenschwerpunkte
+
+- AI Agents
+- Bosch Use Cases
+- Entwicklung von Prototypen
+
+## Technologien
+
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+- [Google Vertex AI](https://cloud.google.com/vertex-ai)
+- Python
+
+## Voraussetzungen
+
+- Affinität für Technologien
+- Kenntnisse in Python
