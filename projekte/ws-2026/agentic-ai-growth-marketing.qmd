@@ -32,7 +32,7 @@ Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende M
 
 ## Technologien und Frameworks
 
-Womit Sie voraussichtlich arbeiten werden (zum Einlesen vor Projektstart):
+Womit Sie voraussichtlich arbeiten werden:
 
 - **LLM-APIs:** [Anthropic Claude](https://docs.anthropic.com/) und [OpenAI](https://platform.openai.com/docs/) als Basis der Agenten
 - **Agent-Frameworks:** z.B. [LangGraph](https://langchain-ai.github.io/langgraph/), [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) oder [CrewAI](https://docs.crewai.com/)

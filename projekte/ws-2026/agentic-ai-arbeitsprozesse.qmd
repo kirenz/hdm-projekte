@@ -55,7 +55,7 @@ Der Prototyp ist kein produktiver Fahrzeugkonfigurator und gibt keine verbindlic
 
 ## Technologien und Frameworks
 
-Womit Sie arbeiten werden (zum Einlesen vor Projektstart):
+Womit Sie arbeiten werden:
 
 - **[n8n](https://docs.n8n.io/):** Workflow-Automatisierung, verbindet Dokumenten-Pipeline, Agent und Schnittstellen
 - **[LangChain](https://python.langchain.com/docs/introduction/):** Framework für LLM-Anwendungen, Dokumentenverarbeitung und Retrieval (RAG)

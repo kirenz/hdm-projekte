@@ -38,7 +38,7 @@ des Semesters entstanden? Rolle des Projektpartners. -->
 ## Technologien und Frameworks
 
 <!-- Pro Technologie ein Link zur offiziellen Doku, gern plus ein gutes
-Tutorial oder Beispiel-Repo zum Einlesen vor Projektstart. z.B.:
+Tutorial oder Beispiel-Repo. Keine Aufgaben vor Projektstart formulieren. z.B.:
 - [Anthropic Claude API](https://docs.anthropic.com/) – Docs
 - [Streamlit](https://docs.streamlit.io/) – Docs, [Tutorial](...) -->
 
