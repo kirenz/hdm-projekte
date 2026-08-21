@@ -1,5 +1,5 @@
 ---
-title: "KI in der Hochschulverwaltung"
+title: "KI in der Verwaltung"
 ---
 
 ## Eckdaten
@@ -16,7 +16,7 @@ Die formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmel
 
 ## Worum es geht
 
-In diesem Projekt wird [Agentic AI](../../glossar.qmd#agentic-ai){.glossar} nicht bei einem externen Unternehmen erprobt, sondern an der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir versuchsweise, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.
+In diesem Projekt erproben Sie [Agentic AI](../../glossar.qmd#agentic-ai){.glossar} in der Verwaltung, am Beispiel der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir versuchsweise, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.
 
 Sie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt.
 

@@ -28,9 +28,9 @@ toc: false
   </div>
   <div class="projekt-card">
     <div class="index-line"><span class="marker">WS 26/27</span> · mit Prof. Dr. Stephan Wilczek</div>
-    <h3><a href="projekte/ws-2026/ki-hochschulverwaltung.html">KI in der Hochschulverwaltung</a></h3>
+    <h3><a href="projekte/ws-2026/ki-hochschulverwaltung.html">KI in der Verwaltung</a></h3>
     <div class="partner">mit der HdM-Verwaltung</div>
-    <p class="desc">KI versuchsweise in Verwaltungsprozessen der eigenen Hochschule einsetzen: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.</p>
+    <p class="desc">KI in Verwaltungsprozessen erproben, am Beispiel der eigenen Hochschule: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.</p>
     <div class="chips"><span class="chip">Agentic AI</span><span class="chip">Use-Case-Discovery</span><span class="chip">RAG</span><span class="chip">n8n</span></div>
   </div>
 </div>
