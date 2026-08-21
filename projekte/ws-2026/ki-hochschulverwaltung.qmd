@@ -9,7 +9,7 @@ title: "KI in der Hochschulverwaltung"
 |---|---|
 | **Sprache** | Deutsch |
 | **Projektpartner** | Hochschulverwaltung der HdM |
-| **Betreuung** | Prof. Dr. Stephan Wilczek, [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
+| **Betreuung** | [Prof. Dr. Stephan Wilczek](https://hdm-stuttgart.de/person/wilczek/), [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
 
 Die formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt.
