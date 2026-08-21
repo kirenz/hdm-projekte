@@ -24,7 +24,7 @@ Sie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, pri
 
 ## Was bringt es mir?
 
-Verwaltung ist eines der größten Anwendungsfelder für KI überhaupt, von Hochschulen über Behörden bis zu den Verwaltungsabteilungen jedes Unternehmens. In diesem Projekt lernen Sie den kompletten Weg: aus echten Prozessen Use Cases ableiten, mit den Fachleuten priorisieren, [Prototypen](../../glossar.qmd#prototyp){.glossar} bauen und die Ergebnisse bewerten. Und Sie sehen die Wirkung direkt, denn es geht um die Prozesse Ihrer eigenen Hochschule.
+Verwaltung ist eines der größten Anwendungsfelder für KI überhaupt, von Hochschulen über Behörden bis zu den Verwaltungsabteilungen jedes Unternehmens. In diesem Projekt lernen Sie den kompletten Weg: aus echten Prozessen Use Cases ableiten, mit den Fachleuten priorisieren, [Prototypen](../../glossar.qmd#prototyp){.glossar} bauen und die Ergebnisse bewerten. Weil die Anwendungsfälle aus der HdM selbst kommen, sehen Sie unmittelbar, ob Ihre Lösungen im Verwaltungsalltag funktionieren.
 
 ## Mögliche Themenfelder
 
