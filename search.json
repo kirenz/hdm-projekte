@@ -1,570 +1,10 @@
 [
   {
-    "objectID": "glossar.html",
-    "href": "glossar.html",
-    "title": "Glossar",
-    "section": "",
-    "text": "Die wichtigsten Begriffe, die auf diesen Seiten vorkommen, kurz erklärt.\n\nAgent (KI-Agent)\n\nEin KI-System, das nicht nur antwortet, sondern selbstständig Arbeitsschritte ausführt: Es kann Werkzeuge aufrufen, Daten nachschlagen, Zwischenergebnisse bewerten und mehrere Schritte hintereinander planen, um eine Aufgabe zu erledigen.\n\nAgentic AI\n\nKI, die Aufgaben eigenständig plant und ausführt, statt nur auf einzelne Fragen zu antworten: Der Mensch gibt das Ziel vor, das System zerlegt den Auftrag in Schritte, nutzt Werkzeuge und Datenquellen und arbeitet bis zum Ergebnis.\n\nAPI (Programmierschnittstelle)\n\nDer Weg, über den Programme miteinander sprechen. Über die API von OpenAI oder Anthropic kann eine eigene Anwendung ein Sprachmodell nutzen, ohne dass ein Mensch im Chat sitzt.\n\nCRM (Customer Relationship Management)\n\nSoftware, in der Unternehmen ihre Kundenkontakte, Anfragen und Verkaufschancen verwalten, z.B. Salesforce oder HubSpot. Im Marketing-Kontext oft das zentrale System, an das andere Werkzeuge angebunden werden.\n\nConversion\n\nDer Moment, in dem aus einem Interessenten die gewünschte Handlung wird, z.B. eine Anmeldung, Terminbuchung oder ein Kauf. Die Conversion-Rate misst, welcher Anteil der Kontakte diesen Schritt tatsächlich geht.\n\nFramework\n\nEin Baukasten aus fertigen Software-Bausteinen für eine bestimmte Art von Anwendung. Statt alles selbst zu programmieren, nutzt man die Bausteine und ergänzt die eigene Logik, LangChain ist z.B. ein Framework für LLM-Anwendungen.\n\nFunnel\n\nDas Trichter-Bild für den Weg vom ersten Kontakt bis zum Abschluss: oben viele Interessenten, unten die wenigen, die kaufen. Marketingteams analysieren, an welcher Stufe sie Menschen verlieren.\n\nGrowth Marketing\n\nDatengetriebenes Marketing mit Fokus auf messbarem Wachstum: Maßnahmen und Kanäle werden systematisch getestet, gemessen und ausgebaut, statt auf einzelne große Kampagnen zu setzen.\n\nLead\n\nEin Kontakt mit erkennbarem Interesse, z.B. jemand, der ein Whitepaper herunterlädt oder ein Webinar besucht. Leadgenerierung ist die systematische Gewinnung solcher Kontakte.\n\nLead Nurturing\n\nDie schrittweise Weiterentwicklung von Leads durch passende Inhalte und Kontaktpunkte, bis sie bereit für ein Verkaufsgespräch sind.\n\nLLM (Large Language Model)\n\nEin großes Sprachmodell wie Claude, GPT oder Gemini: eine KI, die Text versteht und erzeugt und die Grundlage von Chatbots, Assistenten und Agenten bildet.\n\nOpen Source\n\nSoftware, deren Quellcode öffentlich ist und die frei genutzt und angepasst werden kann. Vorteil für Unternehmen: keine Lizenzkosten, volle Kontrolle, große Community.\n\nPerformance-Tracking\n\nDie laufende Messung, was Marketingmaßnahmen tatsächlich bewirken (Reichweite, Klicks, Leads, Conversions), als Grundlage für Entscheidungen statt Bauchgefühl.\n\nPrompt\n\nDie Eingabe an ein Sprachmodell, also Anweisung plus Kontext. Gute Prompts präzise zu formulieren ist ein zentraler Teil der Arbeit mit LLMs.\n\nPrototyp\n\nEine funktionsfähige, aber bewusst noch nicht perfekte Version einer Anwendung. Ziel ist zu zeigen, dass eine Idee funktioniert, bevor viel in die produktive Umsetzung investiert wird.\n\nRAG (Retrieval-Augmented Generation)\n\nEin Verfahren, das ein Sprachmodell mit eigenen Dokumenten verbindet: Vor der Antwort werden die passenden Textstellen aus einer Wissensbasis herausgesucht (Retrieval) und dem Modell mitgegeben. So kann es Fragen zu Inhalten beantworten, die es aus dem Training nicht kennt, und seine Antworten mit Quellen belegen.\n\nSDK (Software Development Kit)\n\nEin offizielles Programmierpaket eines Anbieters, das die Nutzung seiner API vereinfacht, z.B. das Python-SDK von OpenAI oder Anthropic.\n\nSelf-Hosting\n\nSoftware auf eigenen Servern betreiben statt in der Cloud des Anbieters. Für Unternehmen oft wichtig, wenn sensible Daten das Haus nicht verlassen sollen, ein Grund für die Beliebtheit von n8n.\n\nStrukturierte Ausgaben\n\nAntworten eines Sprachmodells in einem festen Datenformat (z.B. Tabellenfeldern) statt Fließtext, damit andere Programme sie automatisch weiterverarbeiten können.\n\nTool Use (Werkzeugnutzung)\n\nDie Fähigkeit eines Modells, während der Bearbeitung externe Funktionen aufzurufen, etwa eine Datenbank abzufragen, einen Termin einzutragen oder eine Berechnung auszuführen. Grundlage jedes Agenten.\n\nWebhook\n\nEine automatische Benachrichtigung von System zu System: Wenn irgendwo etwas passiert (z.B. ein Formular ausgefüllt wird), stößt das sofort einen Ablauf im nächsten System an, ein Grundbaustein von Automatisierungs-Workflows.\n\nWorkflow\n\nEin definierter, automatisierter Ablauf aus mehreren Schritten, z.B. Anfrage empfangen, Inhalte extrahieren, CRM aktualisieren, Antwort senden. In n8n baut man solche Abläufe visuell zusammen."
-  },
-  {
     "objectID": "projekte/ws-2026/index.html",
     "href": "projekte/ws-2026/index.html",
     "title": "Wintersemester 2026/27",
     "section": "",
     "text": "Im Wintersemester 2026/27 gibt es drei Projekte zum Themenfeld Agentic AI: zwei mit Unternehmenspartnern und eines gemeinsam mit der Hochschulverwaltung der HdM. Details zu Inhalten, Ablauf und Technologien stehen auf den Projektseiten.\n\n  \n    Projekt 01 · Interdisziplinär · 5 SWS\n    Agentic AI: Optimierung von Arbeitsprozessen\n    mit Mercedes-Benz\n    Preislisten- und Konfigurationsagent: Fahrzeug-Preislisten und Car Policy automatisiert einlesen, abfragbar machen und nachvollziehbare Ausstattungsvorschläge entwickeln.\n    Agentic AIn8nLangChainRAGPython\n  \n  \n    Projekt 02 · Interdisziplinär · 5 SWS\n    Agentic AI für Growth Marketing\n    mit SiMa.ai\n    Agenten für Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up und Performance-Tracking in Marketing-, Vertriebs- und CRM-Prozessen.\n    Growth MarketingAgentic AIClaude & Geminin8n\n  \n  \n    Projekt 03 · mit Prof. Dr. Stephan Wilczek\n    KI in der Hochschulverwaltung\n    mit der HdM-Verwaltung\n    KI versuchsweise in Verwaltungsprozessen der eigenen Hochschule einsetzen: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.\n    Agentic AIUse-Case-DiscoveryRAGn8n"
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "",
-    "text": "Sprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz\n\n\n\n\nDie formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt."
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "",
-    "text": "Sprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz\n\n\n\n\nDie formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt."
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIn diesem Projekt wird Agentic AI nicht bei einem externen Unternehmen erprobt, sondern an der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir versuchsweise, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.\nSie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt."
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#was-bringt-es-mir",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#was-bringt-es-mir",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Was bringt es mir?",
-    "text": "Was bringt es mir?\nVerwaltung ist eines der größten Anwendungsfelder für KI überhaupt, von Hochschulen über Behörden bis zu den Verwaltungsabteilungen jedes Unternehmens. In diesem Projekt lernen Sie den kompletten Weg: aus echten Prozessen Use Cases ableiten, mit den Fachleuten priorisieren, Prototypen bauen und die Ergebnisse bewerten. Und Sie sehen die Wirkung direkt, denn es geht um die Prozesse Ihrer eigenen Hochschule."
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#mögliche-themenfelder",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#mögliche-themenfelder",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Mögliche Themenfelder",
-    "text": "Mögliche Themenfelder\nDie konkreten Use Cases werden zum Projektstart gemeinsam mit der Verwaltung festgelegt. Typische Kandidaten in der Hochschulverwaltung sind zum Beispiel:\n\nBeantwortung wiederkehrender Anfragen von Studierenden und Mitarbeitenden\nInterne Wissenssuche über Ordnungen, Formulare und Dokumentationen\nAutomatisierte Verarbeitung von Dokumenten und Formularen\nUnterstützung bei Berichten und Auswertungen"
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#technologien-und-frameworks",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#technologien-und-frameworks",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Technologien und Frameworks",
-    "text": "Technologien und Frameworks\nDer Technologie-Stack wird passend zu den ausgewählten Use Cases festgelegt. Voraussichtlich arbeiten Sie mit:\n\nLLM-APIs: Sprachmodelle als Kern der Anwendungen\nn8n: Workflow-Automatisierung für Verwaltungsprozesse\nLangChain: Wissenssuche und quellenbasierte Antworten (RAG)\nPython für die Prototyp-Entwicklung\n\nSie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt im Projekt."
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#voraussetzungen",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#voraussetzungen",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nInteresse an KI-Anwendungen und an der Frage, wie Organisationen wirklich arbeiten\nBereitschaft, mit Verwaltungsmitarbeitenden Anforderungen zu erheben und Lösungen abzustimmen\nGrundkenntnisse in Python sind hilfreich, aber keine Bedingung"
-  },
-  {
-    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#bewerbung-und-kontakt",
-    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#bewerbung-und-kontakt",
-    "title": "KI in der Hochschulverwaltung",
-    "section": "Bewerbung und Kontakt",
-    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIm Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.\nDer Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.\nZum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt."
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "Zielsetzung",
-    "text": "Zielsetzung\n\nEntwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "Technologien",
-    "text": "Technologien\n\nDash (mit Python oder R)\nR Shiny"
-  },
-  {
-    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
-    "href": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
-    "title": "Real-Time Fleet Analytics Dashboard",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nGrundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html",
-    "href": "projekte/archiv/agentic-ai-business-applications.html",
-    "title": "Agentic AI in Business Applications",
-    "section": "",
-    "text": "Angeboten im Wintersemester 2025/26."
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html#eckdaten",
-    "href": "projekte/archiv/agentic-ai-business-applications.html#eckdaten",
-    "title": "Agentic AI in Business Applications",
-    "section": "Eckdaten",
-    "text": "Eckdaten\n\n\n\n\nArt\nFachspezifisches Projekt IT (338010-338014, 338064-338068)\n\n\nSWS\n3\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nKickoff\n29.09.-30.09. (Teilnahme erforderlich)"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html#worum-es-geht",
-    "href": "projekte/archiv/agentic-ai-business-applications.html#worum-es-geht",
-    "title": "Agentic AI in Business Applications",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIn diesem Projekt werden Agentic-AI-Prototypen für betriebswirtschaftliche Anwendungen mit Hilfe von Googles Infrastruktur entwickelt, etwa mit Vertex AI, Googles Agent Development Kit, Google Agentspace und Google Cloud.\nZiel ist es, zu erforschen, wie Agentic AI genutzt werden kann, um produktive, interaktive Softwarelösungen zu gestalten, beispielsweise für Wissensmanagement, Controlling, Reporting, Prozessautomatisierung oder interne Assistenzsysteme.\nIm Zentrum stehen die Entwicklung vollständiger Webanwendungen mit Frontend und Backend sowie die Einbindung von Agentic AI zur Automatisierung intelligenter Workflows."
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html#themenschwerpunkte",
-    "href": "projekte/archiv/agentic-ai-business-applications.html#themenschwerpunkte",
-    "title": "Agentic AI in Business Applications",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nAgentic AI\nGoogle Cloud\nFrontendentwicklung\nEntwicklung von Prototypen"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html#technologien",
-    "href": "projekte/archiv/agentic-ai-business-applications.html#technologien",
-    "title": "Agentic AI in Business Applications",
-    "section": "Technologien",
-    "text": "Technologien\n\nVertex AI\nGoogle Agent Development Kit (ADK)\nGoogle Agentspace\nGoogle Cloud\nFrontend: React, Next.js oder Gradio"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-business-applications.html#voraussetzungen",
-    "href": "projekte/archiv/agentic-ai-business-applications.html#voraussetzungen",
-    "title": "Agentic AI in Business Applications",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Cloud-Technologien\nKenntnisse in Python"
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html",
-    "href": "projekte/archiv/data-platform-mlops.html",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nRobert Bosch GmbH"
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html#eckdaten",
-    "href": "projekte/archiv/data-platform-mlops.html#eckdaten",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nRobert Bosch GmbH"
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
-    "href": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIm Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.\nIn der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines."
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
-    "href": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nDatenplattformarchitektur\nOpen-Source-Technologien\nMachine Learning Operations\nEntwicklung in Python"
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html#technologien",
-    "href": "projekte/archiv/data-platform-mlops.html#technologien",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Technologien",
-    "text": "Technologien\n\nDelta Lake\nKubeflow\nTensorFlow Extended (TFX)\nPython"
-  },
-  {
-    "objectID": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
-    "href": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
-    "title": "Data Platform Architectures & MLOps",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an Datenarchitekturen und neuen Technologien"
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "",
-    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "",
-    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIn diesem Projekt liegt der Fokus auf der Erforschung und Umsetzung des Potenzials von Large Language Models (z.B. GPT-4 von OpenAI) zur Automatisierung verschiedener Unternehmensaufgaben.\nInsbesondere wird untersucht, wie LLMs genutzt werden können, um Routineaufgaben wie das Verfassen von E-Mails oder die Erstellung von Berichten zu automatisieren. Ziel ist es, Produktivität und Effizienz in Unternehmen zu steigern und gleichzeitig Qualität und Konsistenz der erzeugten Inhalte zu gewährleisten.\nDas Projekt wird in Zusammenarbeit mit dem Unternehmen Zoi angeboten, das auf die Entwicklung und Beratung von KI-basierten Technologien und Anwendungen in Cloud-Umgebungen spezialisiert ist."
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nLarge Language Models\nKI-gestützte Unternehmensanwendungen\nEntwicklung von Prototypen in einer Cloud-Umgebung"
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "Technologien",
-    "text": "Technologien\n\nOpenAI API\nPython\nCloud-Umgebungen"
-  },
-  {
-    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
-    "href": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
-    "title": "Einsatz von Large Language Models (LLMs)",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Technologien\nGrundkenntnisse in Python sind hilfreich"
-  },
-  {
-    "objectID": "technologien/index.html",
-    "href": "technologien/index.html",
-    "title": "Technologien",
-    "section": "",
-    "text": "In meinen Projekten kommen häufig dieselben Werkzeuge zum Einsatz. Auf diesen Seiten steht, was die jeweilige Technologie kann, wo sie in der Praxis eingesetzt wird und warum es sich lohnt, sie zu lernen.\n\n\n\nTechnologie\nKurz gesagt\n\n\n\n\nn8n\nWorkflow-Automatisierung: verbindet Systeme, Daten und KI-Agenten ohne großen Programmieraufwand\n\n\nLangChain\nDas verbreitetste Framework, um LLM-Anwendungen in Python zu bauen\n\n\nLLM-APIs\nClaude, GPT & Co. per Programmierschnittstelle: der Grundbaustein jeder KI-Anwendung\n\n\nPython\nDie Standardsprache für Daten und KI, und seit Jahren die populärste Programmiersprache der Welt"
-  },
-  {
-    "objectID": "technologien/n8n.html",
-    "href": "technologien/n8n.html",
-    "title": "n8n",
-    "section": "",
-    "text": "n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläufe visuell aus Bausteinen zusammen: ein Trigger startet den Workflow (z.B. eine neue E-Mail, ein Formular, ein Zeitplan), danach folgen Schritte wie Daten abrufen, umwandeln, in Systeme schreiben oder ein LLM aufrufen. Hunderte Dienste sind direkt anbindbar, von Datenbanken über CRM-Systeme bis zu den APIs von OpenAI, Anthropic und Google. Wo die Bausteine nicht reichen, ergänzen Sie eigenen Code."
-  },
-  {
-    "objectID": "technologien/n8n.html#was-ist-n8n",
-    "href": "technologien/n8n.html#was-ist-n8n",
-    "title": "n8n",
-    "section": "",
-    "text": "n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläufe visuell aus Bausteinen zusammen: ein Trigger startet den Workflow (z.B. eine neue E-Mail, ein Formular, ein Zeitplan), danach folgen Schritte wie Daten abrufen, umwandeln, in Systeme schreiben oder ein LLM aufrufen. Hunderte Dienste sind direkt anbindbar, von Datenbanken über CRM-Systeme bis zu den APIs von OpenAI, Anthropic und Google. Wo die Bausteine nicht reichen, ergänzen Sie eigenen Code."
-  },
-  {
-    "objectID": "technologien/n8n.html#warum-es-sich-lohnt-das-zu-lernen",
-    "href": "technologien/n8n.html#warum-es-sich-lohnt-das-zu-lernen",
-    "title": "n8n",
-    "section": "Warum es sich lohnt, das zu lernen",
-    "text": "Warum es sich lohnt, das zu lernen\n\nAutomatisierung ist in fast jedem Unternehmen ein Dauerthema. Wiederkehrende Abläufe (Daten übertragen, Berichte erstellen, Anfragen vorsortieren) sind genau das, was Fachabteilungen automatisiert haben wollen. Wer solche Workflows selbst bauen kann, ist unmittelbar nützlich, ohne ein ganzes Entwicklungsteam zu brauchen.\nn8n hat sich als eines der Standardwerkzeuge für KI-Workflows etabliert, gerade weil es sich selbst hosten lässt (relevant für Datenschutz in Unternehmen) und KI-Agenten als eigene Bausteine mitbringt.\nGroße Unternehmen setzen es bereits ein. Zu den Referenzkunden zählen nach Firmenangaben unter anderem Mercedes-Benz, Deutsche Telekom, Microsoft, NVIDIA und Vodafone; Vodafone beziffert die Einsparung durch n8n-basierte Security-Workflows auf über zwei Millionen Pfund. Das Open-Source-Projekt gehört mit über 200.000 GitHub-Sternen zu den populärsten weltweit.\nDie Konzepte sind übertragbar. Wer mit n8n gearbeitet hat, versteht APIs, Webhooks und Datenflüsse, und damit die Grundlage jeder Systemintegration, unabhängig vom Werkzeug."
-  },
-  {
-    "objectID": "technologien/n8n.html#was-sie-im-projekt-damit-machen",
-    "href": "technologien/n8n.html#was-sie-im-projekt-damit-machen",
-    "title": "n8n",
-    "section": "Was Sie im Projekt damit machen",
-    "text": "Was Sie im Projekt damit machen\nTypische Aufgaben sind Dokumenten-Pipelines (Dateien automatisch einlesen und verarbeiten), die Anbindung von Datenquellen und die Orchestrierung von KI-Agenten in einen durchgängigen Ablauf."
-  },
-  {
-    "objectID": "technologien/n8n.html#zum-reinschauen",
-    "href": "technologien/n8n.html#zum-reinschauen",
-    "title": "n8n",
-    "section": "Zum Reinschauen",
-    "text": "Zum Reinschauen\nDer offizielle Quick-Start von n8n zeigt in wenigen Minuten, wie ein erster Workflow entsteht (englisch):"
-  },
-  {
-    "objectID": "technologien/n8n.html#zum-vertiefen",
-    "href": "technologien/n8n.html#zum-vertiefen",
-    "title": "n8n",
-    "section": "Zum Vertiefen",
-    "text": "Zum Vertiefen\n\nn8n-Dokumentation\nn8n AI-Workflow-Vorlagen"
-  },
-  {
-    "objectID": "technologien/langchain.html",
-    "href": "technologien/langchain.html",
-    "title": "LangChain",
-    "section": "",
-    "text": "LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen rund um große Sprachmodelle bauen lassen. Es liefert die Bausteine, die fast jede LLM-Anwendung braucht: Dokumente einlesen und zerlegen, Inhalte durchsuchbar machen (Retrieval bzw. RAG), Modelle verschiedener Anbieter einheitlich ansprechen, Werkzeuge an ein Modell anbinden und Agenten steuern."
-  },
-  {
-    "objectID": "technologien/langchain.html#was-ist-langchain",
-    "href": "technologien/langchain.html#was-ist-langchain",
-    "title": "LangChain",
-    "section": "",
-    "text": "LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen rund um große Sprachmodelle bauen lassen. Es liefert die Bausteine, die fast jede LLM-Anwendung braucht: Dokumente einlesen und zerlegen, Inhalte durchsuchbar machen (Retrieval bzw. RAG), Modelle verschiedener Anbieter einheitlich ansprechen, Werkzeuge an ein Modell anbinden und Agenten steuern."
-  },
-  {
-    "objectID": "technologien/langchain.html#warum-es-sich-lohnt-das-zu-lernen",
-    "href": "technologien/langchain.html#warum-es-sich-lohnt-das-zu-lernen",
-    "title": "LangChain",
-    "section": "Warum es sich lohnt, das zu lernen",
-    "text": "Warum es sich lohnt, das zu lernen\n\nEs ist das verbreitetste Framework seiner Art. Die Open-Source-Pakete werden nach Firmenangaben über 350 Millionen Mal pro Monat heruntergeladen; wer beruflich LLM-Anwendungen entwickelt, begegnet LangChain (oder seinem Agenten-Ableger LangGraph) mit hoher Wahrscheinlichkeit.\nBekannte Unternehmen bauen damit produktive Systeme, nach Firmenangaben unter anderem LinkedIn, Cisco, Coinbase, Workday, ServiceNow, monday.com und Klarna. Klarna etwa gibt an, die Bearbeitungszeit im Kundenservice mit einem LangChain-basierten Assistenten um 80 Prozent verkürzt zu haben.\nDie Konzepte zählen mehr als das Werkzeug. Retrieval, strukturierte Ausgaben, Tool-Nutzung, Agenten, Evaluation: Wer diese Muster einmal praktisch umgesetzt hat, kann sie in jedem anderen Framework wiederverwenden.\nEs macht den Unterschied zwischen KI benutzen und KI bauen. ChatGPT bedienen kann jeder; eine Anwendung entwickeln, die eigene Dokumente versteht und belegbare Antworten liefert, ist die Fähigkeit, die am Arbeitsmarkt gefragt ist."
-  },
-  {
-    "objectID": "technologien/langchain.html#was-sie-im-projekt-damit-machen",
-    "href": "technologien/langchain.html#was-sie-im-projekt-damit-machen",
-    "title": "LangChain",
-    "section": "Was Sie im Projekt damit machen",
-    "text": "Was Sie im Projekt damit machen\nTypische Aufgaben sind das Einlesen und Strukturieren von Dokumenten, der Aufbau einer durchsuchbaren Wissensbasis (RAG) und Agenten, die ihre Antworten transparent auf Quellen zurückführen."
-  },
-  {
-    "objectID": "technologien/langchain.html#zum-reinschauen",
-    "href": "technologien/langchain.html#zum-reinschauen",
-    "title": "LangChain",
-    "section": "Zum Reinschauen",
-    "text": "Zum Reinschauen\nEin kompakter Überblick von IBM Technology, was LangChain ist und wofür man es einsetzt (englisch):"
-  },
-  {
-    "objectID": "technologien/langchain.html#zum-vertiefen",
-    "href": "technologien/langchain.html#zum-vertiefen",
-    "title": "LangChain",
-    "section": "Zum Vertiefen",
-    "text": "Zum Vertiefen\n\nLangChain-Dokumentation\nLangGraph (Agenten-Framework aus dem LangChain-Ökosystem)"
-  },
-  {
-    "objectID": "technologien/python.html",
-    "href": "technologien/python.html",
-    "title": "Python",
-    "section": "",
-    "text": "Python ist eine Programmiersprache, die für ihre gut lesbare Syntax bekannt ist: Der Code liest sich fast wie eine Anleitung, deshalb eignet sie sich besonders gut für den Einstieg. Gleichzeitig ist sie kein Lernspielzeug, sondern die Arbeitssprache für Datenanalyse, Machine Learning und KI-Anwendungen, mit einem riesigen Ökosystem fertiger Bibliotheken für fast jede Aufgabe."
-  },
-  {
-    "objectID": "technologien/python.html#was-ist-python",
-    "href": "technologien/python.html#was-ist-python",
-    "title": "Python",
-    "section": "",
-    "text": "Python ist eine Programmiersprache, die für ihre gut lesbare Syntax bekannt ist: Der Code liest sich fast wie eine Anleitung, deshalb eignet sie sich besonders gut für den Einstieg. Gleichzeitig ist sie kein Lernspielzeug, sondern die Arbeitssprache für Datenanalyse, Machine Learning und KI-Anwendungen, mit einem riesigen Ökosystem fertiger Bibliotheken für fast jede Aufgabe."
-  },
-  {
-    "objectID": "technologien/python.html#warum-es-sich-lohnt-das-zu-lernen",
-    "href": "technologien/python.html#warum-es-sich-lohnt-das-zu-lernen",
-    "title": "Python",
-    "section": "Warum es sich lohnt, das zu lernen",
-    "text": "Warum es sich lohnt, das zu lernen\n\nPython ist die Standardsprache der KI. Praktisch alle relevanten KI-Werkzeuge sind Python-first, von LangChain über die SDKs von OpenAI und Anthropic bis zu PyTorch. Wer mit KI mehr machen will als chatten, kommt an Python nicht vorbei.\nEs ist seit Jahren die populärste Programmiersprache der Welt. In den gängigen Rankings (z.B. TIOBE, IEEE Spectrum) steht Python auf Platz 1, entsprechend groß sind Community, Lernmaterial und Nachfrage am Arbeitsmarkt.\nDer Einstieg lohnt sich auch ohne Entwickler-Ambitionen. Schon wenige Zeilen Python reichen, um Daten auszuwerten, Dateien zu verarbeiten oder eine API anzusprechen, Fähigkeiten, die in fast jedem Fachbereich nützlich sind."
-  },
-  {
-    "objectID": "technologien/python.html#was-sie-im-projekt-damit-machen",
-    "href": "technologien/python.html#was-sie-im-projekt-damit-machen",
-    "title": "Python",
-    "section": "Was Sie im Projekt damit machen",
-    "text": "Was Sie im Projekt damit machen\nPython ist die Sprache, in der die Prototypen entstehen: Skripte für die Datenverarbeitung, die Logik der Agenten und die Anbindung der LLM-APIs. Sie schreiben dabei keinen Produktionscode auf Konzernniveau, sondern lernen, mit Python Ideen schnell in funktionierende Anwendungen zu übersetzen."
-  },
-  {
-    "objectID": "technologien/python.html#zum-vertiefen",
-    "href": "technologien/python.html#zum-vertiefen",
-    "title": "Python",
-    "section": "Zum Vertiefen",
-    "text": "Zum Vertiefen\n\nOffizielles Python-Tutorial (deutsch)\nReal Python (Tutorials für Einsteiger bis Fortgeschrittene)"
-  },
-  {
-    "objectID": "technologien/llm-apis.html",
-    "href": "technologien/llm-apis.html",
-    "title": "LLM-APIs",
-    "section": "",
-    "text": "Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) lassen sich nicht nur im Chat bedienen, sondern über Programmierschnittstellen (APIs) direkt in eigene Anwendungen einbauen. Erst darüber entstehen echte Produkte: Systeme, die Dokumente verarbeiten, strukturierte Daten liefern, Werkzeuge aufrufen und als Agenten selbstständig Arbeitsschritte ausführen."
-  },
-  {
-    "objectID": "technologien/llm-apis.html#was-sind-llm-apis",
-    "href": "technologien/llm-apis.html#was-sind-llm-apis",
-    "title": "LLM-APIs",
-    "section": "",
-    "text": "Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) lassen sich nicht nur im Chat bedienen, sondern über Programmierschnittstellen (APIs) direkt in eigene Anwendungen einbauen. Erst darüber entstehen echte Produkte: Systeme, die Dokumente verarbeiten, strukturierte Daten liefern, Werkzeuge aufrufen und als Agenten selbstständig Arbeitsschritte ausführen."
-  },
-  {
-    "objectID": "technologien/llm-apis.html#warum-es-sich-lohnt-das-zu-lernen",
-    "href": "technologien/llm-apis.html#warum-es-sich-lohnt-das-zu-lernen",
-    "title": "LLM-APIs",
-    "section": "Warum es sich lohnt, das zu lernen",
-    "text": "Warum es sich lohnt, das zu lernen\n\nDie API ist der Grundbaustein jeder KI-Anwendung. Ob Chatbot, Dokumentenanalyse oder Agent: Am Anfang steht immer der Umgang mit Modell-APIs, Prompts, strukturierten Ausgaben und Tool-Aufrufen.\nDie Verbreitung in Unternehmen ist enorm. Nach Anbieterangaben nutzen über 90 Prozent der Fortune-500-Unternehmen OpenAI-Technologie, und bei Anthropic zählen acht der zehn größten US-Unternehmen zu den Kunden. Wer diese Schnittstellen beherrscht, arbeitet mit Werkzeugen, die in der Breite der Wirtschaft angekommen sind.\nHier trennt sich Anwenden von Entwickeln. Den Unterschied macht, wer versteht, wie man Modelle zuverlässig, testbar und kosteneffizient in Prozesse einbaut, genau das üben Sie im Projekt an einem realen Fall.\nAnbieterwissen veraltet, Konzepte bleiben. Prompting, Kontextfenster, strukturierte Ausgaben, Function Calling und Evaluation funktionieren bei allen Anbietern nach denselben Prinzipien."
-  },
-  {
-    "objectID": "technologien/llm-apis.html#was-sie-im-projekt-damit-machen",
-    "href": "technologien/llm-apis.html#was-sie-im-projekt-damit-machen",
-    "title": "LLM-APIs",
-    "section": "Was Sie im Projekt damit machen",
-    "text": "Was Sie im Projekt damit machen\nDie Modelle bilden den Kern der Agenten: Sie extrahieren Informationen aus Dokumenten, beantworten Fragen auf Basis der Wissensbasis und begründen ihre Vorschläge mit Quellen."
-  },
-  {
-    "objectID": "technologien/llm-apis.html#zum-reinschauen",
-    "href": "technologien/llm-apis.html#zum-reinschauen",
-    "title": "LLM-APIs",
-    "section": "Zum Reinschauen",
-    "text": "Zum Reinschauen\nWie große Sprachmodelle grundsätzlich funktionieren, erklärt IBM Technology kompakt und verständlich (englisch):"
-  },
-  {
-    "objectID": "technologien/llm-apis.html#zum-vertiefen",
-    "href": "technologien/llm-apis.html#zum-vertiefen",
-    "title": "LLM-APIs",
-    "section": "Zum Vertiefen",
-    "text": "Zum Vertiefen\n\nAnthropic-Dokumentation\nOpenAI-Dokumentation"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "",
-    "text": "Angeboten im Wintersemester 2025/26. Einblicke in das Projekt geben dieser LinkedIn-Beitrag und dieser Blog-Artikel."
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#eckdaten",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#eckdaten",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "Eckdaten",
-    "text": "Eckdaten\n\n\n\n\nArt\nInterdisziplinäres Projekt Management und IT (338025-338027, 338085-338087)\n\n\nSWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nKickoff\n22.09.-25.09. (Teilnahme erforderlich)\n\n\nProjektpartner\nRobert Bosch GmbH"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#worum-es-geht",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#worum-es-geht",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI (agentenbasierter KI) im Umfeld der Bosch-Abteilung Customer Touchpoints | Digital Marketing & CRM | Customer Lifecycle Management zu identifizieren, zu priorisieren und praxisnah nutzbar zu machen.\nDie konkreten Use Cases werden zum Projektstart gemeinsam mit der Abteilung festgelegt.\nAuf Basis aktueller Best Practices entstehen mit geeigneten Frameworks funktionsfähige Prototypen, die sich nahtlos in bestehende Prozesse, Tools und Datenflüsse der Abteilung integrieren lassen."
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#themenschwerpunkte",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#themenschwerpunkte",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nAI Agents\nBosch Use Cases\nEntwicklung von Prototypen"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#technologien",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#technologien",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "Technologien",
-    "text": "Technologien\n\nOpenAI Agents SDK\nGoogle Vertex AI\nPython"
-  },
-  {
-    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#voraussetzungen",
-    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#voraussetzungen",
-    "title": "Agentic AI for Customer Lifecycle Management",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Technologien\nKenntnisse in Python"
-  },
-  {
-    "objectID": "projekte/archiv/index.html",
-    "href": "projekte/archiv/index.html",
-    "title": "Archiv: Projekte vergangener Semester",
-    "section": "",
-    "text": "Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Eindruck von den typischen Themen und der Arbeitsweise in den Projekten.\n\n  \n    WS 25/26 · Interdisziplinär · 5 SWS\n    Agentic AI for Customer Lifecycle Management\n    mit Robert Bosch GmbH\n    KI-Agenten für Digital Marketing, CRM und Customer Lifecycle Management: Use Cases identifizieren, priorisieren, Prototypen bauen.\n    Agentic AIOpenAI Agents SDKVertex AI\n  \n  \n    WS 25/26 · Fachspezifisch IT · 3 SWS\n    Agentic AI in Business Applications\n    Vollständige Webanwendungen mit Agentic AI auf Google-Infrastruktur: Vertex AI, Agent Development Kit, React/Next.js/Gradio.\n    Agentic AIGoogle CloudFrontend\n  \n  \n    Archiv · Interdisziplinär\n    Einsatz von Large Language Models (LLMs)\n    mit Zoi\n    LLMs zur Automatisierung von Unternehmensaufgaben: Prototypen in einer Cloud-Umgebung.\n    LLMsOpenAICloud\n  \n  \n    Archiv · Interdisziplinär\n    Data Science & MLOps\n    mit Daimler AG\n    Data-Science-Anwendungsfälle in Python, automatisierte Pipelines und Modelltraining.\n    PythonMLOpsTFX\n  \n  \n    Archiv · Interdisziplinär\n    Data Platform Architectures & MLOps\n    mit Robert Bosch GmbH\n    Prototypische Lakehouse-Architektur mit Open-Source-Software für ML-Anwendungsfälle.\n    Delta LakeKubeflowMLOps\n  \n  \n    Archiv · Interdisziplinär\n    Real-Time Fleet Analytics Dashboard\n    mit adesso SE\n    Dashboard-Lösung für ökonomisches und nachhaltiges Flottenmanagement auf Echtzeitdaten.\n    DashR ShinyAnalytics"
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html",
-    "href": "projekte/archiv/data-science-mlops.html",
-    "title": "Data Science & MLOps",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nDaimler AG (heute Mercedes-Benz Group)"
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html#eckdaten",
-    "href": "projekte/archiv/data-science-mlops.html#eckdaten",
-    "title": "Data Science & MLOps",
-    "section": "",
-    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nDaimler AG (heute Mercedes-Benz Group)"
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html#worum-es-geht",
-    "href": "projekte/archiv/data-science-mlops.html#worum-es-geht",
-    "title": "Data Science & MLOps",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nIm Rahmen des Projekts werden unterschiedliche Data-Science-Anwendungsfälle (z.B. Regression, Zeitreihenanalyse, Klassifikation) in Python implementiert.\nDabei kommen Komponenten der Disziplin Machine Learning Operations (MLOps) zum Einsatz, etwa die Automatisierung von Data Pipelines und automatisiertes Modelltraining."
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
-    "href": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
-    "title": "Data Science & MLOps",
-    "section": "Themenschwerpunkte",
-    "text": "Themenschwerpunkte\n\nData Science und Data Engineering\nPython\nMachine Learning Operations"
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html#technologien",
-    "href": "projekte/archiv/data-science-mlops.html#technologien",
-    "title": "Data Science & MLOps",
-    "section": "Technologien",
-    "text": "Technologien\n\nPython\nTensorFlow Extended (TFX)"
-  },
-  {
-    "objectID": "projekte/archiv/data-science-mlops.html#voraussetzungen",
-    "href": "projekte/archiv/data-science-mlops.html#voraussetzungen",
-    "title": "Data Science & MLOps",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an neuen Technologien"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "",
-    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "",
-    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Worum es geht",
-    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI für datengetriebenes Growth Marketing aufzuzeigen und praxisnah nutzbar zu machen.\nDazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige Prototypen entwickelt, die Aufgaben wie Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking agentenbasiert unterstützen oder automatisieren.\nDer Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und CRM-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität.\nSie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, KI-Lösungen ideal für Marketing und Vertrieb einzurichten, also Agenten zu konfigurieren, sie mit Skills, Anweisungen und Wissensquellen auszustatten und in bestehende Prozesse einzubinden."
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-bringt-es-mir",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-bringt-es-mir",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Was bringt es mir?",
-    "text": "Was bringt es mir?\nMarketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.\nWie stark KI das Marketing gerade verändert, zeigt HubSpots Überblick auf Basis des aktuellen State-of-Marketing-Reports (englisch):"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-projektpartner-sima.ai",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-projektpartner-sima.ai",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Der Projektpartner: SiMa.ai",
-    "text": "Der Projektpartner: SiMa.ai\nSiMa.ai ist ein KI-Chip-Unternehmen aus dem Silicon Valley: Es entwickelt spezialisierte Chips samt Software, mit denen KI-Anwendungen direkt auf Geräten laufen (Edge AI), etwa in Industrie, Robotik und Fahrzeugen. Das europäische Büro sitzt in Stuttgart, von dort aus wird der europäische Markt aufgebaut.\nGenau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produkt in einem jungen Markt. Sie arbeiten an realen Kampagnen mit den Werkzeugen des Unternehmens und stellen Ihre Ergebnisse direkt im Stuttgarter Office vor."
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Ablauf im Semester",
-    "text": "Ablauf im Semester\n\n4 Blocktage vor Beginn der Vorlesungszeit: Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.\nWöchentliche Termine während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.\nAm Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse."
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ki-werkzeuge",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#ki-werkzeuge",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "KI-Werkzeuge",
-    "text": "KI-Werkzeuge\nSie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzbar sind:\n\nKI-Lösungen wie Claude Code und Gemini: Sie lernen, diese Agenten richtig einzurichten, mit Skills, Anweisungen und Wissensquellen, damit sie Recherche-, Content- und Analyseaufgaben zuverlässig übernehmen\nn8n: automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code\nMarketing-Stack: Anbindung an CRM- und Marketing-Tools\n\nSie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen."
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Voraussetzungen",
-    "text": "Voraussetzungen\n\nInteresse an Marketing, Vertrieb und datengetriebenen Prozessen\nAffinität für neue Technologien; Programmierkenntnisse sind nicht erforderlich\nBereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Was Sie lernen",
-    "text": "Was Sie lernen\n\nGrowth-Marketing-Prozesse (Leads, Funnel, Conversion) verstehen und KI-Einsatzpotenziale bewerten\nKI-Lösungen wie Claude Code und Gemini für Marketing und Vertrieb einrichten: Agenten konfigurieren, Skills anlegen, Wissensquellen anbinden\nMarketing-Workflows mit n8n automatisieren\nWirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)\nErgebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren"
-  },
-  {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Bewerbung und Kontakt",
-    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
   },
   {
     "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html",
@@ -644,6 +84,314 @@
     "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
   },
   {
+    "objectID": "projekte/archiv/data-platform-mlops.html",
+    "href": "projekte/archiv/data-platform-mlops.html",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nRobert Bosch GmbH"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "href": "projekte/archiv/data-platform-mlops.html#eckdaten",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nRobert Bosch GmbH"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "href": "projekte/archiv/data-platform-mlops.html#worum-es-geht",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts wird mit Hilfe von Open-Source-Software eine prototypische State-of-the-Art Data-Lake- bzw. Datenplattformarchitektur (z.B. Lakehouse) für die Realisierung unterschiedlicher Machine-Learning-Anwendungsfälle konzipiert und implementiert.\nIn der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt, etwa Feature Store, Model Registry und Data Pipelines."
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "href": "projekte/archiv/data-platform-mlops.html#themenschwerpunkte",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nDatenplattformarchitektur\nOpen-Source-Technologien\nMachine Learning Operations\nEntwicklung in Python"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#technologien",
+    "href": "projekte/archiv/data-platform-mlops.html#technologien",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Technologien",
+    "text": "Technologien\n\nDelta Lake\nKubeflow\nTensorFlow Extended (TFX)\nPython"
+  },
+  {
+    "objectID": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "href": "projekte/archiv/data-platform-mlops.html#voraussetzungen",
+    "title": "Data Platform Architectures & MLOps",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an Datenarchitekturen und neuen Technologien"
+  },
+  {
+    "objectID": "projekte/archiv/index.html",
+    "href": "projekte/archiv/index.html",
+    "title": "Archiv: Projekte vergangener Semester",
+    "section": "",
+    "text": "Diese Projekte wurden in früheren Semestern angeboten. Sie vermitteln einen Eindruck von den typischen Themen und der Arbeitsweise in den Projekten.\n\n  \n    WS 25/26 · Interdisziplinär · 5 SWS\n    Agentic AI for Customer Lifecycle Management\n    mit Robert Bosch GmbH\n    KI-Agenten für Digital Marketing, CRM und Customer Lifecycle Management: Use Cases identifizieren, priorisieren, Prototypen bauen.\n    Agentic AIOpenAI Agents SDKVertex AI\n  \n  \n    WS 25/26 · Fachspezifisch IT · 3 SWS\n    Agentic AI in Business Applications\n    Vollständige Webanwendungen mit Agentic AI auf Google-Infrastruktur: Vertex AI, Agent Development Kit, React/Next.js/Gradio.\n    Agentic AIGoogle CloudFrontend\n  \n  \n    Archiv · Interdisziplinär\n    Einsatz von Large Language Models (LLMs)\n    mit Zoi\n    LLMs zur Automatisierung von Unternehmensaufgaben: Prototypen in einer Cloud-Umgebung.\n    LLMsOpenAICloud\n  \n  \n    Archiv · Interdisziplinär\n    Data Science & MLOps\n    mit Daimler AG\n    Data-Science-Anwendungsfälle in Python, automatisierte Pipelines und Modelltraining.\n    PythonMLOpsTFX\n  \n  \n    Archiv · Interdisziplinär\n    Data Platform Architectures & MLOps\n    mit Robert Bosch GmbH\n    Prototypische Lakehouse-Architektur mit Open-Source-Software für ML-Anwendungsfälle.\n    Delta LakeKubeflowMLOps\n  \n  \n    Archiv · Interdisziplinär\n    Real-Time Fleet Analytics Dashboard\n    mit adesso SE\n    Dashboard-Lösung für ökonomisches und nachhaltiges Flottenmanagement auf Echtzeitdaten.\n    DashR ShinyAnalytics"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "",
+    "text": "Angeboten im Wintersemester 2025/26. Einblicke in das Projekt geben dieser LinkedIn-Beitrag und dieser Blog-Artikel."
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#eckdaten",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#eckdaten",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "Eckdaten",
+    "text": "Eckdaten\n\n\n\n\nArt\nInterdisziplinäres Projekt Management und IT (338025-338027, 338085-338087)\n\n\nSWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nKickoff\n22.09.-25.09. (Teilnahme erforderlich)\n\n\nProjektpartner\nRobert Bosch GmbH"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#worum-es-geht",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#worum-es-geht",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI (agentenbasierter KI) im Umfeld der Bosch-Abteilung Customer Touchpoints | Digital Marketing & CRM | Customer Lifecycle Management zu identifizieren, zu priorisieren und praxisnah nutzbar zu machen.\nDie konkreten Use Cases werden zum Projektstart gemeinsam mit der Abteilung festgelegt.\nAuf Basis aktueller Best Practices entstehen mit geeigneten Frameworks funktionsfähige Prototypen, die sich nahtlos in bestehende Prozesse, Tools und Datenflüsse der Abteilung integrieren lassen."
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#themenschwerpunkte",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#themenschwerpunkte",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nAI Agents\nBosch Use Cases\nEntwicklung von Prototypen"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#technologien",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#technologien",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "Technologien",
+    "text": "Technologien\n\nOpenAI Agents SDK\nGoogle Vertex AI\nPython"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-customer-lifecycle.html#voraussetzungen",
+    "href": "projekte/archiv/agentic-ai-customer-lifecycle.html#voraussetzungen",
+    "title": "Agentic AI for Customer Lifecycle Management",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Technologien\nKenntnisse in Python"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#eckdaten",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nPrüfungsform\nPP\n\n\nProjektpartner\nadesso SE\n\n\nPrüfungsleistung\nLösungsdokumentation und Präsentation"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#worum-es-geht",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts wird eine Dashboard-Lösung für ein ökonomisches und nachhaltiges Flottenmanagement (Routenplanung, effiziente und nachhaltige Fahrweise) konzipiert und entwickelt.\nDer Projektpartner adesso definiert eine Aufgabenstellung und stellt unterschiedliche Daten zur Verfügung (Telematikdaten, Daten zum Echtzeit-Fahrverhalten, Sensor-Daten). Auf dieser Grundlage werden Analysen durchgeführt und eine Entscheidungsunterstützung für Flotten-Betreiber entwickelt.\nZum Start des Projekts werden die grundlegend notwendigen Programmier-Fähigkeiten in einem zweitägigen Workshop vermittelt."
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#zielsetzung",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Zielsetzung",
+    "text": "Zielsetzung\n\nEntwicklung eines Dashboards für die Erreichung konkreter Ziele (Effizienz, nachhaltige Mobilität)"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#technologien",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Technologien",
+    "text": "Technologien\n\nDash (mit Python oder R)\nR Shiny"
+  },
+  {
+    "objectID": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "href": "projekte/archiv/fleet-analytics-dashboard.html#voraussetzungen",
+    "title": "Real-Time Fleet Analytics Dashboard",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nGrundlegende Bereitschaft, sich mit Programmiersprachen (Python und/oder R) und statistischen Methoden bzw. Machine Learning zu befassen"
+  },
+  {
+    "objectID": "glossar.html",
+    "href": "glossar.html",
+    "title": "Glossar",
+    "section": "",
+    "text": "Die wichtigsten Begriffe, die auf diesen Seiten vorkommen, kurz erklärt.\n\nAgent (KI-Agent)\n\nEin KI-System, das nicht nur antwortet, sondern selbstständig Arbeitsschritte ausführt: Es kann Werkzeuge aufrufen, Daten nachschlagen, Zwischenergebnisse bewerten und mehrere Schritte hintereinander planen, um eine Aufgabe zu erledigen.\n\nAgentic AI\n\nKI, die Aufgaben eigenständig plant und ausführt, statt nur auf einzelne Fragen zu antworten: Der Mensch gibt das Ziel vor, das System zerlegt den Auftrag in Schritte, nutzt Werkzeuge und Datenquellen und arbeitet bis zum Ergebnis.\n\nAPI (Programmierschnittstelle)\n\nDer Weg, über den Programme miteinander sprechen. Über die API von OpenAI oder Anthropic kann eine eigene Anwendung ein Sprachmodell nutzen, ohne dass ein Mensch im Chat sitzt.\n\nCRM (Customer Relationship Management)\n\nSoftware, in der Unternehmen ihre Kundenkontakte, Anfragen und Verkaufschancen verwalten, z.B. Salesforce oder HubSpot. Im Marketing-Kontext oft das zentrale System, an das andere Werkzeuge angebunden werden.\n\nConversion\n\nDer Moment, in dem aus einem Interessenten die gewünschte Handlung wird, z.B. eine Anmeldung, Terminbuchung oder ein Kauf. Die Conversion-Rate misst, welcher Anteil der Kontakte diesen Schritt tatsächlich geht.\n\nFramework\n\nEin Baukasten aus fertigen Software-Bausteinen für eine bestimmte Art von Anwendung. Statt alles selbst zu programmieren, nutzt man die Bausteine und ergänzt die eigene Logik, LangChain ist z.B. ein Framework für LLM-Anwendungen.\n\nFunnel\n\nDas Trichter-Bild für den Weg vom ersten Kontakt bis zum Abschluss: oben viele Interessenten, unten die wenigen, die kaufen. Marketingteams analysieren, an welcher Stufe sie Menschen verlieren.\n\nGrowth Marketing\n\nDatengetriebenes Marketing mit Fokus auf messbarem Wachstum: Maßnahmen und Kanäle werden systematisch getestet, gemessen und ausgebaut, statt auf einzelne große Kampagnen zu setzen.\n\nLead\n\nEin Kontakt mit erkennbarem Interesse, z.B. jemand, der ein Whitepaper herunterlädt oder ein Webinar besucht. Leadgenerierung ist die systematische Gewinnung solcher Kontakte.\n\nLead Nurturing\n\nDie schrittweise Weiterentwicklung von Leads durch passende Inhalte und Kontaktpunkte, bis sie bereit für ein Verkaufsgespräch sind.\n\nLLM (Large Language Model)\n\nEin großes Sprachmodell wie Claude, GPT oder Gemini: eine KI, die Text versteht und erzeugt und die Grundlage von Chatbots, Assistenten und Agenten bildet.\n\nOpen Source\n\nSoftware, deren Quellcode öffentlich ist und die frei genutzt und angepasst werden kann. Vorteil für Unternehmen: keine Lizenzkosten, volle Kontrolle, große Community.\n\nPerformance-Tracking\n\nDie laufende Messung, was Marketingmaßnahmen tatsächlich bewirken (Reichweite, Klicks, Leads, Conversions), als Grundlage für Entscheidungen statt Bauchgefühl.\n\nPrompt\n\nDie Eingabe an ein Sprachmodell, also Anweisung plus Kontext. Gute Prompts präzise zu formulieren ist ein zentraler Teil der Arbeit mit LLMs.\n\nPrototyp\n\nEine funktionsfähige, aber bewusst noch nicht perfekte Version einer Anwendung. Ziel ist zu zeigen, dass eine Idee funktioniert, bevor viel in die produktive Umsetzung investiert wird.\n\nRAG (Retrieval-Augmented Generation)\n\nEin Verfahren, das ein Sprachmodell mit eigenen Dokumenten verbindet: Vor der Antwort werden die passenden Textstellen aus einer Wissensbasis herausgesucht (Retrieval) und dem Modell mitgegeben. So kann es Fragen zu Inhalten beantworten, die es aus dem Training nicht kennt, und seine Antworten mit Quellen belegen.\n\nSDK (Software Development Kit)\n\nEin offizielles Programmierpaket eines Anbieters, das die Nutzung seiner API vereinfacht, z.B. das Python-SDK von OpenAI oder Anthropic.\n\nSelf-Hosting\n\nSoftware auf eigenen Servern betreiben statt in der Cloud des Anbieters. Für Unternehmen oft wichtig, wenn sensible Daten das Haus nicht verlassen sollen, ein Grund für die Beliebtheit von n8n.\n\nStrukturierte Ausgaben\n\nAntworten eines Sprachmodells in einem festen Datenformat (z.B. Tabellenfeldern) statt Fließtext, damit andere Programme sie automatisch weiterverarbeiten können.\n\nTool Use (Werkzeugnutzung)\n\nDie Fähigkeit eines Modells, während der Bearbeitung externe Funktionen aufzurufen, etwa eine Datenbank abzufragen, einen Termin einzutragen oder eine Berechnung auszuführen. Grundlage jedes Agenten.\n\nWebhook\n\nEine automatische Benachrichtigung von System zu System: Wenn irgendwo etwas passiert (z.B. ein Formular ausgefüllt wird), stößt das sofort einen Ablauf im nächsten System an, ein Grundbaustein von Automatisierungs-Workflows.\n\nWorkflow\n\nEin definierter, automatisierter Ablauf aus mehreren Schritten, z.B. Anfrage empfangen, Inhalte extrahieren, CRM aktualisieren, Antwort senden. In n8n baut man solche Abläufe visuell zusammen."
+  },
+  {
+    "objectID": "technologien/index.html",
+    "href": "technologien/index.html",
+    "title": "Technologien",
+    "section": "",
+    "text": "In meinen Projekten kommen häufig dieselben Werkzeuge zum Einsatz. Auf diesen Seiten steht, was die jeweilige Technologie kann, wo sie in der Praxis eingesetzt wird und warum es sich lohnt, sie zu lernen.\n\n\n\nTechnologie\nKurz gesagt\n\n\n\n\nn8n\nWorkflow-Automatisierung: verbindet Systeme, Daten und KI-Agenten ohne großen Programmieraufwand\n\n\nLangChain\nDas verbreitetste Framework, um LLM-Anwendungen in Python zu bauen\n\n\nLLM-APIs\nClaude, GPT & Co. per Programmierschnittstelle: der Grundbaustein jeder KI-Anwendung\n\n\nPython\nDie Standardsprache für Daten und KI, und seit Jahren die populärste Programmiersprache der Welt"
+  },
+  {
+    "objectID": "technologien/n8n.html",
+    "href": "technologien/n8n.html",
+    "title": "n8n",
+    "section": "",
+    "text": "n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläufe visuell aus Bausteinen zusammen: ein Trigger startet den Workflow (z.B. eine neue E-Mail, ein Formular, ein Zeitplan), danach folgen Schritte wie Daten abrufen, umwandeln, in Systeme schreiben oder ein LLM aufrufen. Hunderte Dienste sind direkt anbindbar, von Datenbanken über CRM-Systeme bis zu den APIs von OpenAI, Anthropic und Google. Wo die Bausteine nicht reichen, ergänzen Sie eigenen Code."
+  },
+  {
+    "objectID": "technologien/n8n.html#was-ist-n8n",
+    "href": "technologien/n8n.html#was-ist-n8n",
+    "title": "n8n",
+    "section": "",
+    "text": "n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläufe visuell aus Bausteinen zusammen: ein Trigger startet den Workflow (z.B. eine neue E-Mail, ein Formular, ein Zeitplan), danach folgen Schritte wie Daten abrufen, umwandeln, in Systeme schreiben oder ein LLM aufrufen. Hunderte Dienste sind direkt anbindbar, von Datenbanken über CRM-Systeme bis zu den APIs von OpenAI, Anthropic und Google. Wo die Bausteine nicht reichen, ergänzen Sie eigenen Code."
+  },
+  {
+    "objectID": "technologien/n8n.html#warum-es-sich-lohnt-das-zu-lernen",
+    "href": "technologien/n8n.html#warum-es-sich-lohnt-das-zu-lernen",
+    "title": "n8n",
+    "section": "Warum es sich lohnt, das zu lernen",
+    "text": "Warum es sich lohnt, das zu lernen\n\nAutomatisierung ist in fast jedem Unternehmen ein Dauerthema. Wiederkehrende Abläufe (Daten übertragen, Berichte erstellen, Anfragen vorsortieren) sind genau das, was Fachabteilungen automatisiert haben wollen. Wer solche Workflows selbst bauen kann, ist unmittelbar nützlich, ohne ein ganzes Entwicklungsteam zu brauchen.\nn8n hat sich als eines der Standardwerkzeuge für KI-Workflows etabliert, gerade weil es sich selbst hosten lässt (relevant für Datenschutz in Unternehmen) und KI-Agenten als eigene Bausteine mitbringt.\nGroße Unternehmen setzen es bereits ein. Zu den Referenzkunden zählen nach Firmenangaben unter anderem Mercedes-Benz, Deutsche Telekom, Microsoft, NVIDIA und Vodafone; Vodafone beziffert die Einsparung durch n8n-basierte Security-Workflows auf über zwei Millionen Pfund. Das Open-Source-Projekt gehört mit über 200.000 GitHub-Sternen zu den populärsten weltweit.\nDie Konzepte sind übertragbar. Wer mit n8n gearbeitet hat, versteht APIs, Webhooks und Datenflüsse, und damit die Grundlage jeder Systemintegration, unabhängig vom Werkzeug."
+  },
+  {
+    "objectID": "technologien/n8n.html#was-sie-im-projekt-damit-machen",
+    "href": "technologien/n8n.html#was-sie-im-projekt-damit-machen",
+    "title": "n8n",
+    "section": "Was Sie im Projekt damit machen",
+    "text": "Was Sie im Projekt damit machen\nTypische Aufgaben sind Dokumenten-Pipelines (Dateien automatisch einlesen und verarbeiten), die Anbindung von Datenquellen und die Orchestrierung von KI-Agenten in einen durchgängigen Ablauf."
+  },
+  {
+    "objectID": "technologien/n8n.html#zum-reinschauen",
+    "href": "technologien/n8n.html#zum-reinschauen",
+    "title": "n8n",
+    "section": "Zum Reinschauen",
+    "text": "Zum Reinschauen\nDer offizielle Quick-Start von n8n zeigt in wenigen Minuten, wie ein erster Workflow entsteht (englisch):"
+  },
+  {
+    "objectID": "technologien/n8n.html#zum-vertiefen",
+    "href": "technologien/n8n.html#zum-vertiefen",
+    "title": "n8n",
+    "section": "Zum Vertiefen",
+    "text": "Zum Vertiefen\n\nn8n-Dokumentation\nn8n AI-Workflow-Vorlagen"
+  },
+  {
+    "objectID": "technologien/python.html",
+    "href": "technologien/python.html",
+    "title": "Python",
+    "section": "",
+    "text": "Python ist eine Programmiersprache, die für ihre gut lesbare Syntax bekannt ist: Der Code liest sich fast wie eine Anleitung, deshalb eignet sie sich besonders gut für den Einstieg. Gleichzeitig ist sie kein Lernspielzeug, sondern die Arbeitssprache für Datenanalyse, Machine Learning und KI-Anwendungen, mit einem riesigen Ökosystem fertiger Bibliotheken für fast jede Aufgabe."
+  },
+  {
+    "objectID": "technologien/python.html#was-ist-python",
+    "href": "technologien/python.html#was-ist-python",
+    "title": "Python",
+    "section": "",
+    "text": "Python ist eine Programmiersprache, die für ihre gut lesbare Syntax bekannt ist: Der Code liest sich fast wie eine Anleitung, deshalb eignet sie sich besonders gut für den Einstieg. Gleichzeitig ist sie kein Lernspielzeug, sondern die Arbeitssprache für Datenanalyse, Machine Learning und KI-Anwendungen, mit einem riesigen Ökosystem fertiger Bibliotheken für fast jede Aufgabe."
+  },
+  {
+    "objectID": "technologien/python.html#warum-es-sich-lohnt-das-zu-lernen",
+    "href": "technologien/python.html#warum-es-sich-lohnt-das-zu-lernen",
+    "title": "Python",
+    "section": "Warum es sich lohnt, das zu lernen",
+    "text": "Warum es sich lohnt, das zu lernen\n\nPython ist die Standardsprache der KI. Praktisch alle relevanten KI-Werkzeuge sind Python-first, von LangChain über die SDKs von OpenAI und Anthropic bis zu PyTorch. Wer mit KI mehr machen will als chatten, kommt an Python nicht vorbei.\nEs ist seit Jahren die populärste Programmiersprache der Welt. In den gängigen Rankings (z.B. TIOBE, IEEE Spectrum) steht Python auf Platz 1, entsprechend groß sind Community, Lernmaterial und Nachfrage am Arbeitsmarkt.\nDer Einstieg lohnt sich auch ohne Entwickler-Ambitionen. Schon wenige Zeilen Python reichen, um Daten auszuwerten, Dateien zu verarbeiten oder eine API anzusprechen, Fähigkeiten, die in fast jedem Fachbereich nützlich sind."
+  },
+  {
+    "objectID": "technologien/python.html#was-sie-im-projekt-damit-machen",
+    "href": "technologien/python.html#was-sie-im-projekt-damit-machen",
+    "title": "Python",
+    "section": "Was Sie im Projekt damit machen",
+    "text": "Was Sie im Projekt damit machen\nPython ist die Sprache, in der die Prototypen entstehen: Skripte für die Datenverarbeitung, die Logik der Agenten und die Anbindung der LLM-APIs. Sie schreiben dabei keinen Produktionscode auf Konzernniveau, sondern lernen, mit Python Ideen schnell in funktionierende Anwendungen zu übersetzen."
+  },
+  {
+    "objectID": "technologien/python.html#zum-vertiefen",
+    "href": "technologien/python.html#zum-vertiefen",
+    "title": "Python",
+    "section": "Zum Vertiefen",
+    "text": "Zum Vertiefen\n\nOffizielles Python-Tutorial (deutsch)\nReal Python (Tutorials für Einsteiger bis Fortgeschrittene)"
+  },
+  {
+    "objectID": "technologien/llm-apis.html",
+    "href": "technologien/llm-apis.html",
+    "title": "LLM-APIs",
+    "section": "",
+    "text": "Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) lassen sich nicht nur im Chat bedienen, sondern über Programmierschnittstellen (APIs) direkt in eigene Anwendungen einbauen. Erst darüber entstehen echte Produkte: Systeme, die Dokumente verarbeiten, strukturierte Daten liefern, Werkzeuge aufrufen und als Agenten selbstständig Arbeitsschritte ausführen."
+  },
+  {
+    "objectID": "technologien/llm-apis.html#was-sind-llm-apis",
+    "href": "technologien/llm-apis.html#was-sind-llm-apis",
+    "title": "LLM-APIs",
+    "section": "",
+    "text": "Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) lassen sich nicht nur im Chat bedienen, sondern über Programmierschnittstellen (APIs) direkt in eigene Anwendungen einbauen. Erst darüber entstehen echte Produkte: Systeme, die Dokumente verarbeiten, strukturierte Daten liefern, Werkzeuge aufrufen und als Agenten selbstständig Arbeitsschritte ausführen."
+  },
+  {
+    "objectID": "technologien/llm-apis.html#warum-es-sich-lohnt-das-zu-lernen",
+    "href": "technologien/llm-apis.html#warum-es-sich-lohnt-das-zu-lernen",
+    "title": "LLM-APIs",
+    "section": "Warum es sich lohnt, das zu lernen",
+    "text": "Warum es sich lohnt, das zu lernen\n\nDie API ist der Grundbaustein jeder KI-Anwendung. Ob Chatbot, Dokumentenanalyse oder Agent: Am Anfang steht immer der Umgang mit Modell-APIs, Prompts, strukturierten Ausgaben und Tool-Aufrufen.\nDie Verbreitung in Unternehmen ist enorm. Nach Anbieterangaben nutzen über 90 Prozent der Fortune-500-Unternehmen OpenAI-Technologie, und bei Anthropic zählen acht der zehn größten US-Unternehmen zu den Kunden. Wer diese Schnittstellen beherrscht, arbeitet mit Werkzeugen, die in der Breite der Wirtschaft angekommen sind.\nHier trennt sich Anwenden von Entwickeln. Den Unterschied macht, wer versteht, wie man Modelle zuverlässig, testbar und kosteneffizient in Prozesse einbaut, genau das üben Sie im Projekt an einem realen Fall.\nAnbieterwissen veraltet, Konzepte bleiben. Prompting, Kontextfenster, strukturierte Ausgaben, Function Calling und Evaluation funktionieren bei allen Anbietern nach denselben Prinzipien."
+  },
+  {
+    "objectID": "technologien/llm-apis.html#was-sie-im-projekt-damit-machen",
+    "href": "technologien/llm-apis.html#was-sie-im-projekt-damit-machen",
+    "title": "LLM-APIs",
+    "section": "Was Sie im Projekt damit machen",
+    "text": "Was Sie im Projekt damit machen\nDie Modelle bilden den Kern der Agenten: Sie extrahieren Informationen aus Dokumenten, beantworten Fragen auf Basis der Wissensbasis und begründen ihre Vorschläge mit Quellen."
+  },
+  {
+    "objectID": "technologien/llm-apis.html#zum-reinschauen",
+    "href": "technologien/llm-apis.html#zum-reinschauen",
+    "title": "LLM-APIs",
+    "section": "Zum Reinschauen",
+    "text": "Zum Reinschauen\nWie große Sprachmodelle grundsätzlich funktionieren, erklärt IBM Technology kompakt und verständlich (englisch):"
+  },
+  {
+    "objectID": "technologien/llm-apis.html#zum-vertiefen",
+    "href": "technologien/llm-apis.html#zum-vertiefen",
+    "title": "LLM-APIs",
+    "section": "Zum Vertiefen",
+    "text": "Zum Vertiefen\n\nAnthropic-Dokumentation\nOpenAI-Dokumentation"
+  },
+  {
+    "objectID": "technologien/langchain.html",
+    "href": "technologien/langchain.html",
+    "title": "LangChain",
+    "section": "",
+    "text": "LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen rund um große Sprachmodelle bauen lassen. Es liefert die Bausteine, die fast jede LLM-Anwendung braucht: Dokumente einlesen und zerlegen, Inhalte durchsuchbar machen (Retrieval bzw. RAG), Modelle verschiedener Anbieter einheitlich ansprechen, Werkzeuge an ein Modell anbinden und Agenten steuern."
+  },
+  {
+    "objectID": "technologien/langchain.html#was-ist-langchain",
+    "href": "technologien/langchain.html#was-ist-langchain",
+    "title": "LangChain",
+    "section": "",
+    "text": "LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen rund um große Sprachmodelle bauen lassen. Es liefert die Bausteine, die fast jede LLM-Anwendung braucht: Dokumente einlesen und zerlegen, Inhalte durchsuchbar machen (Retrieval bzw. RAG), Modelle verschiedener Anbieter einheitlich ansprechen, Werkzeuge an ein Modell anbinden und Agenten steuern."
+  },
+  {
+    "objectID": "technologien/langchain.html#warum-es-sich-lohnt-das-zu-lernen",
+    "href": "technologien/langchain.html#warum-es-sich-lohnt-das-zu-lernen",
+    "title": "LangChain",
+    "section": "Warum es sich lohnt, das zu lernen",
+    "text": "Warum es sich lohnt, das zu lernen\n\nEs ist das verbreitetste Framework seiner Art. Die Open-Source-Pakete werden nach Firmenangaben über 350 Millionen Mal pro Monat heruntergeladen; wer beruflich LLM-Anwendungen entwickelt, begegnet LangChain (oder seinem Agenten-Ableger LangGraph) mit hoher Wahrscheinlichkeit.\nBekannte Unternehmen bauen damit produktive Systeme, nach Firmenangaben unter anderem LinkedIn, Cisco, Coinbase, Workday, ServiceNow, monday.com und Klarna. Klarna etwa gibt an, die Bearbeitungszeit im Kundenservice mit einem LangChain-basierten Assistenten um 80 Prozent verkürzt zu haben.\nDie Konzepte zählen mehr als das Werkzeug. Retrieval, strukturierte Ausgaben, Tool-Nutzung, Agenten, Evaluation: Wer diese Muster einmal praktisch umgesetzt hat, kann sie in jedem anderen Framework wiederverwenden.\nEs macht den Unterschied zwischen KI benutzen und KI bauen. ChatGPT bedienen kann jeder; eine Anwendung entwickeln, die eigene Dokumente versteht und belegbare Antworten liefert, ist die Fähigkeit, die am Arbeitsmarkt gefragt ist."
+  },
+  {
+    "objectID": "technologien/langchain.html#was-sie-im-projekt-damit-machen",
+    "href": "technologien/langchain.html#was-sie-im-projekt-damit-machen",
+    "title": "LangChain",
+    "section": "Was Sie im Projekt damit machen",
+    "text": "Was Sie im Projekt damit machen\nTypische Aufgaben sind das Einlesen und Strukturieren von Dokumenten, der Aufbau einer durchsuchbaren Wissensbasis (RAG) und Agenten, die ihre Antworten transparent auf Quellen zurückführen."
+  },
+  {
+    "objectID": "technologien/langchain.html#zum-reinschauen",
+    "href": "technologien/langchain.html#zum-reinschauen",
+    "title": "LangChain",
+    "section": "Zum Reinschauen",
+    "text": "Zum Reinschauen\nEin kompakter Überblick von IBM Technology, was LangChain ist und wofür man es einsetzt (englisch):"
+  },
+  {
+    "objectID": "technologien/langchain.html#zum-vertiefen",
+    "href": "technologien/langchain.html#zum-vertiefen",
+    "title": "LangChain",
+    "section": "Zum Vertiefen",
+    "text": "Zum Vertiefen\n\nLangChain-Dokumentation\nLangGraph (Agenten-Framework aus dem LangChain-Ökosystem)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Projekte",
@@ -663,5 +411,257 @@
     "title": "Projekte",
     "section": "Frühere Projekte",
     "text": "Frühere Projekte\nEinen Eindruck von Themen und Arbeitsweise vermitteln die Projekte vergangener Semester."
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "",
+    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#eckdaten",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "",
+    "text": "SWS\n5\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nZoi"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#worum-es-geht",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIn diesem Projekt liegt der Fokus auf der Erforschung und Umsetzung des Potenzials von Large Language Models (z.B. GPT-4 von OpenAI) zur Automatisierung verschiedener Unternehmensaufgaben.\nInsbesondere wird untersucht, wie LLMs genutzt werden können, um Routineaufgaben wie das Verfassen von E-Mails oder die Erstellung von Berichten zu automatisieren. Ziel ist es, Produktivität und Effizienz in Unternehmen zu steigern und gleichzeitig Qualität und Konsistenz der erzeugten Inhalte zu gewährleisten.\nDas Projekt wird in Zusammenarbeit mit dem Unternehmen Zoi angeboten, das auf die Entwicklung und Beratung von KI-basierten Technologien und Anwendungen in Cloud-Umgebungen spezialisiert ist."
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#themenschwerpunkte",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nLarge Language Models\nKI-gestützte Unternehmensanwendungen\nEntwicklung von Prototypen in einer Cloud-Umgebung"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#technologien",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Technologien",
+    "text": "Technologien\n\nOpenAI API\nPython\nCloud-Umgebungen"
+  },
+  {
+    "objectID": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
+    "href": "projekte/archiv/llm-unternehmensanwendungen.html#voraussetzungen",
+    "title": "Einsatz von Large Language Models (LLMs)",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Technologien\nGrundkenntnisse in Python sind hilfreich"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html",
+    "href": "projekte/archiv/data-science-mlops.html",
+    "title": "Data Science & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nDaimler AG (heute Mercedes-Benz Group)"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#eckdaten",
+    "href": "projekte/archiv/data-science-mlops.html#eckdaten",
+    "title": "Data Science & MLOps",
+    "section": "",
+    "text": "Modul-Nr.\n338025-338027\n\n\nSWS/ECTS\n5/10\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nProjektpartner\nDaimler AG (heute Mercedes-Benz Group)"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#worum-es-geht",
+    "href": "projekte/archiv/data-science-mlops.html#worum-es-geht",
+    "title": "Data Science & MLOps",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIm Rahmen des Projekts werden unterschiedliche Data-Science-Anwendungsfälle (z.B. Regression, Zeitreihenanalyse, Klassifikation) in Python implementiert.\nDabei kommen Komponenten der Disziplin Machine Learning Operations (MLOps) zum Einsatz, etwa die Automatisierung von Data Pipelines und automatisiertes Modelltraining."
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
+    "href": "projekte/archiv/data-science-mlops.html#themenschwerpunkte",
+    "title": "Data Science & MLOps",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nData Science und Data Engineering\nPython\nMachine Learning Operations"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#technologien",
+    "href": "projekte/archiv/data-science-mlops.html#technologien",
+    "title": "Data Science & MLOps",
+    "section": "Technologien",
+    "text": "Technologien\n\nPython\nTensorFlow Extended (TFX)"
+  },
+  {
+    "objectID": "projekte/archiv/data-science-mlops.html#voraussetzungen",
+    "href": "projekte/archiv/data-science-mlops.html#voraussetzungen",
+    "title": "Data Science & MLOps",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Programmierung\nInteresse an neuen Technologien"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html",
+    "href": "projekte/archiv/agentic-ai-business-applications.html",
+    "title": "Agentic AI in Business Applications",
+    "section": "",
+    "text": "Angeboten im Wintersemester 2025/26."
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html#eckdaten",
+    "href": "projekte/archiv/agentic-ai-business-applications.html#eckdaten",
+    "title": "Agentic AI in Business Applications",
+    "section": "Eckdaten",
+    "text": "Eckdaten\n\n\n\n\nArt\nFachspezifisches Projekt IT (338010-338014, 338064-338068)\n\n\nSWS\n3\n\n\nSemester\nab 6\n\n\nPrüfungsform\nKMP\n\n\nKickoff\n29.09.-30.09. (Teilnahme erforderlich)"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html#worum-es-geht",
+    "href": "projekte/archiv/agentic-ai-business-applications.html#worum-es-geht",
+    "title": "Agentic AI in Business Applications",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIn diesem Projekt werden Agentic-AI-Prototypen für betriebswirtschaftliche Anwendungen mit Hilfe von Googles Infrastruktur entwickelt, etwa mit Vertex AI, Googles Agent Development Kit, Google Agentspace und Google Cloud.\nZiel ist es, zu erforschen, wie Agentic AI genutzt werden kann, um produktive, interaktive Softwarelösungen zu gestalten, beispielsweise für Wissensmanagement, Controlling, Reporting, Prozessautomatisierung oder interne Assistenzsysteme.\nIm Zentrum stehen die Entwicklung vollständiger Webanwendungen mit Frontend und Backend sowie die Einbindung von Agentic AI zur Automatisierung intelligenter Workflows."
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html#themenschwerpunkte",
+    "href": "projekte/archiv/agentic-ai-business-applications.html#themenschwerpunkte",
+    "title": "Agentic AI in Business Applications",
+    "section": "Themenschwerpunkte",
+    "text": "Themenschwerpunkte\n\nAgentic AI\nGoogle Cloud\nFrontendentwicklung\nEntwicklung von Prototypen"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html#technologien",
+    "href": "projekte/archiv/agentic-ai-business-applications.html#technologien",
+    "title": "Agentic AI in Business Applications",
+    "section": "Technologien",
+    "text": "Technologien\n\nVertex AI\nGoogle Agent Development Kit (ADK)\nGoogle Agentspace\nGoogle Cloud\nFrontend: React, Next.js oder Gradio"
+  },
+  {
+    "objectID": "projekte/archiv/agentic-ai-business-applications.html#voraussetzungen",
+    "href": "projekte/archiv/agentic-ai-business-applications.html#voraussetzungen",
+    "title": "Agentic AI in Business Applications",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nAffinität für Cloud-Technologien\nKenntnisse in Python"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "",
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "",
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nZiel des Projekts ist es, Potenziale von Agentic AI für datengetriebenes Growth Marketing aufzuzeigen und praxisnah nutzbar zu machen.\nDazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige Prototypen entwickelt, die Aufgaben wie Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking agentenbasiert unterstützen oder automatisieren.\nDer Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und CRM-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität.\nSie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, KI-Lösungen ideal für Marketing und Vertrieb einzurichten, also Agenten zu konfigurieren, sie mit Skills, Anweisungen und Wissensquellen auszustatten und in bestehende Prozesse einzubinden."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-bringt-es-mir",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-bringt-es-mir",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Was bringt es mir?",
+    "text": "Was bringt es mir?\nMarketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.\nWie stark KI das Marketing gerade verändert, zeigt HubSpots Überblick auf Basis des aktuellen State-of-Marketing-Reports (englisch):"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-projektpartner-sima.ai",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-projektpartner-sima.ai",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Der Projektpartner: SiMa.ai",
+    "text": "Der Projektpartner: SiMa.ai\nSiMa.ai ist ein KI-Chip-Unternehmen aus dem Silicon Valley: Es entwickelt spezialisierte Chips samt Software, mit denen KI-Anwendungen direkt auf Geräten laufen (Edge AI), etwa in Industrie, Robotik und Fahrzeugen. Das europäische Büro sitzt in Stuttgart, von dort aus wird der europäische Markt aufgebaut.\nGenau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produkt in einem jungen Markt. Sie arbeiten an realen Kampagnen mit den Werkzeugen des Unternehmens und stellen Ihre Ergebnisse direkt im Stuttgarter Office vor."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#ablauf-im-semester",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Ablauf im Semester",
+    "text": "Ablauf im Semester\n\n4 Blocktage vor Beginn der Vorlesungszeit: Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.\nWöchentliche Termine während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.\nAm Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ki-werkzeuge",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#ki-werkzeuge",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "KI-Werkzeuge",
+    "text": "KI-Werkzeuge\nSie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzbar sind:\n\nKI-Lösungen wie Claude Code und Gemini: Sie lernen, diese Agenten richtig einzurichten, mit Skills, Anweisungen und Wissensquellen, damit sie Recherche-, Content- und Analyseaufgaben zuverlässig übernehmen\nn8n: automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code\nMarketing-Stack: Anbindung an CRM- und Marketing-Tools\n\nSie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#voraussetzungen",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nInteresse an Marketing, Vertrieb und datengetriebenen Prozessen\nAffinität für neue Technologien; Programmierkenntnisse sind nicht erforderlich\nBereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#was-sie-lernen",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Was Sie lernen",
+    "text": "Was Sie lernen\n\nGrowth-Marketing-Prozesse (Leads, Funnel, Conversion) verstehen und KI-Einsatzpotenziale bewerten\nKI-Lösungen wie Claude Code und Gemini für Marketing und Vertrieb einrichten: Agenten konfigurieren, Skills anlegen, Wissensquellen anbinden\nMarketing-Workflows mit n8n automatisieren\nWirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)\nErgebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren"
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#bewerbung-und-kontakt",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Bewerbung und Kontakt",
+    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "",
+    "text": "Sprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz\n\n\n\n\nDie formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt."
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "",
+    "text": "Sprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz\n\n\n\n\nDie formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt."
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Worum es geht",
+    "text": "Worum es geht\nIn diesem Projekt wird Agentic AI nicht bei einem externen Unternehmen erprobt, sondern an der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir versuchsweise, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.\nSie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt."
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#was-bringt-es-mir",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#was-bringt-es-mir",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Was bringt es mir?",
+    "text": "Was bringt es mir?\nVerwaltung ist eines der größten Anwendungsfelder für KI überhaupt, von Hochschulen über Behörden bis zu den Verwaltungsabteilungen jedes Unternehmens. In diesem Projekt lernen Sie den kompletten Weg: aus echten Prozessen Use Cases ableiten, mit den Fachleuten priorisieren, Prototypen bauen und die Ergebnisse bewerten. Und Sie sehen die Wirkung direkt, denn es geht um die Prozesse Ihrer eigenen Hochschule."
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#mögliche-themenfelder",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#mögliche-themenfelder",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Mögliche Themenfelder",
+    "text": "Mögliche Themenfelder\nDie konkreten Use Cases werden zum Projektstart gemeinsam mit der Verwaltung festgelegt. Typische Kandidaten in der Hochschulverwaltung sind zum Beispiel:\n\nBeantwortung wiederkehrender Anfragen von Studierenden und Mitarbeitenden\nInterne Wissenssuche über Ordnungen, Formulare und Dokumentationen\nAutomatisierte Verarbeitung von Dokumenten und Formularen\nUnterstützung bei Berichten und Auswertungen"
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#technologien-und-frameworks",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#technologien-und-frameworks",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Technologien und Frameworks",
+    "text": "Technologien und Frameworks\nDer Technologie-Stack wird passend zu den ausgewählten Use Cases festgelegt. Voraussichtlich arbeiten Sie mit:\n\nLLM-APIs: Sprachmodelle als Kern der Anwendungen\nn8n: Workflow-Automatisierung für Verwaltungsprozesse\nLangChain: Wissenssuche und quellenbasierte Antworten (RAG)\nPython für die Prototyp-Entwicklung\n\nSie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt im Projekt."
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#voraussetzungen",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#voraussetzungen",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Voraussetzungen",
+    "text": "Voraussetzungen\n\nInteresse an KI-Anwendungen und an der Frage, wie Organisationen wirklich arbeiten\nBereitschaft, mit Verwaltungsmitarbeitenden Anforderungen zu erheben und Lösungen abzustimmen\nGrundkenntnisse in Python sind hilfreich, aber keine Bedingung"
+  },
+  {
+    "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#bewerbung-und-kontakt",
+    "href": "projekte/ws-2026/ki-hochschulverwaltung.html#bewerbung-und-kontakt",
+    "title": "KI in der Hochschulverwaltung",
+    "section": "Bewerbung und Kontakt",
+    "text": "Bewerbung und Kontakt\nDie Vorstellung der Projekte und die Platzvergabe laufen über den Moodle-Kurs der Fakultät. Bei Fragen vorab: kirenz@hdm-stuttgart.de"
   }
 ]
