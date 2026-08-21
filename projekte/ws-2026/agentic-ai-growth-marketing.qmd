@@ -22,13 +22,13 @@ Dazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige [Pro
 
 Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und [CRM](../../glossar.qmd#crm){.glossar}-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität.
 
-Im Vordergrund steht dabei das Marketingverständnis, nicht die Programmierung: Sie lernen, moderne KI-Werkzeuge gezielt für Marketingziele einzusetzen, Software entwickeln müssen Sie dafür nicht.
+Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, KI-Lösungen ideal für Marketing und Vertrieb einzurichten, also Agenten zu konfigurieren, sie mit Skills, Anweisungen und Wissensquellen auszustatten und in bestehende Prozesse einzubinden.
 
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
 ## Was bringt es mir?
 
-Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und den gezielten Einsatz von KI-Werkzeugen. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
+Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
 
 ## Ablauf im Semester
 
@@ -40,7 +40,7 @@ Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am
 
 Sie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzbar sind:
 
-- **KI-Lösungen wie [Claude Code](https://claude.com/claude-code) und [Gemini](https://gemini.google.com/):** erledigen Recherche-, Content- und Analyseaufgaben eigenständig und bauen bei Bedarf kleine Anwendungen, ohne dass Sie selbst programmieren müssen
+- **KI-Lösungen wie [Claude Code](https://claude.com/claude-code) und [Gemini](https://gemini.google.com/):** Sie lernen, diese Agenten richtig einzurichten, mit Skills, Anweisungen und Wissensquellen, damit sie Recherche-, Content- und Analyseaufgaben zuverlässig übernehmen
 - **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code
 - **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools
 
@@ -55,7 +55,7 @@ Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt i
 ## Was Sie lernen
 
 - Growth-Marketing-Prozesse (Leads, Funnel, Conversion) verstehen und KI-Einsatzpotenziale bewerten
-- Mit KI-Lösungen wie Claude Code und Gemini Marketingaufgaben eigenständig umsetzen
+- KI-Lösungen wie Claude Code und Gemini für Marketing und Vertrieb einrichten: Agenten konfigurieren, Skills anlegen, Wissensquellen anbinden
 - Marketing-Workflows mit n8n automatisieren
 - Wirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)
 - Ergebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren
