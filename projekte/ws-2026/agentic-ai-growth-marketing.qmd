@@ -26,7 +26,7 @@ Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, K
 
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
-## Was bringt es mir?
+## Warum sich das Projekt lohnt
 
 Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, [Funnel](../../glossar.qmd#funnel){.glossar}, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
 

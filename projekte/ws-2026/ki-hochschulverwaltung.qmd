@@ -22,7 +22,7 @@ Sie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, pri
 
 ![](images/ki-verwaltung-ablauf.webp){.infografik fig-alt="Infografik: Projektablauf in vier Schritten. Use Cases identifizieren gemeinsam mit der Verwaltung, Priorisieren nach Nutzen und Machbarkeit, Prototypen entwickeln mit passenden KI-Werkzeugen, Erproben und Empfehlen."}
 
-## Was bringt es mir?
+## Warum sich das Projekt lohnt
 
 Verwaltung ist eines der größten Anwendungsfelder für KI überhaupt, von Hochschulen über Behörden bis zu den Verwaltungsabteilungen jedes Unternehmens. In diesem Projekt lernen Sie den kompletten Weg: aus echten Prozessen Use Cases ableiten, mit den Fachleuten priorisieren, [Prototypen](../../glossar.qmd#prototyp){.glossar} bauen und die Ergebnisse bewerten. Diese Fähigkeiten, KI-Potenziale erkennen, bewerten und in funktionierende Lösungen übersetzen, sind in jeder Organisation gefragt, ob Behörde, Konzern oder Start-up.
 
