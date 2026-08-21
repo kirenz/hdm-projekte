@@ -19,6 +19,12 @@ Große Sprachmodelle wie Claude (Anthropic), GPT (OpenAI) oder Gemini (Google) l
 
 Die Modelle bilden den Kern der Agenten: Sie extrahieren Informationen aus Dokumenten, beantworten Fragen auf Basis der Wissensbasis und begründen ihre Vorschläge mit Quellen.
 
+## Zum Reinschauen
+
+Anthropics Applied-AI-Team zeigt in „Prompting 101", wie aus einem einfachen Prompt eine produktionsreife Lösung wird (englisch):
+
+{{< video https://www.youtube.com/watch?v=ysPbXH0LpIE >}}
+
 ## Zum Vertiefen
 
 - [Anthropic-Dokumentation](https://docs.anthropic.com/)

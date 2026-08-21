@@ -19,6 +19,12 @@ LangChain ist ein Open-Source-Framework für Python, mit dem sich Anwendungen ru
 
 Typische Aufgaben sind das Einlesen und Strukturieren von Dokumenten, der Aufbau einer durchsuchbaren Wissensbasis (RAG) und Agenten, die ihre Antworten transparent auf Quellen zurückführen.
 
+## Zum Reinschauen
+
+Ein kompakter Überblick von IBM Technology, was LangChain ist und wofür man es einsetzt (englisch):
+
+{{< video https://www.youtube.com/watch?v=1bUy-1hGZpI >}}
+
 ## Zum Vertiefen
 
 - [LangChain-Dokumentation](https://python.langchain.com/docs/introduction/)

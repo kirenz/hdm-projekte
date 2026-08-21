@@ -19,6 +19,12 @@ n8n ist ein Open-Source-Werkzeug für Workflow-Automatisierung. Sie bauen Abläu
 
 Typische Aufgaben sind Dokumenten-Pipelines (Dateien automatisch einlesen und verarbeiten), die Anbindung von Datenquellen und die Orchestrierung von KI-Agenten in einen durchgängigen Ablauf.
 
+## Zum Reinschauen
+
+Der offizielle Quick-Start von n8n zeigt in wenigen Minuten, wie ein erster Workflow entsteht (englisch):
+
+{{< video https://www.youtube.com/watch?v=4cQWJViybAQ >}}
+
 ## Zum Vertiefen
 
 - [n8n-Dokumentation](https://docs.n8n.io/)

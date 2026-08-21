@@ -50,7 +50,9 @@ Sie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzb
 - **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code
 - **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools
 
-Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
+Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen. Einen Eindruck von Claude Code gibt dieses offizielle Anthropic-Video (englisch):
+
+{{< video https://www.youtube.com/watch?v=6eBSHbLKuN0 >}}
 
 ## Voraussetzungen
 
