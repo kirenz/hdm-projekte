@@ -7,12 +7,13 @@ title: "KI in der Verwaltung"
 ::: {.eckdaten}
 | | |
 |---|---|
+| **Art** | folgt |
+| **SWS** | folgt |
+| **Kategorie** | folgt |
 | **Sprache** | Deutsch |
 | **Projektpartner** | Hochschulverwaltung der HdM |
 | **Betreuung** | [Prof. Dr. Stephan Wilczek](https://hdm-stuttgart.de/person/wilczek/), [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
-
-Die formalen Eckdaten (Projektart, SWS, Module) werden mit der offiziellen Anmeldung ergänzt.
 
 ## Worum es geht
 
