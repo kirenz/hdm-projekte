@@ -30,6 +30,12 @@ Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, K
 
 Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
 
+## Der Projektpartner: SiMa.ai
+
+[SiMa.ai](https://sima.ai/) ist ein KI-Chip-Unternehmen aus dem Silicon Valley: Es entwickelt spezialisierte Chips samt Software, mit denen KI-Anwendungen direkt auf Geräten laufen (Edge AI), etwa in Industrie, Robotik und Fahrzeugen. Das europäische Büro sitzt in Stuttgart, von dort aus wird der europäische Markt aufgebaut.
+
+Genau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produkt in einem jungen Markt. Sie arbeiten an realen Kampagnen mit den Werkzeugen des Unternehmens und stellen Ihre Ergebnisse direkt im Stuttgarter Office vor.
+
 ## Ablauf im Semester
 
 - **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
