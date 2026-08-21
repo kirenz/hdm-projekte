@@ -22,40 +22,41 @@ Dazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige [Pro
 
 Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und [CRM](../../glossar.qmd#crm){.glossar}-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, Conversion-Potenziale und Ergebnisqualität.
 
+Im Vordergrund steht dabei das Marketingverständnis, nicht die Programmierung: Sie lernen, moderne KI-Werkzeuge gezielt für Marketingziele einzusetzen, Software entwickeln müssen Sie dafür nicht.
+
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
 ## Was bringt es mir?
 
-Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und die technische Umsetzung mit Agenten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Entwicklung.
+Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, Funnel, CRM) und den gezielten Einsatz von KI-Werkzeugen. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
 
 ## Ablauf im Semester
 
-- **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.
+- **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
 - **Wöchentliche Termine** während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
 
-## Technologien und Frameworks
+## KI-Werkzeuge
 
-Womit Sie voraussichtlich arbeiten werden:
+Sie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzbar sind:
 
-- **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack
-- **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Basis der Agenten
-- **[LangChain](../../technologien/langchain.qmd)** oder vergleichbare Agent-Frameworks
-- **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools über APIs und Webhooks
-- **[Python](../../technologien/python.qmd)** für die Prototyp-Entwicklung
+- **KI-Lösungen wie [Claude Code](https://claude.com/claude-code) und [Gemini](https://gemini.google.com/):** erledigen Recherche-, Content- und Analyseaufgaben eigenständig und bauen bei Bedarf kleine Anwendungen, ohne dass Sie selbst programmieren müssen
+- **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code
+- **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools
 
 Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
 
 ## Voraussetzungen
 
 - Interesse an Marketing, Vertrieb und datengetriebenen Prozessen
-- Affinität für neue Technologien; Grundkenntnisse in Python sind hilfreich, aber keine Bedingung
+- Affinität für neue Technologien; Programmierkenntnisse sind nicht erforderlich
 - Bereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner
 
 ## Was Sie lernen
 
-- Agentenbasierte KI-Systeme für Marketing- und Vertriebsprozesse konzipieren und prototypisch umsetzen
-- LLM-APIs, Agent-Frameworks und Automatisierungstools praktisch einsetzen
+- Growth-Marketing-Prozesse (Leads, Funnel, Conversion) verstehen und KI-Einsatzpotenziale bewerten
+- Mit KI-Lösungen wie Claude Code und Gemini Marketingaufgaben eigenständig umsetzen
+- Marketing-Workflows mit n8n automatisieren
 - Wirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)
 - Ergebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren
 
