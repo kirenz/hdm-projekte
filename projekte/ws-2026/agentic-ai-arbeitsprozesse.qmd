@@ -61,12 +61,12 @@ Womit Sie arbeiten werden:
 - **[LLM-APIs](../../technologien/llm-apis.qmd):** Claude oder GPT als Kern des Agenten
 - **[Python](../../technologien/python.qmd)** für die Prototyp-Entwicklung
 
-Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
+In n8n und LangChain führen wir in den Blocktagen ein; Grundkenntnisse in Python sollten Sie aber bereits mitbringen.
 
 ## Voraussetzungen
 
 - Affinität für neue Technologien und Interesse an KI-Anwendungen im Unternehmenskontext
-- Grundkenntnisse in Python sind hilfreich, aber keine Bedingung
+- Grundkenntnisse in Python
 - Bereitschaft zur Teamarbeit und zur Abstimmung mit einem Unternehmenspartner
 
 ## Was Sie lernen
