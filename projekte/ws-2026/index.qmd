@@ -3,7 +3,7 @@ title: "Wintersemester 2026/27"
 toc: false
 ---
 
-Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide zum Themenfeld Agentic AI und jeweils mit einem Unternehmenspartner. Beide starten mit vier Blocktagen vor Beginn der Vorlesungszeit und laufen dann mit wöchentlichen Terminen.
+Im Wintersemester 2026/27 gibt es drei Projekte zum Themenfeld Agentic AI: zwei mit Unternehmenspartnern und eines gemeinsam mit der Hochschulverwaltung der HdM. Details zu Inhalten, Ablauf und Technologien stehen auf den Projektseiten.
 
 ```{=html}
 <div class="card-grid">
@@ -20,6 +20,13 @@ Im Wintersemester 2026/27 biete ich zwei interdisziplinäre Projekte an, beide z
     <div class="partner">mit SiMa.ai</div>
     <p class="desc">Agenten für Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up und Performance-Tracking in Marketing-, Vertriebs- und CRM-Prozessen.</p>
     <div class="chips"><span class="chip">Agentic AI</span><span class="chip">Marketing-Stack</span><span class="chip">Automatisierung</span><span class="chip">Python</span></div>
+  </div>
+  <div class="projekt-card">
+    <div class="index-line"><span class="marker">Projekt 03</span> · mit Prof. Dr. Stephan Wilczek</div>
+    <h3><a href="ki-hochschulverwaltung.html">KI in der Hochschulverwaltung</a></h3>
+    <div class="partner">mit der HdM-Verwaltung</div>
+    <p class="desc">KI versuchsweise in Verwaltungsprozessen der eigenen Hochschule einsetzen: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.</p>
+    <div class="chips"><span class="chip">Agentic AI</span><span class="chip">Use-Case-Discovery</span><span class="chip">RAG</span><span class="chip">n8n</span></div>
   </div>
 </div>
 ```
