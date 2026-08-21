@@ -17,14 +17,32 @@ Die wichtigsten Begriffe, die auf diesen Seiten vorkommen, kurz erklärt.
 **[CRM (Customer Relationship Management)]{#crm}**
 : Software, in der Unternehmen ihre Kundenkontakte, Anfragen und Verkaufschancen verwalten, z.B. Salesforce oder HubSpot. Im Marketing-Kontext oft das zentrale System, an das andere Werkzeuge angebunden werden.
 
+**[Conversion]{#conversion}**
+: Der Moment, in dem aus einem Interessenten die gewünschte Handlung wird, z.B. eine Anmeldung, Terminbuchung oder ein Kauf. Die Conversion-Rate misst, welcher Anteil der Kontakte diesen Schritt tatsächlich geht.
+
 **[Framework]{#framework}**
 : Ein Baukasten aus fertigen Software-Bausteinen für eine bestimmte Art von Anwendung. Statt alles selbst zu programmieren, nutzt man die Bausteine und ergänzt die eigene Logik, LangChain ist z.B. ein Framework für LLM-Anwendungen.
+
+**[Funnel]{#funnel}**
+: Das Trichter-Bild für den Weg vom ersten Kontakt bis zum Abschluss: oben viele Interessenten, unten die wenigen, die kaufen. Marketingteams analysieren, an welcher Stufe sie Menschen verlieren.
+
+**[Growth Marketing]{#growth-marketing}**
+: Datengetriebenes Marketing mit Fokus auf messbarem Wachstum: Maßnahmen und Kanäle werden systematisch getestet, gemessen und ausgebaut, statt auf einzelne große Kampagnen zu setzen.
+
+**[Lead]{#lead}**
+: Ein Kontakt mit erkennbarem Interesse, z.B. jemand, der ein Whitepaper herunterlädt oder ein Webinar besucht. Leadgenerierung ist die systematische Gewinnung solcher Kontakte.
+
+**[Lead Nurturing]{#lead-nurturing}**
+: Die schrittweise Weiterentwicklung von Leads durch passende Inhalte und Kontaktpunkte, bis sie bereit für ein Verkaufsgespräch sind.
 
 **[LLM (Large Language Model)]{#llm}**
 : Ein großes Sprachmodell wie Claude, GPT oder Gemini: eine KI, die Text versteht und erzeugt und die Grundlage von Chatbots, Assistenten und Agenten bildet.
 
 **[Open Source]{#open-source}**
 : Software, deren Quellcode öffentlich ist und die frei genutzt und angepasst werden kann. Vorteil für Unternehmen: keine Lizenzkosten, volle Kontrolle, große Community.
+
+**[Performance-Tracking]{#performance-tracking}**
+: Die laufende Messung, was Marketingmaßnahmen tatsächlich bewirken (Reichweite, Klicks, Leads, Conversions), als Grundlage für Entscheidungen statt Bauchgefühl.
 
 **[Prompt]{#prompt}**
 : Die Eingabe an ein Sprachmodell, also Anweisung plus Kontext. Gute Prompts präzise zu formulieren ist ein zentraler Teil der Arbeit mit LLMs.
