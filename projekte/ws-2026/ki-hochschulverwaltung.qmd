@@ -7,9 +7,10 @@ title: "KI in der Verwaltung"
 ::: {.eckdaten}
 | | |
 |---|---|
-| **Art** | folgt |
-| **SWS** | folgt |
-| **Kategorie** | folgt |
+| **Art** | Fachspezifisches Projekt |
+| **SWS** | 3 SWS / 5 ECTS (neu: 6 ECTS) |
+| **Kategorie** | Fachperspektive Informationstechnologie (338010-338014 bzw. 338064-338068) |
+| **Termin** | Abstimmungstermin Montag, 11:45–13:15 Uhr (geplant, teilweise hybrid) |
 | **Sprache** | Deutsch |
 | **Projektpartner** | Hochschulverwaltung der HdM |
 | **Betreuung** | [Prof. Dr. Stephan Wilczek](https://hdm-stuttgart.de/person/wilczek/), [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
@@ -20,6 +21,8 @@ title: "KI in der Verwaltung"
 In diesem Projekt erproben Sie [Agentic AI](../../glossar.qmd#agentic-ai){.glossar} in der Verwaltung, am Beispiel der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.
 
 Sie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt.
+
+Eingeladen sind Studierende aller Studiengänge der Fakultät: Das Projekt bietet unterschiedliche Schwerpunkte, von der Analyse von Verwaltungsprozessen und Use-Case-Discovery bis zur technischen Umsetzung der Prototypen.
 
 ![](images/ki-verwaltung-ablauf.webp){.infografik fig-alt="Infografik: Projektablauf in vier Schritten. Use Cases identifizieren gemeinsam mit der Verwaltung, Priorisieren nach Nutzen und Machbarkeit, Prototypen entwickeln mit passenden KI-Werkzeugen, Erproben und Empfehlen."}
 
