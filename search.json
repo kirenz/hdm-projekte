@@ -4,7 +4,7 @@
     "href": "projekte/ws-2026/index.html",
     "title": "Wintersemester 2026/27",
     "section": "",
-    "text": "Im Wintersemester 2026/27 gibt es drei Projekte zum Themenfeld Agentic AI: zwei mit Unternehmenspartnern und eines gemeinsam mit der Hochschulverwaltung der HdM. Details zu Inhalten, Ablauf und Technologien stehen auf den Projektseiten.\n\n  \n    Projekt 01 · Interdisziplinär · 5 SWS\n    Agentic AI: Optimierung von Arbeitsprozessen\n    mit Mercedes-Benz\n    Preislisten- und Konfigurationsagent: Fahrzeug-Preislisten und Car Policy automatisiert einlesen, abfragbar machen und nachvollziehbare Ausstattungsvorschläge entwickeln.\n    Agentic AIn8nLangChainRAGPython\n  \n  \n    Projekt 02 · Interdisziplinär · 5 SWS\n    Agentic AI für Growth Marketing\n    mit SiMa.ai\n    Agenten für Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up und Performance-Tracking in Marketing-, Vertriebs- und CRM-Prozessen.\n    Growth MarketingAgentic AIClaude & Geminin8n\n  \n  \n    Projekt 03 · mit Prof. Dr. Stephan Wilczek\n    KI in der Verwaltung\n    mit der HdM-Verwaltung\n    KI in Verwaltungsprozessen erproben, am Beispiel der eigenen Hochschule: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.\n    Agentic AIUse-Case-DiscoveryRAGn8n"
+    "text": "Im Wintersemester 2026/27 gibt es drei Projekte zum Themenfeld Agentic AI: zwei mit Unternehmenspartnern und eines gemeinsam mit der Hochschulverwaltung der HdM. Details zu Inhalten, Ablauf und Technologien stehen auf den Projektseiten.\n\n  \n    Projekt 01 · Interdisziplinär · 5 SWS\n    Agentic AI: Optimierung von Arbeitsprozessen\n    mit Mercedes-Benz\n    Preislisten- und Konfigurationsagent: Fahrzeug-Preislisten und Car Policy automatisiert einlesen, abfragbar machen und nachvollziehbare Ausstattungsvorschläge entwickeln.\n    Agentic AIn8nLangChainRAGPython\n  \n  \n    Projekt 02 · Interdisziplinär · 5 SWS\n    Agentic AI für Growth Marketing\n    mit SiMa.ai\n    Agenten für Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up und Performance-Tracking in Marketing-, Vertriebs- und CRM-Prozessen.\n    Growth MarketingAgentic AIClaude & Geminin8n\n  \n  \n    Projekt 03 · Fachspezifisch (IT) · 3 SWS · mit Prof. Dr. Stephan Wilczek\n    KI in der Verwaltung\n    mit der HdM-Verwaltung\n    KI in Verwaltungsprozessen erproben, am Beispiel der eigenen Hochschule: Use Cases identifizieren, priorisieren, Prototypen bauen und bewerten.\n    Agentic AIUse-Case-DiscoveryRAGn8n"
   },
   {
     "objectID": "projekte/ws-2026/agentic-ai-arbeitsprozesse.html",
@@ -613,21 +613,21 @@
     "href": "projekte/ws-2026/ki-hochschulverwaltung.html",
     "title": "KI in der Verwaltung",
     "section": "",
-    "text": "Art\nfolgt\n\n\nSWS\nfolgt\n\n\nKategorie\nfolgt\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz"
+    "text": "Art\nFachspezifisches Projekt\n\n\nSWS\n3 SWS / 5 ECTS (neu: 6 ECTS)\n\n\nKategorie\nFachperspektive Informationstechnologie (338010-338014 bzw. 338064-338068)\n\n\nTermin\nAbstimmungstermin Montag, 11:45–13:15 Uhr (geplant, teilweise hybrid)\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz"
   },
   {
     "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
     "href": "projekte/ws-2026/ki-hochschulverwaltung.html#eckdaten",
     "title": "KI in der Verwaltung",
     "section": "",
-    "text": "Art\nfolgt\n\n\nSWS\nfolgt\n\n\nKategorie\nfolgt\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz"
+    "text": "Art\nFachspezifisches Projekt\n\n\nSWS\n3 SWS / 5 ECTS (neu: 6 ECTS)\n\n\nKategorie\nFachperspektive Informationstechnologie (338010-338014 bzw. 338064-338068)\n\n\nTermin\nAbstimmungstermin Montag, 11:45–13:15 Uhr (geplant, teilweise hybrid)\n\n\nSprache\nDeutsch\n\n\nProjektpartner\nHochschulverwaltung der HdM\n\n\nBetreuung\nProf. Dr. Stephan Wilczek, Prof. Dr. Jan Kirenz"
   },
   {
     "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
     "href": "projekte/ws-2026/ki-hochschulverwaltung.html#worum-es-geht",
     "title": "KI in der Verwaltung",
     "section": "Worum es geht",
-    "text": "Worum es geht\nIn diesem Projekt erproben Sie Agentic AI in der Verwaltung, am Beispiel der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.\nSie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt."
+    "text": "Worum es geht\nIn diesem Projekt erproben Sie Agentic AI in der Verwaltung, am Beispiel der eigenen Hochschule: Gemeinsam mit Bereichen der HdM-Verwaltung untersuchen wir, wo KI Verwaltungsprozesse sinnvoll unterstützen kann.\nSie identifizieren zusammen mit den Verwaltungsbereichen konkrete Use Cases, priorisieren sie und setzen ausgewählte Fälle mit passenden Technologien prototypisch um. Am Ende steht eine Bewertung, was funktioniert, was nicht, und was sich für den dauerhaften Einsatz lohnt.\nEingeladen sind Studierende aller Studiengänge der Fakultät: Das Projekt bietet unterschiedliche Schwerpunkte, von der Analyse von Verwaltungsprozessen und Use-Case-Discovery bis zur technischen Umsetzung der Prototypen."
   },
   {
     "objectID": "projekte/ws-2026/ki-hochschulverwaltung.html#berufliche-relevanz",
