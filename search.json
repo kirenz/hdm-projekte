@@ -179,14 +179,14 @@
     "href": "projekte/ws-2026/agentic-ai-growth-marketing.html",
     "title": "Agentic AI für Growth Marketing",
     "section": "",
-    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBlocktage\n21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben)\n\n\nWöchentlicher Termin\nDienstag, 08:15 bis 09:45 Uhr, Raum I008\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nPrüfungsform\nKombinierte Modulprüfung (KMP) mit Vorprüfungsleistung\n\n\nProjektpartner\nSiMa.ai\n\n\nBlocktage\n21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben)\n\n\nWöchentlicher Termin\nDienstag, 08:15 bis 09:45 Uhr, Raum I008\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
   },
   {
     "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
     "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#eckdaten",
     "title": "Agentic AI für Growth Marketing",
     "section": "",
-    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nProjektpartner\nSiMa.ai\n\n\nBlocktage\n21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben)\n\n\nWöchentlicher Termin\nDienstag, 08:15 bis 09:45 Uhr, Raum I008\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
+    "text": "Art\nInterdisziplinäres Projekt\n\n\nSWS\n5\n\n\nKategorie\nManagement und IT (338025-338027 bzw. 338085-338087)\n\n\nPrüfungsform\nKombinierte Modulprüfung (KMP) mit Vorprüfungsleistung\n\n\nProjektpartner\nSiMa.ai\n\n\nBlocktage\n21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben)\n\n\nWöchentlicher Termin\nDienstag, 08:15 bis 09:45 Uhr, Raum I008\n\n\nBetreuung\nProf. Dr. Jan Kirenz"
   },
   {
     "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#worum-es-geht",
@@ -215,6 +215,13 @@
     "title": "Agentic AI für Growth Marketing",
     "section": "Ablauf im Semester",
     "text": "Ablauf im Semester\n\n3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr): Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.\nWöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008): Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.\nEin weiterer Blocktag im Semester: Termin wird noch bekannt gegeben.\nAm Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse."
+  },
+  {
+    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#prüfungsleistung",
+    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#prüfungsleistung",
+    "title": "Agentic AI für Growth Marketing",
+    "section": "Prüfungsleistung",
+    "text": "Prüfungsleistung\nDie Modulprüfung ist eine kombinierte Modulprüfung (KMP) mit vier Komponenten. Die Details mit Bewertungskriterien werden zum Projektstart auf der Projektseite für Teilnehmende veröffentlicht.\n\n\n\n\n\n\n\n\nKomponente\nGewicht\nTermin\n\n\n\n\nAgenten und Workflows (konfigurierte KI-Agenten mit Skills, Anweisungen und Wissensquellen, n8n-Workflows, eingebunden in den Marketing-Stack)\n40 %\nAbgabe 12.02.2027\n\n\nPlaybook und Evaluation (Anleitung für den Partner, Messdesign und Evaluationsbericht)\n30 %\nAbgabe 12.02.2027\n\n\nZwischenpräsentation\n10 %\n01.12.2026\n\n\nAbschlusspräsentation mit Live-Demo im Office des Projektpartners\n20 %\nWoche vom 26.01.2027\n\n\n\nAlle vier Komponenten werden im Team erbracht, Programmierung ist nicht erforderlich. Bewertet wird bei der Evaluation die Qualität des Messdesigns und der Interpretation, nicht die Höhe der Kampagnenergebnisse. Zusätzlich gibt es eine individuelle, unbenotete Vorprüfungsleistung: Jede:r Studierende belegt vorgegebene Online-Kurse zu KI-Grundlagen, KI-Agenten im Marketing, n8n und Inbound Marketing und erreicht im jeweiligen Abschlussquiz mindestens 80 %. Die Quizze können beliebig oft wiederholt werden. Die Kursliste wird zu den Blocktagen bekannt gegeben, Deadline ist der 17.11.2026."
   },
   {
     "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#ki-werkzeuge",
