@@ -57,7 +57,7 @@ Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen n
 
 ## Prüfungsleistung
 
-Die Modulprüfung ist eine kombinierte Modulprüfung (KMP) mit vier Komponenten. Die Details mit Bewertungskriterien stehen im Moodle-Kurs.
+Die Modulprüfung ist eine kombinierte Modulprüfung (KMP) mit vier Komponenten. Die Details mit Bewertungskriterien werden zum Projektstart auf der Projektseite für Teilnehmende veröffentlicht.
 
 | Komponente | Gewicht | Termin |
 |---|---|---|
