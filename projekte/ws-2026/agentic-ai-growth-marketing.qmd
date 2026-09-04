@@ -40,7 +40,7 @@ Genau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produ
 
 ## Ablauf im Semester
 
-- **Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
+- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
 - **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
 
