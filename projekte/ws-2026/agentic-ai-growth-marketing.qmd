@@ -11,6 +11,8 @@ title: "Agentic AI für Growth Marketing"
 | **SWS** | 5 |
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087) |
 | **Projektpartner** | [SiMa.ai](https://sima.ai/) |
+| **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr |
+| **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
 | **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
 
@@ -38,8 +40,8 @@ Genau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produ
 
 ## Ablauf im Semester
 
-- **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
-- **Wöchentliche Termine** während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
+- **Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
+- **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
 
 ## KI-Werkzeuge

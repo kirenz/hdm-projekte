@@ -12,6 +12,8 @@ title: "Agentic AI: Optimierung von Arbeitsprozessen"
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087) |
 | **Sprache** | Deutsch |
 | **Projektpartner** | [Mercedes-Benz](https://www.mercedes-benz.com/) |
+| **Blocktage** | 28. September bis 1. Oktober 2026, jeweils 09:00 bis 17:00 Uhr |
+| **Wöchentlicher Termin** | Dienstag, 11:45 bis 13:15 Uhr, Raum I010 |
 | **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
 
@@ -48,8 +50,8 @@ Ziel ist es zu bewerten, ob sich statische Preislisten und Regelwerke in einen n
 
 ## Ablauf im Semester
 
-- **4 Blocktage vor Beginn der Vorlesungszeit:** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.
-- **Wöchentliche Termine** während der Vorlesungszeit: Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
+- **4 Blocktage vor Beginn der Vorlesungszeit (28. September bis 1. Oktober 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI, die verwendeten Frameworks und die Aufgabenstellung des Partners.
+- **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 11:45 bis 13:15 Uhr, Raum I010):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
 
 ## Technologien und Frameworks

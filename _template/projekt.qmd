@@ -20,6 +20,8 @@ Nicht zutreffende Abschnitte löschen.
 | **Prüfungsform** | KMP / PP |
 | **Projektpartner** | Unternehmen (mit Link, keine Personennamen) |
 | **Teamgröße** | z.B. 3-5 Studierende |
+| **Blocktage** | z.B. 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr |
+| **Wöchentlicher Termin** | z.B. Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
 :::
 
 ## Worum es geht
