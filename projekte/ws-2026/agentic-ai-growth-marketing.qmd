@@ -10,6 +10,7 @@ title: "Agentic AI für Growth Marketing"
 | **Art** | Interdisziplinäres Projekt |
 | **SWS** | 5 |
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087) |
+| **Prüfungsform** | Kombinierte Modulprüfung (KMP) mit Vorprüfungsleistung |
 | **Projektpartner** | [SiMa.ai](https://sima.ai/) |
 | **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
 | **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
@@ -44,6 +45,19 @@ Genau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produ
 - **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - **Ein weiterer Blocktag im Semester:** Termin wird noch bekannt gegeben.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
+
+## Prüfungsleistung
+
+Die Modulprüfung ist eine kombinierte Modulprüfung (KMP) mit vier Komponenten. Die Details mit Bewertungskriterien werden zum Projektstart auf der Projektseite für Teilnehmende veröffentlicht.
+
+| Komponente | Gewicht | Termin |
+|---|---|---|
+| Agenten und Workflows (konfigurierte KI-Agenten mit Skills, Anweisungen und Wissensquellen, n8n-Workflows, eingebunden in den Marketing-Stack) | 40 % | Abgabe 12.02.2027 |
+| Playbook und Evaluation (Anleitung für den Partner, Messdesign und Evaluationsbericht) | 30 % | Abgabe 12.02.2027 |
+| Zwischenpräsentation | 10 % | 01.12.2026 |
+| Abschlusspräsentation mit Live-Demo im Office des Projektpartners | 20 % | Woche vom 26.01.2027 |
+
+Alle vier Komponenten werden im Team erbracht, Programmierung ist nicht erforderlich. Bewertet wird bei der Evaluation die Qualität des Messdesigns und der Interpretation, nicht die Höhe der Kampagnenergebnisse. Zusätzlich gibt es eine individuelle, unbenotete **Vorprüfungsleistung**: Jede:r Studierende belegt vorgegebene Online-Kurse zu KI-Grundlagen, KI-Agenten im Marketing, n8n und Inbound Marketing und erreicht im jeweiligen Abschlussquiz mindestens 80 %. Die Quizze können beliebig oft wiederholt werden. Die Kursliste wird zu den Blocktagen bekannt gegeben, Deadline ist der 17.11.2026.
 
 ## KI-Werkzeuge
 
