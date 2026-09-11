@@ -11,10 +11,9 @@ title: "Agentic AI für Growth Marketing"
 | **SWS** | 5 |
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087) |
 | **Prüfungsform** | Kombinierte Modulprüfung (KMP) mit Vorprüfungsleistung |
-| **Projektpartner** | [SiMa.ai](https://sima.ai/) |
 | **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
 | **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
-| **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/), Sophia Eichler (SiMa.ai) |
+| **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
 
 ## Worum es geht
@@ -32,12 +31,6 @@ Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, K
 ## Berufliche Relevanz
 
 Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, [Funnel](../../glossar.qmd#funnel){.glossar}, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
-
-## Der Projektpartner: SiMa.ai
-
-[SiMa.ai](https://sima.ai/) ist ein KI-Chip-Unternehmen aus dem Silicon Valley: Es entwickelt spezialisierte Chips samt Software, mit denen KI-Anwendungen direkt auf Geräten laufen (Edge AI), etwa in Industrie, Robotik und Fahrzeugen. Das europäische Büro sitzt in Stuttgart, von dort aus wird der europäische Markt aufgebaut.
-
-Genau hier setzt das Projekt an: Growth Marketing für ein technisches B2B-Produkt in einem jungen Markt. Sie arbeiten an realen Kampagnen mit den Werkzeugen des Unternehmens und stellen Ihre Ergebnisse direkt im Stuttgarter Office vor.
 
 ## Ablauf im Semester
 
