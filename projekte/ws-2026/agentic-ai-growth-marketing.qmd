@@ -11,7 +11,8 @@ title: "Agentic AI für Growth Marketing"
 | **SWS** | 5 |
 | **Kategorie** | Management und IT (338025-338027 bzw. 338085-338087) |
 | **Prüfungsform** | Kombinierte Modulprüfung (KMP) mit Vorprüfungsleistung |
-| **Projektpartner** | tbd |
+| **Sprache** | Deutsch; Projektinhalte und Kommunikation mit dem Partner auf Englisch |
+| **Projektpartner** | [Zoi](https://www.zoi.tech/) |
 | **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
 | **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
 | **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
@@ -29,13 +30,23 @@ Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, K
 
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
+## Der Projektpartner: Zoi
+
+[Zoi](https://www.zoi.tech/) ist ein Technologie- und Beratungsunternehmen mit Hauptsitz in Stuttgart, spezialisiert auf Cloud, Daten und KI. Rund 600 Mitarbeitende an Standorten in sieben Ländern begleiten Unternehmen, vor allem aus Handel und Fertigung, bei Cloud-Migrationen, Datenplattformen und dem Einsatz von KI-Agenten. Zoi ist Premier Partner von Google Cloud und hat nach eigenen Angaben einige der größten Rollouts von Google Workspace mit Gemini in Europa umgesetzt.
+
+## Der Praxisfall
+
+Sie arbeiten am Marketing von Zoi selbst: Zoi stellt ein anonymisiertes Angebot bereit, einen mehrmonatigen Proof of Concept, in dem Unternehmen mit Gemini Enterprise Anwendungsfälle identifizieren und produktive KI-Agenten einführen. Für dieses Angebot entwickeln die Teams eine agentenbasierte Marketing- und Vertriebsstrecke. Als Szenario dient der Markt in Großbritannien, daher entstehen alle Inhalte auf Englisch. Die Zielgruppe sind Entscheider:innen in größeren Unternehmen (Enterprise-Segment).
+
+Im Mittelpunkt stehen nicht Programmcode, sondern Playbooks, Prompts und Kontext, die unabhängig von einer bestimmten Plattform funktionieren. Die Agenten greifen dafür auf eine CRM-Testumgebung zu, deren Datenmodell sich am Standard von Salesforce orientiert. Sie arbeiten ausschließlich mit öffentlichen Informationen und Testdaten, nicht mit Systemen oder Kundendaten von Zoi.
+
 ## Berufliche Relevanz
 
 Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am schnellsten Einzug hält, entsprechend gefragt sind Leute, die beides verstehen: die Fachseite (Leads, [Funnel](../../glossar.qmd#funnel){.glossar}, CRM) und die Fähigkeit, KI dafür richtig einzurichten. Nach dem Projekt haben Sie genau diese Kombination an einem realen Fall geübt und ein konkretes Referenzprojekt für Bewerbungen, egal ob Richtung Marketing, Produktmanagement oder Beratung.
 
 ## Ablauf im Semester
 
-- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI, die verwendeten KI-Werkzeuge und die Aufgabenstellung des Partners.
+- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI und die verwendeten KI-Werkzeuge. Am Dienstag, 22. September 2026, um 10:00 Uhr stellt Zoi den Praxisfall vor Ort an der HdM vor.
 - **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
 - **Ein weiterer Blocktag im Semester:** Termin wird noch bekannt gegeben.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
