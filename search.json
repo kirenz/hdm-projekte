@@ -203,13 +203,6 @@
     "text": "Der Projektpartner: Zoi\nZoi ist ein Technologie- und Beratungsunternehmen mit Hauptsitz in Stuttgart, spezialisiert auf Cloud, Daten und KI. Rund 600 Mitarbeitende an Standorten in sieben Ländern begleiten Unternehmen, vor allem aus Handel und Fertigung, bei Cloud-Migrationen, Datenplattformen und dem Einsatz von KI-Agenten. Zoi ist Premier Partner von Google Cloud und hat nach eigenen Angaben einige der größten Rollouts von Google Workspace mit Gemini in Europa umgesetzt."
   },
   {
-    "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-praxisfall",
-    "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#der-praxisfall",
-    "title": "Agentic AI für Growth Marketing",
-    "section": "Der Praxisfall",
-    "text": "Der Praxisfall\nSie arbeiten am Marketing von Zoi selbst: Zoi stellt ein anonymisiertes Angebot bereit, einen mehrmonatigen Proof of Concept, in dem Unternehmen mit Gemini Enterprise Anwendungsfälle identifizieren und produktive KI-Agenten einführen. Für dieses Angebot entwickeln die Teams eine agentenbasierte Marketing- und Vertriebsstrecke. Als Szenario dient der Markt in Großbritannien, daher entstehen alle Inhalte auf Englisch. Die Zielgruppe sind Entscheider:innen in größeren Unternehmen (Enterprise-Segment).\nIm Mittelpunkt stehen nicht Programmcode, sondern Playbooks, Prompts und Kontext, die unabhängig von einer bestimmten Plattform funktionieren. Die Agenten greifen dafür auf eine CRM-Testumgebung zu, deren Datenmodell sich am Standard von Salesforce orientiert. Sie arbeiten ausschließlich mit öffentlichen Informationen und Testdaten, nicht mit Systemen oder Kundendaten von Zoi."
-  },
-  {
     "objectID": "projekte/ws-2026/agentic-ai-growth-marketing.html#berufliche-relevanz",
     "href": "projekte/ws-2026/agentic-ai-growth-marketing.html#berufliche-relevanz",
     "title": "Agentic AI für Growth Marketing",
