@@ -63,7 +63,7 @@ Alle vier Komponenten werden im Team erbracht, Programmierung ist nicht erforder
 
 Die Blocktage nutzen drei Bausteine:
 
-- **[ChatGPT](https://chatgpt.com/):** gemeinsame Oberfläche für textbasierte Promptübungen. Ein kostenloser Zugang genügt für die vorgesehenen Aufgaben; vorhandene Claude- oder Gemini-Zugänge können ebenfalls verwendet werden. Bezahlfunktionen sind keine Voraussetzung.
+- **[Gemini](https://gemini.google.com/):** gemeinsame Oberfläche für textbasierte Promptübungen. Ein kostenloses Google-Konto genügt für die vorgesehenen Aufgaben; vorhandene Zugänge zu ChatGPT oder Claude können ebenfalls verwendet werden. Bezahlfunktionen sind keine Voraussetzung.
 - **[n8n](../../technologien/n8n.qmd):** zentrales Werkzeug für visuelle Workflows, ab dem ersten Tag praktisch eingesetzt. Die Modellverbindung wird gesondert vorbereitet; ein Chatkonto stellt keinen API-Zugang bereit.
 - **Marketing-Stack:** spätere Anbindung an CRM- und Marketing-Werkzeuge in Testumgebungen.
 
