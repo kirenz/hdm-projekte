@@ -14,7 +14,7 @@ title: "Agentic AI für Growth Marketing"
 | **Sprache** | Deutsch; Projektinhalte und Kommunikation mit dem Partner auf Englisch |
 | **Projektpartner** | [Zoi](https://www.zoi.tech/) |
 | **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
-| **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I008 |
+| **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I010 |
 | **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
 
@@ -26,7 +26,7 @@ Dazu werden aktuelle Best-Practice-Ansätze analysiert und funktionsfähige [Pro
 
 Der Fokus liegt auf der nahtlosen Einbindung agentenbasierter KI in bestehende Marketing-, Vertriebs- und [CRM](../../glossar.qmd#crm){.glossar}-Prozesse sowie auf der Evaluation ihrer Auswirkungen auf Effizienz, Sichtbarkeit, Personalisierungsgrad, [Conversion](../../glossar.qmd#conversion){.glossar}-Potenziale und Ergebnisqualität.
 
-Sie erwerben dabei echte KI-Kompetenzen, ganz ohne Programmierung: Sie lernen, KI-Lösungen ideal für Marketing und Vertrieb einzurichten, also Agenten zu konfigurieren, sie mit Skills, Anweisungen und Wissensquellen auszustatten und in bestehende Prozesse einzubinden.
+Das Projekt verbindet fachliche Marketingentscheidungen mit der Einrichtung von KI-Workflows: Probleme eingrenzen, Hypothesen begründen, Anweisungen und Wissensquellen aufbereiten, Abläufe in n8n bauen und ihre Ergebnisse prüfen. Programmierung ist keine Voraussetzung.
 
 ![](images/growth-marketing-loop.webp){.infografik fig-alt="Infografik: KI-Agenten, integriert in Marketing-, Vertriebs- und CRM-Prozesse, unterstützen einen Kreislauf aus Leadgenerierung, Content-Erstellung, Lead Nurturing, Follow-up, Terminvereinbarung und Performance-Tracking."}
 
@@ -40,8 +40,8 @@ Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am
 
 ## Ablauf im Semester
 
-- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr):** Einführung in Agentic AI und die verwendeten KI-Werkzeuge. Am Dienstag, 22. September 2026, um 10:00 Uhr stellt Zoi den Praxisfall vor Ort an der HdM vor.
-- **Wöchentlicher Termin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I008):** Arbeitsphasen im Team, Reviews und Abstimmungen mit dem Projektpartner.
+- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr, Mittagspause 13:00 bis 14:00 Uhr):** Teambildung, Growth-Marketing-Grundlagen und ein erster n8n-Workflow ab dem ersten Tag. Der fiktive Übungsfall ist eine KI-Beratung für Marketingabteilungen. Am Dienstag, 22. September 2026, um 10:00 Uhr stellt Zoi den Praxisfall vor Ort an der HdM vor.
+- **Wöchentlicher Coachingtermin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I010):** Reviews, Rückfragen und betreute Arbeitsphasen. Eigenständige Projektarbeit außerhalb der 90 Minuten kommt hinzu. Konkrete Zwischenstände werden regelmäßig gezeigt und geprüft.
 - **Ein weiterer Blocktag im Semester:** Termin wird noch bekannt gegeben.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
 
@@ -61,13 +61,13 @@ Alle vier Komponenten werden im Team erbracht, Programmierung ist nicht erforder
 
 ## KI-Werkzeuge
 
-Sie arbeiten mit KI-Lösungen, die ohne Programmierkenntnisse produktiv einsetzbar sind:
+Die Blocktage nutzen drei Bausteine:
 
-- **KI-Lösungen wie [Claude Code](https://claude.com/claude-code) und [Gemini](https://gemini.google.com/):** Sie lernen, diese Agenten richtig einzurichten, mit Skills, Anweisungen und Wissensquellen, damit sie Recherche-, Content- und Analyseaufgaben zuverlässig übernehmen
-- **[n8n](../../technologien/n8n.qmd):** automatisiert Lead-Nurturing- und Follow-up-Strecken und verbindet die Agenten mit dem Marketing-Stack, per visuellem Baukasten statt Code
-- **Marketing-Stack:** Anbindung an CRM- und Marketing-Tools
+- **[ChatGPT](https://chatgpt.com/):** gemeinsame Oberfläche für textbasierte Promptübungen. Ein kostenloser Zugang genügt für die vorgesehenen Aufgaben; vorhandene Claude- oder Gemini-Zugänge können ebenfalls verwendet werden. Bezahlfunktionen sind keine Voraussetzung.
+- **[n8n](../../technologien/n8n.qmd):** zentrales Werkzeug für visuelle Workflows, ab dem ersten Tag praktisch eingesetzt. Die Modellverbindung wird gesondert vorbereitet; ein Chatkonto stellt keinen API-Zugang bereit.
+- **Marketing-Stack:** spätere Anbindung an CRM- und Marketing-Werkzeuge in Testumgebungen.
 
-Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt in den Blocktagen.
+Die Einführung erfolgt in den Blocktagen. Eigene Programmierung und private Bezahlabos sind nicht erforderlich. Die Teams untersuchen, wann feste Regeln, einzelne KI-Aufrufe oder begrenzte agentische Entscheidungen sinnvoll sind.
 
 ## Voraussetzungen
 
@@ -78,9 +78,9 @@ Sie müssen keines dieser Werkzeuge vorab beherrschen, die Einführung erfolgt i
 ## Was Sie lernen
 
 - Growth-Marketing-Prozesse (Leads, Funnel, Conversion) verstehen und KI-Einsatzpotenziale bewerten
-- KI-Lösungen wie Claude Code und Gemini für Marketing und Vertrieb einrichten: Agenten konfigurieren, Skills anlegen, Wissensquellen anbinden
+- KI-Aufgaben mit klaren Anweisungen, Wissensgrundlagen und Prüfkriterien beschreiben und in ausführbare Workflows übertragen
 - Marketing-Workflows mit n8n automatisieren
-- Wirkung von KI-Automatisierung messen und bewerten (Conversion, Personalisierung, Effizienz)
+- Ergebnisqualität und Arbeitsaufwand mit synthetischen Fällen prüfen und ein Messdesign für reale Marketingwirkung entwickeln
 - Ergebnisse strukturiert aufbereiten und vor einem Unternehmenspartner präsentieren
 
 ## Bewerbung und Kontakt
