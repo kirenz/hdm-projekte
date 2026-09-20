@@ -13,7 +13,7 @@ title: "Agentic AI für Growth Marketing"
 | **Prüfungsform** | Kombinierte Modulprüfung (KMP) mit Vorprüfungsleistung |
 | **Sprache** | Deutsch; Projektinhalte und Kommunikation mit dem Partner auf Englisch |
 | **Projektpartner** | [Zoi](https://www.zoi.tech/) |
-| **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
+| **Blocktage** | 21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr, Raum I010; ein weiterer Blocktag im Semester (Termin wird noch bekannt gegeben) |
 | **Wöchentlicher Termin** | Dienstag, 08:15 bis 09:45 Uhr, Raum I010 |
 | **Betreuung** | [Prof. Dr. Jan Kirenz](https://hdm-stuttgart.de/person/kirenz/) |
 :::
@@ -40,7 +40,7 @@ Marketing und Vertrieb gehören zu den Bereichen, in denen KI-Automatisierung am
 
 ## Ablauf im Semester
 
-- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr, Mittagspause 13:00 bis 14:00 Uhr):** Teambildung, Growth-Marketing-Grundlagen und ein erster n8n-Workflow ab dem ersten Tag. Der fiktive Übungsfall ist eine KI-Beratung für Marketingabteilungen. Am Dienstag, 22. September 2026, um 10:00 Uhr stellt Zoi den Praxisfall vor Ort an der HdM vor.
+- **3 Blocktage vor Beginn der Vorlesungszeit (21. bis 23. September 2026, jeweils 09:00 bis 17:00 Uhr, Mittagspause 13:00 bis 14:00 Uhr, Raum I010):** Teambildung, Growth-Marketing-Grundlagen und ein erster n8n-Workflow ab dem ersten Tag. Der fiktive Übungsfall ist eine KI-Beratung für Marketingabteilungen. Am Dienstag, 22. September 2026, um 10:00 Uhr stellt Zoi den Praxisfall vor Ort an der HdM vor.
 - **Wöchentlicher Coachingtermin während der Vorlesungszeit (Dienstag, 08:15 bis 09:45 Uhr, Raum I010):** Reviews, Rückfragen und betreute Arbeitsphasen. Eigenständige Projektarbeit außerhalb der 90 Minuten kommt hinzu. Konkrete Zwischenstände werden regelmäßig gezeigt und geprüft.
 - **Ein weiterer Blocktag im Semester:** Termin wird noch bekannt gegeben.
 - Am Semesterende präsentieren Sie Ihre Prototypen und die Evaluationsergebnisse.
