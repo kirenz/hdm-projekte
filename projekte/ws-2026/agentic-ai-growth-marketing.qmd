@@ -63,7 +63,7 @@ Alle vier Komponenten werden im Team erbracht, Programmierung ist nicht erforder
 
 Die Blocktage nutzen drei Bausteine:
 
-- **[Gemini](https://gemini.google.com/):** gemeinsame Oberfläche für textbasierte Promptübungen. Ein kostenloses Google-Konto genügt für die vorgesehenen Aufgaben; vorhandene Zugänge zu ChatGPT oder Claude können ebenfalls verwendet werden. Bezahlfunktionen sind keine Voraussetzung.
+- **[Gemini](https://gemini.google.com/):** gemeinsame Oberfläche für textbasierte Promptübungen. Ein kostenloses Google-Konto genügt für die vorgesehenen Aufgaben; vorhandene Zugänge zu ChatGPT oder Claude können ebenfalls verwendet werden. Bezahlfunktionen sind keine Voraussetzung. Sinnvoll ist trotzdem das [Studierendenangebot von Google](https://gemini.google/de/students/?hl=de): Gemini Plus ist damit ein Jahr lang kostenfrei, einlösbar bis zum 31. Dezember 2026. Für die Registrierung sind ein Berechtigungsnachweis und ein hinterlegtes Zahlungsmittel nötig; nach dem Freijahr läuft das Abo kostenpflichtig weiter, sofern es nicht vorher gekündigt wird.
 - **[n8n](../../technologien/n8n.qmd):** zentrales Werkzeug für visuelle Workflows, ab dem ersten Tag praktisch eingesetzt. Die Modellverbindung wird gesondert vorbereitet; ein Chatkonto stellt keinen API-Zugang bereit.
 - **Marketing-Stack:** spätere Anbindung an CRM- und Marketing-Werkzeuge in Testumgebungen.
 
